@@ -4,7 +4,7 @@ import os
 file_list = []
 
 for f in os.listdir("."):
-    if f.endswith(".txt"):
+    if (f.endswith(".txt") and not f.endswith("_filtered.txt")):
         file_list.append(f)
 
 for i in file_list:
