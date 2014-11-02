@@ -8,7 +8,7 @@
 <publ_place>Харків</publ_place>
 <publisher>Клуб сімейного дозвілля</publisher>
 <year>2014</year>
-<pages></pages>
+<pages>якісь сторінки</pages>
 <length></length>
 <alt_orth>0</alt_orth>
 <errors>всередині у нього - всередині в нього; разом з галичанами - разом із галичанами</errors>
