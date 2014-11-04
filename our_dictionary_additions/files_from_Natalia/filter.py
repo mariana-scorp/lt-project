@@ -4,13 +4,14 @@ import os
 file_list = []
 
 for f in os.listdir("."):
-    if (f.endswith(".txt") and not f.endswith("_filtered.txt") and not f.endswith("_new.txt")):
+    if (f.endswith(".txt") and not f.endswith("_filtered.txt") and not "_new" in f):
         file_list.append(f)
 
 for i in file_list:
+    name = i
     f = open(i, "r")
-    f1 = open(i[:-4] + "_filtered.txt", "w")
     wordlist = []
+    multi = []
     for line in f.readlines():
         if (u"\ ".encode("utf-8") not in line):
             apostrophe = line.find("\"")
@@ -19,11 +20,22 @@ for i in file_list:
                 wordlist.append(word)
             else:
                 wordlist.append(line)
+        else:
+            multi.append(line)
 
-    wordlist = set(wordlist)
-    wordlist = sorted(wordlist)
-    for i in wordlist:
-        f1.write(i)
-
+    if (len(wordlist) > 0):
+        wordlist = set(wordlist)
+        wordlist = sorted(wordlist)
+        f1 = open(name[:-4] + "_filtered.txt", "w")
+        for j in wordlist:
+            f1.write(j)
+        f1.close()
+    if (len(multi) > 0):
+        multi = set(multi)
+        multi = sorted(multi)
+        f2 = open(name[:-4] + "_multi.txt", "w")
+        for j in multi:
+            f2.write(j)
+        f2.close()
     f.close()
-    f1.close()
+    
