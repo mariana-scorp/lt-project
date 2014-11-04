@@ -89,12 +89,10 @@ if __name__ == '__main__':
         out = open(i[:-4] + "_reversed.txt", "w")
         lines = f.readlines()
         f.close()
-        temp = lines[0].decode("utf-8")[1:-1]
-        wordlist.append(Word(temp.encode("utf-8")))
 
         print "File read and closed."
 
-        for i in lines[1:]:
+        for i in lines:
             temp = Word(i[:-1])
             wordlist.append(temp)
 
