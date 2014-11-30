@@ -1,4 +1,4 @@
-<id></id>
+<id>I</id>
 <author_surname>Гербіш</author_surname>
 <author_name>Надійка</author_name>
 <title>Теплі історії до шоколаду</title>
