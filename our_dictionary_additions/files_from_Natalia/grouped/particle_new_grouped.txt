@@ -1,0 +1,31 @@
+//particle
+ге part|excl
+се part
+осе part
+отсе part
+таж part
+так-таки part
+ачей part
+так-так part|excl
+всього-на-всього part
+усього-на-всього part
+но part|excl
+онно part
+оно part
+так-то part|adv
+то-то part
+отто part
+осісьо part
+угу part
+чень part
+помісь part
+хоть part
+хотя part
+
+//subordinate conjunction
+таж conj:subord
+помісь conj:subord
+хоть conj:subord
+
+//noun:f
+помісь/a
