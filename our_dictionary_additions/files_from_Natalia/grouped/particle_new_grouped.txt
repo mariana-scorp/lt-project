@@ -26,6 +26,3 @@
 таж conj:subord
 помісь conj:subord
 хоть conj:subord
-
-//noun:f
-помісь/a
