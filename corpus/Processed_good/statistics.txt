@@ -1,0 +1,10 @@
+Category	Number of words
+A       	2334
+B       	1307
+C       	467
+D       	5635
+E       	0
+F       	0
+G       	466
+H       	0
+I       	14768
