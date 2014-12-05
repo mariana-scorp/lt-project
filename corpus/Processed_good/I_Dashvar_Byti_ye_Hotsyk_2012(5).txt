@@ -11,7 +11,7 @@
 <pages>38-44</pages>
 <length>1627</length>
 <alt_orth>0</alt_orth>
-<errors>причому - і</errors>
+<errors>тебе і ім’я - тебе й ім’я; мети у Ілії - мети в Ілії; причому - і</errors>
 <comments></comments>
 <body>
 Ілія розплющив очі, роззирнувся.
