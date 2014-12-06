@@ -1,6 +1,7 @@
 import os
 
 CATS = "ABCDEFGHI"
+FRACTIONS = {"A": 25, "B": 3, "C": 7, "D": 7, "E": 3, "F": 5, "G": 10, "H": 15, "I": 25}
 
 categories = dict()
 for cat in CATS:
@@ -20,7 +21,11 @@ for name in os.listdir("."):
         f.close()
 
 f = open("statistics.txt", "w")
-f.write("Category\tNumber of words\n")
+f.write("Category\tFraction\t# of collected words\t# of words to collect\n")
 for cat in CATS:
-    f.write(cat + "       \t" + str(categories[cat]) + "\n")
+    s = "%-8s\t%-8s\t%-20s\t%s\n" % (cat, str(FRACTIONS[cat]) + "%",
+                                     str(categories[cat]),
+                                     str(int(1000000 / (1.0 * FRACTIONS[cat])
+                                          - categories[cat])))
+    f.write(s)
 f.close()

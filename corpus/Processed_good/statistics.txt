@@ -1,10 +1,10 @@
-Category	Number of words
-A       	2334
-B       	1307
-C       	467
-D       	5635
-E       	0
-F       	0
-G       	466
-H       	0
-I       	14768
+Category	Fraction	# of collected words	# of words to collect
+A       	25%     	2334                	37666
+B       	3%      	1307                	332026
+C       	7%      	467                 	142390
+D       	7%      	5635                	137222
+E       	3%      	0                   	333333
+F       	5%      	0                   	200000
+G       	10%     	466                 	99534
+H       	15%     	0                   	66666
+I       	25%     	14768               	25232
