@@ -25,7 +25,7 @@ f.write("Category\tFraction\t# of collected words\t# of words to collect\n")
 for cat in CATS:
     s = "%-8s\t%-8s\t%-20s\t%s\n" % (cat, str(FRACTIONS[cat]) + "%",
                                      str(categories[cat]),
-                                     str(int(1000000 / (1.0 * FRACTIONS[cat])
+                                     str(int(10000 * FRACTIONS[cat]
                                           - categories[cat])))
     f.write(s)
 f.close()
