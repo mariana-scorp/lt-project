@@ -1,0 +1,24 @@
+ув ув prep:rv_zna:rv_mis:rv_rod
+з-між з-між prep:rv_rod
+ві ві prep:rv_zna:rv_mis
+звиш звиш prep:rv_rod:rv_zna:dial
+поконець поконець prep:rv_rod:dial
+межи межи prep:rv_oru:rv_rod:rv_zna
+помежи помежи prep:rv_oru:rv_rod:rv_zna
+пред пред prep:rv_oru:rv_zna
+передо передо prep:rv_oru:rv_zna
+предо предо prep:rv_oru:rv_zna
+підо підо prep:rv_oru:rv_zna 
+во во prep:rv_zna:rv_mis:obs
+вколо вколо prep:rv_rod
+поуз поуз prep:rv_rod:rv_zna:coll
+попроз попроз prep:rv_zna:dial:coll
+зверх зверх prep:rv_rod:dial:coll
+намість намість prep:rv_rod:dial:coll
+помимо помимо prep:rv_rod:obs
+
+уздогін уздогін adv
+вколо вколо adv
+з-позаду з-позаду adv
+зверх зверх adv
+намість намість adv
