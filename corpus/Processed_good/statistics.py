@@ -22,10 +22,14 @@ for name in os.listdir("."):
 
 f = open("statistics.txt", "w")
 f.write("Category\tFraction\t# of collected words\t# of words to collect\n")
+all_cats = 0
 for cat in CATS:
     s = "%-8s\t%-8s\t%-20s\t%s\n" % (cat, str(FRACTIONS[cat]) + "%",
                                      str(categories[cat]),
                                      str(int(10000 * FRACTIONS[cat]
                                           - categories[cat])))
+    all_cats += categories[cat]
     f.write(s)
+f.write("%-8s\t%-8s\t%-20s\t%s\n" % ("All", "100%", str(all_cats),
+                                     str(1000000 - all_cats)))
 f.close()
