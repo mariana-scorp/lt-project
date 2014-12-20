@@ -1,4 +1,4 @@
-﻿ФІБА ФІБА noun:f:nv:abbr
+ФІБА ФІБА noun:f:nv:abbr
 МБА МБА noun:m:nv:abbr
 НБА НБА noun:f:nv:abbr
 УГА УГА noun:f:nv:abbr
