@@ -10,7 +10,7 @@
 <year>2014</year>
 <pages></pages>
 <length>1123</length>
-<alt_orth>1</alt_orth>
+<alt_orth>0</alt_orth>
 <errors>поближче - ближче; з балкону - з балкона; звелено - велено;  біблійські - біблейські;  урвисько - ?; начало - ?; про дідуха - про дідух</errors>
 <comments></comments>
 
