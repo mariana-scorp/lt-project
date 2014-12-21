@@ -1,6 +1,6 @@
 <id>I</id>
 <author_surname>Санченко</author_surname>
-<author_name>Антон</author_name> - ім’я автора
+<author_name>Антон</author_name>
 <title>Левантійські_канікули</title>
 <publ_in></publ_in>
 <url></url> 
@@ -8,7 +8,7 @@
 <publ_place>Київ</publ_place>
 <publisher>Темпора</publisher>
 <year>2014</year> 
-<pages>215-223-</pages> 
+<pages>215-223</pages> 
 <length>1923</length>
 <alt_orth>0</alt_orth>
 <errors>більше_чотирьохсот -  понад_чотириста; вже_не_поймеш - вже_не_зрозумієш;  фейсбуці -  Фейсбуці; пилососів - пилосмоків, металобрухт - брухт; да - так</errors>
