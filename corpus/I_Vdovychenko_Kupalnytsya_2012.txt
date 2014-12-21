@@ -10,8 +10,8 @@
 <year>2012</year>
 <pages>56</pages>
 <length>1089</length>
-<alt_orth></alt_orth>
-<errors>  'сяючу - осяяну';'у порівнянні - порівнюючи з' </errors>
+<alt_orth>0</alt_orth>
+<errors>  сяючу - осяяну; у порівнянні - порівнюючи з; автобусі і одного разу - автобусі й одного разу </errors>
 <comments></comments>
 <body>
 * * *
