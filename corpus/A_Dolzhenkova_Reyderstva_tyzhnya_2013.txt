@@ -1,7 +1,7 @@
 <id>A</id>
 <author_surname>Долженкова</author_surname>
 <author_name>Інна</author_name>
-<title>Рейдерства_тижня</title>
+<title>Рейдерства тижня</title>
 <publ_in>Телекритика</publ_in>
 <url>http://www.telekritika.ua/kontent/2013-05-01/81358</url> 
 <publ_part></publ_part>
