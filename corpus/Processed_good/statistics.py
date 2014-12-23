@@ -8,7 +8,7 @@ for cat in CATS:
     categories[cat] = 0
 
 for name in os.listdir("."):
-    if name.endswith(".txt") and name != "statistics.txt":
+    if name.endswith(".txt") and name[0] in CATS and name[1] == "_":
         f = open(name, "r")
         text = f.read()
         cat = text[text.find("<id>") + 4]
