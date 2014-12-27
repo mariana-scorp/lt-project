@@ -1,8 +1,7 @@
 ﻿<id>D</id>
 <author_surname>Вздульська</author_surname>
 <author_name>Валентина</author_name>
-<title>Як стати найгіршим дитячим письменником в Україні: 10 заповідей
-</title>
+<title>Як стати найгіршим дитячим письменником в Україні: 10 заповідей</title>
 <publ_in>Казкарка</publ_in>
 <url>http://kazkarka.com/quote/yak-staty-najhirshym-dytyachym-pysmennykom-v-ukrajini-10-zapovidej.html</url>
 <publ_part></publ_part>

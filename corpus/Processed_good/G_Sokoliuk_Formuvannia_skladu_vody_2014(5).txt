@@ -1,8 +1,8 @@
 ﻿<id>G</id>
-<author_surname_1>Соколюк</author_surname>
-<author_name_1>В.</author_name>
-<author_surname_2>Засєкін</author_surname>
-<author_name_2>Д.</author_name>
+<author_surname_1>Соколюк</author_surname_1>
+<author_name_1>В.</author_name_1>
+<author_surname_2>Засєкін</author_surname_2>
+<author_name_2>Д.</author_name_2>
 <title>Формування складу води, що використовується для напування тварин у господарствах західної біогеохімічної зони України</title>
 <publ_in>Ветеринарна медицина України</publ_in>
 <url></url>
