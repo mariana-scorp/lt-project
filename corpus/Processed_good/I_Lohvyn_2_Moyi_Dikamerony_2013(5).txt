@@ -1,4 +1,4 @@
-﻿<id>D</id>
+﻿<id>I</id>
 <author_surname>Логвин</author_surname>
 <author_name>Юрій</author_name>
 <title>Мої Дікамерони</title>
