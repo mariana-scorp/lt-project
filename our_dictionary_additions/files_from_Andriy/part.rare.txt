@@ -1,7 +1,7 @@
-неке:rare
-ніже:rare
-ніже-ні:rare
-отце:rare
-таже:rare
-хибань:rare
-чага:rare
+неке:part:rare
+ніже:part:rare
+ніже-ні:part:rare
+отце:part:rare
+таже:part:rare
+хибань:part:rare
+чага:part:rare
