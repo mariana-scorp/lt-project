@@ -1,7 +1,7 @@
 неке:part:rare
-ніже:part:rare
-ніже-ні:part:rare
+ніже:part:rare:coll
+ніже-ні:part:rare:coll
 отце:part:rare
 таже:part:rare
-хибань:part:rare
-чага:part:rare
+хибань:part:rare:coll
+
