@@ -1,20 +1,19 @@
-атас:excl
-баньгу:excl
+атас:excl:slang
+another POS баньгу:excl
 бігвість:excl:rare
 бусі:excl
 вісьта:excl:rare
-гридень:excl
+another POS гридень:excl
 єсть:excl
-закусь:excl
-зарязь:excl
-захоп:excl
-картулі:excl
+another POS закусь:excl
+another POS зарязь:excl
+??захоп:excl
+another POS картулі:excl
 катя:excl
 кихи:excl
 крумк:excl
-магайбі:excl
-напривечір:excl
-особ:excl
+магайбі:excl:rare
+another POS особ:excl
 отако:excl:coll
 оттак:excl:rare
 охо-хо:excl
@@ -23,36 +22,36 @@
 присійбо:excl:coll
 присяй-богу:excl:coll
 присясто-Боже:excl:coll
-синди:excl
-синхро:excl
+???синди:excl
+???синхро:excl
 ти-ни-ни:excl
 тирири:excl
 тиририри:excl
 тіліп:excl
-удвурядь:excl
-умудулі:excl
-упривечір:excl
+теліп:excl
+another POS удвурядь:excl
+another POS упривечір:excl
 фьюіть:excl
 хавава:excl:rare
 хапу-лапу:excl:coll
 хапу-хапу:excl:coll
 хвось:excl
-хлібусь:excl
-ходусеньки:excl
-ходусі:excl
+another POS хлібусь:excl
+another POS ходусеньки:excl
+another POS ходусі:excl
 хресійбо:excl:rare
 хроп:excl
 хрум:excl:coll
 ців-ців:excl
 цурпек:excl
-цур-цура:excl
-цяп-ляп:excl
+цур-цура:excl:coll
+?? цяп-ляп:excl
 чик-чирик:excl
 чичирк:excl
 чухи:excl:coll
-шкитильг:excl
+?? шкитильг:excl
 штелюнг:excl:rare
 штирк:excl
 штовхіць:excl
-шуль:excl
-шурпіч:excl:rare
+???шуль:excl
+???шурпіч:excl:rare
