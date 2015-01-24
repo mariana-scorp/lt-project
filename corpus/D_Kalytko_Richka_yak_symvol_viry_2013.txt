@@ -4,7 +4,7 @@
 <title>Річка як символ віри</title>
 <publ_in>Український журнал</publ_in>
 <url></url> 
-<publ_part></publ_part>
+<publ_part>5-6</publ_part>
 <publ_place>Київ</publ_place>
 <publisher>РУТА</publisher>
 <year>2013</year> 
