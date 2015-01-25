@@ -1,55 +1,54 @@
-атас:excl:slang
-??баньгу:noun:nv
-бігвість:excl:rare
-бусі:excl
-вісьта:excl:rare
-гридень:noun:a
-єсть:excl
-??закусь:noun:
-??зарязь:noun:
-захоп:noun:i
-???картулі:noun:nv
-катя:excl
-кихи:excl
-крумк:excl
-магайбі:excl:rare
-особ:noun:i
-отако:excl:coll
-оттак:excl:rare
-охо-хо:excl
-охо-хо-хо:excl
-пирск:excl:coll
-присійбо:excl:coll
-присяй-богу:excl:coll
-присясто-Боже:excl:coll
-ти-ни-ни:excl
-тирири:excl
-тиририри:excl
-тіліп:excl
-теліп:excl
-??удвурядь:adv #не знайшла прапорців для прислівників
-??упривечір:adv
-фьюіть:excl
-хавава:excl:rare
-хапу-лапу:excl:coll
-хапу-хапу:excl:coll
-хвось:excl
-??хлібусь:noun: #додавати тег dimin?
-??ходусеньки:verb #spell-uk пропонує noun парадигму
-??ходусі:verb
-хресійбо:excl:rare
-хроп:excl
-хрум:excl:coll
-ців-ців:excl
-цурпек:excl
-цур-цура:excl:coll
-?? цяп-ляп:adv
-чик-чирик:excl
-чичирк:excl
-чухи:excl:coll
-шкитильг:excl
-штелюнг:excl:rare
-штирк:excl
-штовхіць:excl
-шуль:excl 
-шурпіч:excl:rare
+атас excl slang
+бігвість excl rare
+бусі excl
+вісьта excl rare
+гридень/a
+єсть excl
+закусь/i slang
+зарязь/i
+захоп/i
+катя excl
+кихи excl
+крумк excl
+магайбі excl rare
+особ/i
+отако excl coll
+оттак excl rare
+охо-хо excl
+охо-хо-хо excl
+пирск excl coll
+присійбо excl coll
+присяй-богу excl coll
+присясто-Боже excl coll
+ти-ни-ни excl
+тирири excl
+тиририри excl
+тіліп excl
+теліп excl
+удвурядь adv
+упривечір adv
+фьюіть excl
+хавава excl rare
+хапу-лапу excl coll
+хапу-хапу excl coll
+хвось excl
+хлібусь/ef
+хресійбо excl rare
+хроп excl
+хрум excl coll
+ців-ців excl
+цурпек excl
+цур-цура excl coll
+цяп-ляп adv
+чик-чирик excl
+чичирк excl
+чухи excl coll
+шкитильг excl
+штелюнг excl rare
+штирк excl
+штовхіць excl
+шуль excl 
+шурпіч excl rare
+
+баньгу noun nv ns
+картулі noun nv np
