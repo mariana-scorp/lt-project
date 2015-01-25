@@ -4,66 +4,75 @@ import os, sort
 
 CATS = "ABCDEFGHI"
 
-books = []
-articles = []
+mapping = {"A":0, "B":1, "C":2, "D":3, "E":4, "F":5, "G":6, "H":7, "I":8}
+books = [[] for i in CATS]
 
-def add_books(name, books, articles):
+def add_books(name, books):
         f = open(name, "r")
         text = f.read()
+        category = text[text.find("<id>") + 4:text.find("</id>")]
         author_ind = text.find("<author_surname_1>")
         if author_ind != -1:
             author = text[author_ind + 18:text.find("</author_surname_1>")]
         else:
             author_ind = text.find("<author_surname>")
             author = text[author_ind + 16:text.find("</author_surname>")]
+        publ_in = text[text.find("<publ_in>") + 9:text.find("</publ_in>")]
         title = text[text.find("<title>") + 7:text.find("</title>")]
         if author != "":
-            string = author.decode("utf-8") + ". " + title.decode("utf-8")
-            books.append(sort.Word(string.encode("utf-8")))
+            string = author.decode("utf-8") + ". "
         else:
-            articles.append(sort.Word(title))        
+            string = "Без автора".decode("utf-8") + ". "
+        if publ_in != "":
+            string += publ_in.decode("utf-8") + ": "
+        string += title.decode("utf-8")
+        books[mapping[category]].append(sort.Word(string.encode("utf-8")))
         f.close()
 
 for name in os.listdir("."):
     if name.endswith(".txt") and name[0] in CATS and name[1] == "_":
-        add_books(name, books, articles)
+        add_books(name, books)
     
 for name in os.listdir("Processed_good"):
     if name.endswith(".txt") and name[0] in CATS and name[1] == "_":
-        add_books("Processed_good/" + name, books, articles)
+        add_books("Processed_good/" + name, books)
 
-sort.quicksort(books, 0, len(books) - 1)
-sort.quicksort(articles, 0, len(articles) - 1)
+for i in CATS:
+    sort.quicksort(books[mapping[i]], 0, len(books[mapping[i]]) - 1)
 
 f = open("!_white_list.txt", "w")
 
-f.write("-----------------------------")
-f.write("\n")
-f.write(u"Опрацьовані книжки".encode("utf-8"))
-f.write("\n")
-f.write("-----------------------------")
-f.write("\n")
-
-f.write(books[0].word)
-f.write("\n")
-for i in range(1, len(books) - 1):
-    if books[i].word != books[i - 1].word:
-        f.write(books[i].word)
+for i in CATS:
+    f.write("-----------------------------")
+    f.write("\n")
+    if i == "A":
+        f.write(u"Преса:".encode("utf-8"))
+    elif i == "B":
+        f.write(u"Релігійна література:".encode("utf-8"))
+    elif i == "C":
+        f.write(u"Професійно-популярна література:".encode("utf-8"))
+    elif i == "D":
+        f.write(u"«Естетичні інформативні» тексти:".encode("utf-8"))
+    elif i == "E":
+        f.write(u"Адміністративні документи:".encode("utf-8"))
+    elif i == "F":
+        f.write(u"Науково-популярна література:".encode("utf-8"))
+    elif i == "G":
+        f.write(u"Наукова література:".encode("utf-8"))
+    elif i == "H":
+        f.write(u"Навчальна література:".encode("utf-8"))
+    elif i == "I":
+        f.write(u"Художня література:".encode("utf-8"))
+    f.write("\n")
+    f.write("-----------------------------")
+    f.write("\n")
+    if len(books[mapping[i]]) > 0:
+        f.write(books[mapping[i]][0].word)
         f.write("\n")
-
-f.write("-----------------------------")
-f.write("\n")
-f.write(u"Опрацьовані статті без автора".encode("utf-8"))
-f.write("\n")
-f.write("-----------------------------")
-f.write("\n")
-
-f.write(articles[0].word)
-f.write("\n")
-for i in range(1, len(articles) - 1):
-    if articles[i].word != articles[i - 1].word:
-        f.write(articles[i].word)
-        f.write("\n")
+        for j in range(1, len(books[mapping[i]]) - 1):
+            if j != 0 and books[mapping[i]][j].word != books[mapping[i]][j - 1].word:
+                f.write(books[mapping[i]][j].word)
+                f.write("\n")
 
 f.write("-----------------------------")
 
