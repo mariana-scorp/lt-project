@@ -1,0 +1,17 @@
+їстки їсти verb:inf:dimin
+їсточки їсти verb:inf:dimin
+їстоньки їсти verb:inf:dimin
+купоньки купатися verb:inf:dimin
+питки пити verb:inf:dimin
+питоньки пити verb:inf:dimin
+початоньки почати verb:inf:dimin
+робитоньки робити verb:inf:dimin
+сваритоньки сварити verb:inf:dimin
+спатки спати verb:inf:dimin
+спатоньки спати verb:inf:dimin
+спаточки спати verb:inf:dimin
+спатусі спати verb:inf:dimin
+ходитоньки ходити verb:inf:dimin
+ходусеньки ходити verb:inf:dimin
+ходулі ходити verb:inf:dimin
+сістоньки сісти verb:inf:dimin

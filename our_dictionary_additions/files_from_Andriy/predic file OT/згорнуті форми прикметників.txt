@@ -1,0 +1,4 @@
+повинен повинний adj:s:m:v_naz:rare
+потрібен потрібний adj:s:m:v_naz:rare
+блажен блаженний adj:s:m:v_naz:rare
+властен власний adj:s:m:v_naz:rare
