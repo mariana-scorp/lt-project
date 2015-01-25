@@ -1,7 +1,6 @@
-неке:part:rare
-ніже:part:rare:coll
-ніже-ні:part:rare:coll
-отце:part:rare
-таже:part:rare
-хибань:part:rare:coll
-
+неке неке part:rare
+ніже ніже part:rare:coll
+ніже-ні ніже-ні part:rare:coll
+отце отце part:rare
+таже таже part:rare
+хибань хибань part:rare:coll
