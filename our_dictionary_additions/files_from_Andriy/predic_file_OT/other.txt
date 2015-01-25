@@ -1,6 +1,12 @@
 ﻿засніжено засніжити verb:impers:perf
 увірувано увірувати verb:impers:imperf
 подейкувано подейкувати verb:impers:imperf
-півста numr:coll
-півстільки numr:coll
+
 ніт ніт part:rare
+
+півста півста numr:nv:coll
+
+півстільки numr:v_naz/v_zna:coll
+півстількох numr:v_rod/v_zna/v_mis:coll
+півстільком numr:v_dav:coll
+півстількома numr:v_oru:coll
