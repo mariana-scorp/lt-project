@@ -1,54 +1,55 @@
-атас excl slang
-бігвість excl rare
-бусі excl
-вісьта excl rare
-гридень/a
-єсть excl
-закусь/i slang
+атас атас excl:slang
+бігвість бігвість excl:rare
+бусі бусі excl
+вісьта вісьта excl:rare
+єсть єсть excl
+катя катя excl
+кихи кихи excl
+крумк крумк excl
+магайбі магайбі excl:rare
+отако отако excl:coll
+оттак оттак excl:rare
+охо-хо охо-хо excl
+охо-хо-хо охо-хо-хо excl
+пирск пирск excl:coll
+присійбо присійбо excl:coll
+присяй-богу присяй-богу excl:coll
+присясто-Боже присясто-Боже excl:coll
+ти-ни-ни ти-ни-ни excl
+тирири тирири excl
+тиририри тиририри excl
+тіліп тіліп excl
+теліп теліп excl
+удвурядь удвурядь adv
+упривечір упривечір adv
+фьюіть фьюіть excl
+хавава хавава excl:rare
+хапу-лапу хапу-лапу excl:coll
+хапу-хапу хапу-хапу excl:coll
+хвось хвось excl
+хресійбо хресійбо excl:rare
+хроп хроп excl
+хрум хрум excl:coll
+ців-ців ців-ців excl
+цурпек цурпек excl
+цур-цура цур-цура excl:coll
+цяп-ляп цяп-ляп adv
+чик-чирик чик-чирик excl
+чичирк чичирк excl
+чухи чухи excl:coll
+шкитильг шкитильг excl
+штелюнг штелюнг excl:rare
+штирк штирк excl
+штовхіць штовхіць excl
+шуль шуль excl 
+шурпіч шурпіч excl:rare
+
+баньгу баньгу noun:m:nv:np
+картулі картулі noun:p:nv:ns
+
+гридень/abc<
+закусь/i :slang
 зарязь/i
 захоп/i
-катя excl
-кихи excl
-крумк excl
-магайбі excl rare
 особ/i
-отако excl coll
-оттак excl rare
-охо-хо excl
-охо-хо-хо excl
-пирск excl coll
-присійбо excl coll
-присяй-богу excl coll
-присясто-Боже excl coll
-ти-ни-ни excl
-тирири excl
-тиририри excl
-тіліп excl
-теліп excl
-удвурядь adv
-упривечір adv
-фьюіть excl
-хавава excl rare
-хапу-лапу excl coll
-хапу-хапу excl coll
-хвось excl
-хлібусь/ef
-хресійбо excl rare
-хроп excl
-хрум excl coll
-ців-ців excl
-цурпек excl
-цур-цура excl coll
-цяп-ляп adv
-чик-чирик excl
-чичирк excl
-чухи excl coll
-шкитильг excl
-штелюнг excl rare
-штирк excl
-штовхіць excl
-шуль excl 
-шурпіч excl rare
-
-баньгу noun nv ns
-картулі noun nv np
+хлібусь/efg
