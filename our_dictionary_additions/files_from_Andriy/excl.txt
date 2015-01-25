@@ -1,19 +1,19 @@
 атас:excl:slang
-another POS баньгу:excl
+??баньгу:noun:nv
 бігвість:excl:rare
 бусі:excl
 вісьта:excl:rare
-another POS гридень:excl
+гридень:noun:a
 єсть:excl
-another POS закусь:excl
-another POS зарязь:excl
-??захоп:excl
-another POS картулі:excl
+??закусь:noun:
+??зарязь:noun:
+захоп:noun:i
+???картулі:noun:nv
 катя:excl
 кихи:excl
 крумк:excl
 магайбі:excl:rare
-another POS особ:excl
+особ:noun:i
 отако:excl:coll
 оттак:excl:rare
 охо-хо:excl
@@ -22,36 +22,34 @@ another POS особ:excl
 присійбо:excl:coll
 присяй-богу:excl:coll
 присясто-Боже:excl:coll
-???синди:excl
-???синхро:excl
 ти-ни-ни:excl
 тирири:excl
 тиририри:excl
 тіліп:excl
 теліп:excl
-another POS удвурядь:excl
-another POS упривечір:excl
+??удвурядь:excl
+??упривечір:excl
 фьюіть:excl
 хавава:excl:rare
 хапу-лапу:excl:coll
 хапу-хапу:excl:coll
 хвось:excl
-another POS хлібусь:excl
-another POS ходусеньки:excl
-another POS ходусі:excl
+??хлібусь:noun: #додавати тег dimin?
+??ходусеньки:verb #spell-uk пропонує noun парадигму
+??ходусі:verb
 хресійбо:excl:rare
 хроп:excl
 хрум:excl:coll
 ців-ців:excl
 цурпек:excl
 цур-цура:excl:coll
-?? цяп-ляп:excl
+?? цяп-ляп:adv
 чик-чирик:excl
 чичирк:excl
 чухи:excl:coll
-?? шкитильг:excl
+шкитильг:excl
 штелюнг:excl:rare
 штирк:excl
 штовхіць:excl
 ???шуль:excl
-???шурпіч:excl:rare
+шурпіч:excl:rare
