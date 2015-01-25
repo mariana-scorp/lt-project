@@ -1,4 +1,4 @@
-кально кально adv:rare
+﻿кально кально adv:rare
 рибно рибно adv:rare
 спечно спечно adv:rare
 варівко варівко adv:rare
@@ -15,3 +15,4 @@
 укруть adv:rare
 по-його adv:coll
 шкварко шкварко adv:rare
+сількось сількось adv:rare
