@@ -1,9 +1,4 @@
-﻿B_Relihiya_v_Ukrayini_Khilchenko_Revolyutsiya_Rizdva_2015
-
-
-
-
- <id>B</id>
+<id>B</id>
 <author_surname>Хільченко</author_surname>
 <author_name>Анатолій</author_name>
 <title>Революція Різдва</title>
