@@ -1,0 +1,2223 @@
+﻿//Семантичний тип: особовий~personal~pers, зворотний~reflexive~refl, присвійний~possessive~pos, вказівний~demonstrative~dem, означальний~defining~def, питальний~interrogative~int, відносний~relative~rel, заперечний~negative~neg, неозначений~indefinite~ind, узагальнювальний~gen, ототожнювальний~equal~eq
+
+
+#ADJ:PRON/V
+
+
+//абичий/V - r2u маркує adj і правильно генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+абичий абичий adj:pron:ind:s:m:v_naz/v_zna/v_kly:rare
+абичийого абичий adj:pron:ind:s:m:v_rod/v_zna
+абичиєму абичий adj:pron:ind:s:m:v_dav/v_mis
+абичийому абичий adj:pron:ind:s:m:v_dav/v_mis
+абичиїм абичий adj:pron:ind:s:m:v_oru/v_mis
+
+
+абичия абичий adj:pron:ind:s:f:v_naz/v_kly:rare
+абичиєї абичий adj:pron:ind:s:f:v_rod
+абичиїй абичий adj:pron:ind:s:f:v_dav/v_mis
+абичию абичий adj:pron:ind:s:f:v_zna
+абичиєю абичий adj:pron:ind:s:f:v_oru/v_mis
+
+
+абичиє абичий adj:pron:ind:s:n:v_naz/v_zna/v_kly:rare
+абичийого абичий adj:pron:ind:s:n:v_rod
+абичиєму абичий adj:pron:ind:s:n:v_dav/v_mis
+абичийому абичий adj:pron:ind:s:n:v_dav/v_mis
+абичиїм абичий adj:pron:ind:s:n:v_oru/v_mis
+
+
+абичиї абичий adj:pron:ind:p:v_naz/v_zna/v_kly:rare
+абичиїх абичий adj:pron:ind:p:v_rod/v_mis
+абичиїм абичий adj:pron:ind:p:v_dav
+абичиїми абичий adj:pron:ind:p:v_oru
+
+
+
+
+//абиякий/V - r2u маркує adj: додати теґ займенникового слова і кличний відмінок
+абиякий/V adj:pron:ind:v_naz/v_zna/v_kly:rare
+
+
+//аніякий/V - r2u маркує adj: додати теґ займенникового слова і кличний відмінок
+аніякий/V adj:pron:neg:v_naz/v_zna/v_kly:rare
+
+
+//бозна-котрий/V - r2u маркує adj: додати  теґ займенникового слова і кличний відмінок
+бозна-котрий/V adj:pron:ind:v_naz/v_zna/v_kly:rare
+
+
+//бозна-чий/V - r2u маркує adj і правильно генерує тільки m:v_naz і m:v_zna: додати решта форм  і теґ займенникового слова, кличний відмінок
+
+
+бозна-чий бозна-чий adj:pron:ind:s:m:v_naz/v_zna/v_kly:rare
+бозна-чийого бозна-чий adj:pron:ind:s:m:v_rod/v_zna
+бозна-чиєму бозна-чий adj:pron:ind:s:m:v_dav/v_mis
+бозна-чийому бозна-чий adj:pron:ind:s:m:v_dav/v_mis
+бозна-чиїм бозна-чий adj:pron:ind:s:m:v_oru/v_mis
+
+бозна-чия бозна-чий adj:pron:ind:s:f:v_naz/v_kly:rare
+бозна-чиєї бозна-чий adj:pron:ind:s:f:v_rod
+бозна-чиїй бозна-чий adj:pron:ind:s:f:v_dav/v_mis
+бозна-чию бозна-чий adj:pron:ind:s:f:v_zna
+бозна-чиєю бозна-чий adj:pron:ind:s:f:v_oru/v_mis
+
+бозна-чиє бозна-чий adj:pron:ind:s:n:v_naz/v_zna/v_kly:rare
+бозна-чийого бозна-чий adj:pron:ind:s:n:v_rod
+бозна-чиєму бозна-чий adj:pron:ind:s:n:v_dav/v_mis
+бозна-чийому бозна-чий adj:pron:ind:s:n:v_dav/v_mis
+бозна-чиїм бозна-чий adj:pron:ind:s:n:v_oru/v_mis
+
+бозна-чиї бозна-чий adj:pron:ind:p:v_naz/v_zna/v_kly:rare
+бозна-чиїх бозна-чий adj:pron:ind:p:v_rod/v_mis
+бозна-чиїм бозна-чий adj:pron:ind:p:v_dav
+бозна-чиїми бозна-чий adj:pron:ind:p:v_oru
+
+
+//бозна-який/V - r2u маркує adj: додати  теґ займенникового слова  і кличний відмінок
+бозна-який/V adj:pron:ind:v_naz/v_zna/v_kly:rare
+
+
+//будь-котрий/V - r2u маркує adj: додати  теґ займенникового слова  і кличний відмінок
+будь-котрий/V adj:pron:ind:v_naz/v_zna/v_kly:rare
+
+
+//будь-чий/V - r2u маркує adj і правильно генерує тільки m:v_naz і m:v_zna: додати решта форм  і теґ займенникового слова, кличний відмінок
+
+
+будь-чий будь-чий adj:pron:ind:s:m:v_naz/v_zna/v_kly:rare
+будь-чийого будь-чий adj:pron:ind:s:m:v_rod/v_zna
+будь-чиєму будь-чий adj:pron:ind:s:m:v_dav/v_mis
+будь-чийому будь-чий adj:pron:ind:s:m:v_dav/v_mis
+будь-чиїм будь-чий adj:pron:ind:s:m:v_oru/v_mis
+
+
+будь-чия будь-чий adj:pron:ind:s:f:v_naz/v_kly:rare
+будь-чиєї будь-чий adj:pron:ind:s:f:v_rod
+будь-чиїй будь-чий adj:pron:ind:s:f:v_dav/v_mis
+будь-чию будь-чий adj:pron:ind:s:f:v_zna
+будь-чиєю будь-чий adj:pron:ind:s:f:v_oru/v_mis
+
+
+будь-чиє будь-чий adj:pron:ind:s:n:v_naz/v_zna/v_kly:rare
+будь-чийого будь-чий adj:pron:ind:s:n:v_rod
+будь-чиєму будь-чий adj:pron:ind:s:n:v_dav/v_mis
+будь-чийому будь-чий adj:pron:ind:s:n:v_dav/v_mis
+будь-чиїм будь-чий adj:pron:ind:s:n:v_oru/v_mis
+
+
+будь-чиї будь-чий adj:pron:ind:p:v_naz/v_zna/v_kly:rare
+будь-чиїх будь-чий adj:pron:ind:p:v_rod/v_mis
+будь-чиїм будь-чий adj:pron:ind:p:v_dav
+будь-чиїми будь-чий adj:pron:ind:p:v_oru
+
+
+
+
+//будь-який/V - r2u маркує adj: додати  теґ займенникового слова,  кличний відмінок
+будь-який/V adj:pron:ind:v_naz/v_zna/v_kly:rare
+
+
+//ваш - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм  і теґ займенникового слова,  кличний відмінок
+
+
+ваш ваш adj:pron:pos:s:m:v_naz/v_zna/v_kly
+вашого ваш adj:pron:pos:s:m:v_rod/v_zna
+вашому ваш adj:pron:pos:s:m:v_dav/v_mis
+вашим ваш adj:pron:pos:s:m:v_oru
+вашім ваш adj:pron:pos:s:m:v_mis
+
+
+ваша ваш adj:pron:pos:s:f:v_naz/v_kly
+вашої ваш adj:pron:pos:s:f:v_rod
+вашій ваш adj:pron:pos:s:f:v_dav/v_mis
+вашу ваш adj:pron:pos:s:f:v_zna
+вашою ваш adj:pron:pos:s:f:v_oru
+
+
+ваше ваш adj:pron:pos:s:n:v_naz/v_zna/v_kly
+вашого ваш adj:pron:pos:s:n:v_rod
+вашому ваш adj:pron:pos:s:n:v_dav/v_mis
+вашим ваш adj:pron:pos:s:n:v_oru
+вашім ваш adj:pron:pos:s:n:v_mis
+
+
+ваші ваш adj:pron:pos:p:v_naz/v_zna/v_kly
+ваших ваш adj:pron:pos:p:v_rod/v_zna/v_mis
+вашим ваш adj:pron:pos:p:v_dav
+вашими ваш adj:pron:pos:p:v_oru
+
+
+//весь/ввесь/увесь/V -  r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм  і теґ займенникового слова, кличний відмінок
+
+
+весь весь adj:pron:gen:s:m:v_naz/v_zna/v_kly
+ввесь весь adj:pron:gen:s:m:v_naz/v_zna/v_kly:X
+всього весь adj:pron:gen:s:m:v_rod/v_zna:X
+всьому весь adj:pron:gen:s:m:v_dav/v_mis:X
+всім весь adj:pron:gen:s:m:v_oru/v_mis:X
+
+
+вся весь adj:pron:gen:s:f:v_naz/v_kly:X
+всієї весь adj:pron:gen:s:f:v_rod:X
+всій весь adj:pron:gen:s:f:v_dav/v_mis:X
+всю весь adj:pron:gen:s:f:v_zna:X
+всією весь adj:pron:gen:s:f:v_oru:X
+
+
+все весь adj:pron:gen:s:n:v_naz/v_zna/v_kly:X
+всього весь adj:pron:gen:s:n:v_rod:X
+всьому весь adj:pron:gen:s:n:v_dav/v_mis:X
+всім весь adj:pron:gen:s:n:v_oru/v_mis:X
+
+
+всі весь adj:pron:gen:p:v_naz/v_zna/v_kly:X
+всіх весь adj:pron:gen:p:v_rod/v_zna/v_mis:X
+всім весь adj:pron:gen:p:v_dav:X
+всіма весь adj:pron:gen:p:v_oru:X
+
+
+//всілякий/усілякий/V - r2u маркує adj: додати  теґ займенникового слова,  кличний відмінок
+всілякий/усілякий/V adj:pron:gen:v_naz/v_zna/v_kly:rare
+
+
+//всяк/усяк/V - r2u маркує adj і правильно генерує тільки v_naz і v_zna: додати решта форм  і теґ  займенникового слова,  кличний відмінок
+
+
+всяк всяк adj:pron:gen:s:m:v_naz/v_zna/v_kly:rare:X
+всякого всяк adj:pron:gen:s:m:v_rod/v_zna:X
+всякому всяк adj:pron:gen:s:m:v_dav/v_mis:X
+всяким всяк adj:pron:gen:s:m:v_oru:X
+всякім всяк adj:pron:gen:s:m:v_mis:X
+
+
+всяка всякий adj:pron:gen:s:f:v_naz/v_kly:rare:X
+всякої всякий adj:pron:gen:s:f:v_rod:X
+всякій всякий adj:pron:gen:s:f:v_dav/v_mis:X
+всяку всякий adj:pron:gen:s:f:v_zna:X
+всякою всякий adj:pron:gen:s:f:v_oru:X
+
+
+всяке всякий adj:pron:gen:s:n:v_naz/v_zna/v_kly:rare:X
+всякого всякий adj:pron:gen:s:n:v_rod:X
+всякому всякий adj:pron:gen:s:n:v_dav/v_mis:X
+всяким всякий adj:pron:gen:s:n:v_oru:X
+всякім всякий adj:pron:gen:s:n:v_mis:X
+
+
+всякі всякий adj:pron:gen:p:v_naz/v_zna/v_kly:rare:X
+всяких всякий adj:pron:gen:p:v_rod/v_zna/v_mis:X
+всяким всякий adj:pron:gen:p:v_dav:X
+всякими всякий adj:pron:gen:p:v_oru:X
+
+
+//всякий/усякий/V - r2u маркує adj: додати  теґ теґ займенникового слова,  кличний відмінок
+всякий/усякий/V adj:pron:gen:v_naz/v_zna/v_kly:rare
+
+
+//декотрий/V - r2u маркує adj: додати  теґ займенникового слова,  кличний відмінок 
+декотрий/V adj:pron:ind:v_naz/v_zna/v_kly:rare
+
+
+//дечий/V - r2u маркує adj і правильно генерує тількиm:v_naz і m:v_zna: додати решта форм і теґ займенникового слова,  кличний відмінок
+
+
+дечий дечий adj:pron:ind:s:m:v_naz/v_zna/v_kly:rare
+дечийого дечий adj:pron:ind:s:m:v_rod/v_zna
+дечиєму дечий adj:pron:ind:s:m:v_dav/v_mis
+дечийому дечий adj:pron:ind:s:m:v_dav/v_mis
+дечиїм дечий adj:pron:ind:s:m:v_oru/v_mis
+
+
+дечия дечий adj:pron:ind:s:f:v_naz/v_kly:rare
+дечиєї дечий adj:pron:ind:s:f:v_rod
+дечиїй дечий adj:pron:ind:s:f:v_dav/v_mis
+дечию дечий adj:pron:ind:s:f:v_zna
+дечиєю дечий adj:pron:ind:s:f:v_oru/v_mis
+
+
+дечиє дечий adj:pron:ind:s:n:v_naz/v_zna/v_kly:rare
+дечийого дечий adj:pron:ind:s:n:v_rod
+дечиєму дечий adj:pron:ind:s:n:v_dav/v_mis
+дечийому дечий adj:pron:ind:s:n:v_dav/v_mis
+дечиїм дечий adj:pron:ind:s:n:v_oru/v_mis
+
+
+дечиї дечий adj:pron:ind:p:v_naz/v_zna/v_kly:rare
+дечиїх дечий adj:pron:ind:p:v_rod/v_mis
+дечиїм дечий adj:pron:ind:p:v_dav
+дечиїми дечий adj:pron:ind:p:v_oru
+
+
+//деякий/V - r2u маркує adj: додати  теґ займенникового слова, кличний відмінок
+деякий/V adj:pron:ind:v_naz/v_zna/v_kly:rare
+
+
+//жаден/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати теґ займенникового слова,  кличний відмінок
+
+
+жаден жаден adj:pron:neg:s:m:v_naz:rare/v_zna:rare/v_kly:rare
+жадного жадний adj:pron:neg:s:m:v_rod:rare/v_zna:rare
+жадному жадний adj:pron:neg:s:m:v_dav:rare/v_mis:rare
+жадним жадний adj:pron:neg:s:m:v_oru:rare 
+жаднім жадний adj:pron:neg:s:m:v_mis:rare 
+
+
+жадна жадний adj:pron:neg:s:f:v_naz:rare/v_kly:rare 
+жадної жадний adj:pron:neg:s:f:v_rod:rare 
+жадній жадний adj:pron:neg:s:f:v_dav:rare/v_mis:rare 
+жадну жадний adj:pron:neg:s:f:v_zna:rare 
+жадною жадний adj:pron:neg:s:f:v_oru:rare 
+
+
+жадне жадний adj:pron:neg:s:n:v_naz:rare/v_zna:rare/v_kly:rare 
+жадного жадний adj:pron:neg:s:n:v_rod:rare 
+жодному жадний adj:pron:neg:s:n:v_dav:rare/v_mis:rare 
+жадним жадний adj:pron:neg:s:n:v_oru:rare 
+жаднім жадний adj:pron:neg:s:n:v_mis:rare 
+
+
+жадні жадний adj:pron:neg:p:v_naz:rare/v_zna:rare/v_kly:rare 
+жадних жадний adj:pron:neg:p:v_rod:rare/v_zna:rare/v_mis:rare 
+жадним жадний adj:pron:neg:p:v_dav:rare 
+жадними жадний adj:pron:neg:p:v_oru:rare 
+
+
+//жадний/V - r2u маркує тільки adj: додати теґ займенникового слова,  кличний відмінок
+
+
+жадний жадний adj:pron:neg:s:m:v_naz:rare/v_zna:rare/v_kly:rare 
+жадного жадний adj:pron:neg:s:m:v_rod:rare/v_zna:rare 
+жадному жадний adj:pron:neg:s:m:v_dav:rare/v_mis:rare 
+жадним жадний adj:pron:neg:s:m:v_oru:rare 
+жаднім жадний adj:pron:neg:s:m:v_mis:rare 
+
+
+жадна жадний adj:pron:neg:s:f:v_naz:rare/v_kly:rare 
+жадної жадний adj:pron:neg:s:f:v_rod:rare 
+жадній жадний adj:pron:neg:s:f:v_dav:rare/v_mis:rare 
+жадну жадний adj:pron:neg:s:f:v_zna:rare 
+жадною жадний adj:pron:neg:s:f:v_oru:rare 
+
+
+жадне жадний adj:pron:neg:s:n:v_naz:rare/v_zna:rare/v_kly:rare 
+жадного жадний adj:pron:neg:s:n:v_rod:rare 
+жодному жадний adj:pron:neg:s:n:v_dav:rare/v_mis:rare 
+жадним жадний adj:pron:neg:s:n:v_oru:rare 
+жаднім жадний adj:pron:neg:s:n:v_mis:rare
+
+
+жадні жадний adj:pron:neg:p:v_naz/v_zna/v_kly:rare 
+жадних жадний adj:pron:neg:p:v_rod/v_zna/v_mis 
+жадним жадний adj:pron:neg:p:v_dav 
+жадними жадний adj:pron:neg:p:v_oru 
+
+
+//жоден/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати теґ займенникового слова,  кличний відмінок
+
+
+жоден жодний adj:pron:neg:s:m:v_naz/v_zna/v_kly:rare
+жодного жодний adj:pron:neg:s:m:v_rod/v_zna
+жодному жодний adj:pron:neg:s:m:v_dav/v_mis
+жодним жодний adj:pron:neg:s:m:v_oru
+жоднім жодний adj:pron:neg:s:m:v_mis
+
+
+жодна жодний adj:pron:neg:s:f:v_naz/v_kly:rare
+жодної жодний adj:pron:neg:s:f:v_rod
+жодній жодний adj:pron:neg:s:f:v_dav/v_mis
+жодну жодний adj:pron:neg:s:f:v_zna
+жодною жодний adj:pron:neg:s:f:v_oru
+
+
+жодне жодний adj:pron:neg:s:n:v_naz/v_zna/v_kly:rare
+жодного жодний adj:pron:neg:s:n:v_rod
+жодному жодний adj:pron:neg:s:n:v_dav/v_mis
+жодним жодний adj:pron:neg:s:n:v_oru
+жоднім жодний adj:pron:neg:s:n:v_mis
+
+
+жодні жодний adj:pron:neg:p:v_naz/v_zna/v_kly:rare
+жодних жодний adj:pron:neg:p:v_rod/v_zna/v_mis
+жодним жодний adj:pron:neg:p:v_dav
+жодними жодний adj:pron:neg:p:v_oru
+
+
+//жодний/V - r2u маркує adj: додати  теґ займенникового слова,  кличний відмінок
+жодний/V adj:pron:neg:v_naz/v_zna/v_kly:rare
+
+
+//інший/V - r2u маркує adj: додати теґ займенникового слова,  кличний відмінок
+інший/V adj:pron:def:v_naz/v_zna/v_kly:rare
+
+
+//їхній/V - r2u маркує adj: додати теґ займенникового слова,  кличний відмінок
+їхній/V adj:pron:pos:v_naz/v_zna/v_kly:rare
+
+
+його його adj:pron:poss:s:m/n:v_naz/v_rod/v_dav/v_zna/v_oru/v_mis/v_kly:rare
+
+
+її її adj:pron:poss:s:f:v_naz/v_rod/v_dav/v_zna/v_oru/v_mis/v_kly:rare
+
+
+їх їх adj:pron:poss:p:v_naz:bad/v_rod:bad/v_dav:bad/v_zna:bad/v_oru:bad/v_mis:bad/v_kly:rare:bad
+
+
+
+
+//казна-чий/V - r2u маркує adj і правильно генерує m:v_naz і m:v_zna: додати решта форм  і теґ займенникового слова,  кличний відмінок
+
+
+казна-чий казна-чий adj:pron:ind:s:m:v_naz/v_zna/v_kly:rare
+казна-чийого казна-чий adj:pron:ind:s:m:v_rod/v_zna
+казна-чиєму казна-чий adj:pron:ind:s:m:v_dav/v_mis
+казна-чийому казна-чий adj:pron:ind:s:m:v_dav/v_mis
+казна-чиїм казна-чий adj:pron:ind:s:m:v_oru/v_mis
+
+
+казна-чия казна-чий adj:pron:ind:s:f:v_naz/v_kly:rare
+казна-чиєї казна-чий adj:pron:ind:s:f:v_rod
+казна-чиїй казна-чий adj:pron:ind:s:f:v_dav/v_mis
+казна-чию казна-чий adj:pron:ind:s:f:v_zna
+казна-чиєю казна-чий adj:pron:ind:s:f:v_oru/v_mis
+
+
+казна-чиє казна-чий adj:pron:ind:s:n:v_naz/v_zna/v_kly:rare
+казна-чийого казна-чий adj:pron:ind:s:n:v_rod
+казна-чиєму казна-чий adj:pron:ind:s:n:v_dav/v_mis
+казна-чийому казна-чий adj:pron:ind:s:n:v_dav/v_mis
+казна-чиїм казна-чий adj:pron:ind:s:n:v_oru/v_mis
+
+
+казна-чиї казна-чий adj:pron:ind:p:v_naz/v_zna/v_kly:rare
+казна-чиїх казна-чий adj:pron:ind:p:v_rod/v_mis
+казна-чиїм казна-чий adj:pron:ind:p:v_dav
+казна-чиїми казна-чий adj:pron:ind:p:v_oru
+
+
+//казна-який/V - r2u маркує adj: додати теґ займенникового слова,  кличний відмінок
+казна-який/V adj:pron:ind:v_naz/v_zna/v_kly:rare
+
+
+//кождий/V - r2u маркує adj: додати теґ займенникового слова,  кличний відмінок
+
+
+кождий кождий adj:pron:def:s:m:v_naz:rare/v_zna:rare/v_kly:rare
+кождого кождий adj:pron:def:s:m:v_rod:rare/v_zna:rare
+кождому кождий adj:pron:def:s:m:v_dav:rare/v_mis:rare
+кождим кождий adj:pron:def:s:m:v_oru:rare
+кождім кождий adj:pron:def:s:m:v_mis:rare
+
+
+кожда кождий adj:pron:def:s:f:v_naz:rare/v_kly:rare
+кождої кождий adj:pron:def:s:f:v_rod:rare
+кождій кождий adj:pron:def:s:f:v_dav:rare/v_mis:rare
+кожду кождий adj:pron:def:s:f:v_zna:rare
+кожною кождий adj:pron:def:s:f:v_oru:rare
+
+
+кожде кождий adj:pron:def:s:n:v_naz:rare/v_zna:rare/v_kly:rare
+кождого кождий adj:pron:def:s:n:v_rod:rare
+кождому кождий adj:pron:def:s:n:v_dav:rare/v_mis:rare
+кождим кождий adj:pron:def:s:n:v_oru:rare
+кождім кождий adj:pron:def:s:n:v_mis:rare
+
+
+кожді кождий adj:pron:def:p:v_naz:rare/v_zna:rare/v_kly:rare
+кождих кождий adj:pron:def:p:v_rod:rare/v_zna:rare/v_mis:rare
+кождим кождий adj:pron:def:p:v_dav:rare
+кождими кождий adj:pron:def:p:v_oru:rare
+
+
+//кожен/V - r2u маркує adj і генерує m:v_naz і m:v_zna: додати теґ займенникового слова,  кличний відмінок
+
+
+кожен кожний adj:pron:def:s:m:v_naz/v_zna/v_kly:rare
+кожного кожний adj:pron:def:s:m:v_rod/v_zna
+кожному кожний adj:pron:def:s:m:v_dav/v_mis
+кожним кожний adj:pron:def:s:m:v_oru
+кожнім кожний adj:pron:def:s:m:v_mis
+
+
+кожна кожний adj:pron:def:s:f:v_naz/v_kly:rare
+кожної кожний adj:pron:def:s:f:v_rod
+кожній кожний adj:pron:def:s:f:v_dav/v_mis
+кожну кожний adj:pron:def:s:f:v_zna
+кожною кожний adj:pron:def:s:f:v_oru
+
+
+кожне кожний adj:pron:def:s:n:v_naz/v_zna/v_kly:rare
+кожного кожний adj:pron:def:s:n:v_rod
+кожному кожний adj:pron:def:s:n:v_dav/v_mis
+кожним кожний adj:pron:def:s:n:v_oru
+кожнім кожний adj:pron:def:s:n:v_mis
+
+
+кожні кожний adj:pron:def:p:v_naz/v_zna/v_kly:rare
+кожних кожний adj:pron:def:p:v_rod/v_zna/v_mis
+кожним кожний adj:pron:def:p:v_dav
+кожними кожний adj:pron:def:p:v_oru
+
+
+//кожний/V - r2u маркує adj: додати теґ займенникового слова,  кличний відмінок
+кожний/V adj:pron:def:v_naz/v_zna/v_kly:rare
+
+
+//котрий/V - r2u маркує adj: додати теґ займенникового слова,  кличний відмінок
+котрий/V adj:pron:int/rel/def:v_naz/v_zna/v_kly:rare
+
+
+//котрий-будь/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм  і теґ займенникового слова,  кличний відмінок 
+
+
+котрий-будь котрий-будь adj:pron:ind:s:m:v_naz/v_zna/v_kly:rare
+котрого-будь котрий-будь adj:pron:ind:s:m:v_rod/v_zna
+котрому-будь котрий-будь adj:pron:ind:s:m:v_dav/v_mis
+котрим-будь котрий-будь adj:pron:ind:s:m:v_oru
+котрім-будь котрий-будь adj:pron:ind:s:m:v_mis
+
+
+котра-будь котрий-будь adj:pron:ind:s:f:v_naz/v_kly:rare
+котрої-будь котрий-будь adj:pron:ind:s:f:v_rod
+котрій-будь котрий-будь adj:pron:ind:s:f:v_dav/v_mis
+котру-будь котрий-будь adj:pron:ind:s:f:v_zna
+котрою-будь котрий-будь adj:pron:ind:s:f:v_oru
+
+
+котре-будь котрий-будь adj:pron:ind:s:n:v_naz/v_zna/v_kly:rare
+котрого-будь котрий-будь adj:pron:ind:s:n:v_rod
+котрому-будь котрий-будь adj:pron:ind:s:n:v_dav/v_mis
+котрим-будь котрий-будь adj:pron:ind:s:n:v_oru
+котрім-будь котрий-будь adj:pron:ind:s:n:v_mis
+
+
+котрі-будь котрий-будь adj:pron:ind:p:v_naz/v_zna/v_kly:rare
+котрих-будь котрий-будь adj:pron:ind:p:v_rod/v_zna/v_mis
+котрим-будь котрий-будь adj:pron:ind:p:v_dav
+котрими-будь котрий-будь adj:pron:ind:p:v_oru
+
+
+//котрий-небудь/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм  і теґ займенникового слова,  кличний відмінок
+
+
+котрий-небудь котрий-небудь adj:pron:ind:s:m:v_naz/v_zna/v_kly:rare
+котрого-небудь котрий-небудь adj:pron:ind:s:m:v_rod/v_zna:rare
+котрому-небудь котрий-небудь adj:pron:ind:s:m:v_dav/v_mis
+котрим-небудь котрий-небудь adj:pron:ind:s:m:v_oru
+котрім-небудь котрий-небудь adj:pron:ind:s:m:v_mis
+
+
+котра-небудь котрий-небудь adj:pron:ind:s:f:v_naz/v_kly:rare
+котрої-небудь котрий-небудь adj:pron:ind:s:f:v_rod
+котрій-небудь котрий-небудь adj:pron:ind:s:f:v_dav/v_mis
+котру-небудь котрий-небудь adj:pron:ind:s:f:v_zna
+котрою-небудь котрий-небудь adj:pron:ind:s:f:v_oru
+
+
+котре-небудь котрий-небудь adj:pron:ind:s:n:v_naz/v_zna/v_kly:rare
+котрого-небудь котрий-небудь adj:pron:ind:s:n:v_rod
+котрому-небудь котрий-небудь adj:pron:ind:s:n:v_dav/v_mis
+котрим-небудь котрий-небудь adj:pron:ind:s:n:v_oru
+котрім-небудь котрий-небудь adj:pron:ind:s:n:v_mis
+
+
+котрі-небудь котрий-небудь adj:pron:ind:p:v_naz/v_zna/v_kly:rare
+котрих-небудь котрий-небудь adj:pron:ind:p:v_rod/v_zna/v_mis
+котрим-небудь котрий-небудь adj:pron:ind:p:v_dav
+котрими-небудь котрий-небудь adj:pron:indneg:p:v_oru
+
+
+//котрийсь/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм  і теґ займенникового слова,  кличний відмінок
+
+
+котрийсь котрийсь adj:pron:ind:s:m:v_naz/v_zna/v_kly:rare
+котрогось котрийсь adj:pron:ind:s:m:v_rod/v_zna
+котромусь котрийсь adj:pron:ind:s:m:v_dav/v_mis
+котримсь котрийсь adj:pron:ind:s:m:v_oru
+котрімсь котрийсь adj:pron:ind:s:m:v_mis
+
+
+котрась котрийсь adj:pron:ind:s:f:v_naz/v_kly:rare
+котроїсь котрийсь adj:pron:ind:s:f:v_rod
+котрійсь котрийсь adj:pron:ind:s:f:v_dav/v_mis
+котрусь котрийсь adj:pron:ind:s:f:v_zna
+котроюсь котрийсь adj:pron:ind:s:f:v_oru
+
+
+котресь котрий adj:pron:ind:s:n:v_naz/v_zna/v_kly:rare
+котрогось котрий adj:pron:ind:s:n:v_rod
+котромусь котрий adj:pron:ind:s:n:v_dav/v_mis
+котримсь котрий adj:pron:ind:s:n:v_oru
+котрімсь котрий adj:pron:ind:s:n:v_mis
+
+
+котрісь котрийсь adj:pron:ind:p:v_naz/v_zna/v_kly:rare
+котрихсь котрийсь adj:pron:ind:p:v_rod/v_zna/v_mis
+котримсь котрийсь adj:pron:ind:p:v_dav
+котримись котрийсь adj:pron:ind:p:v_oru
+
+
+//леда-який/V - r2u маркує adj: додати теґ займенникового слова,  кличний відмінок
+леда-який/V adj:pron:ind:v_naz:rare/v_zna:rare/v_kly:rare
+
+
+//мій/V - r2u маркує adj і правильно генерує тільки m:v_naz і m:v_zna: додати решта форм  і теґ займенникового слова,  кличний відмінок
+
+
+мій мій adj:pron:pos:s:m:v_naz/v_zna/v_kly
+мого мій adj:pron:pos:s:m:v_rod/v_zna
+моєму мій adj:pron:pos:s:m:v_dav/v_mis
+моїм мій adj:pron:pos:s:m:v_oru/v_mis
+
+
+моя мій adj:pron:pos:s:f:v_naz/v_kly
+моєї мій adj:pron:pos:s:f:v_rod
+моїй мій adj:pron:pos:s:f:v_dav/v_mis
+мою мій adj:pron:pos:s:f:v_zna
+моєю мій adj:pron:pos:s:f:v_oru
+
+
+моє мій adj:pron:pos:s:n:v_naz/v_zna/v_kly
+мого мій adj:pron:pos:s:n:v_rod
+моєму мій adj:pron:pos:s:n:v_dav/v_mis
+моїм мій adj:pron:pos:s:n:v_oru/v_mis
+
+
+мої мій adj:pron:pos:p:v_naz/v_zna/v_kly
+моїх мій adj:pron:pos:p:v_rod/v_zna/v_mis
+моїм мій adj:pron:pos:p:v_dav
+моїми мій adj:pron:pos:p:v_oru
+
+
+//наш/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм  і теґ займенникового слова,  кличний відмінок
+
+
+наш наш adj:pron:pos:s:m:v_naz/v_zna/v_kly
+нашого наш adj:pron:pos:s:m:v_rod/v_zna
+нашому наш adj:pron:pos:s:m:v_dav/v_mis
+нашим наш adj:pron:pos:s:m:v_oru
+нашім наш adj:pron:pos:s:m:v_mis
+
+
+наша наш adj:pron:pos:s:f:v_naz/v_kly
+нашої наш adj:pron:pos:s:f:v_rod
+нашій наш adj:pron:pos:s:f:v_dav/v_mis
+нашу наш adj:pron:pos:s:f:v_zna
+нашою наш adj:pron:pos:s:f:v_oru
+
+
+наше наш adj:pron:pos:s:n:v_naz/v_zna/v_kly
+нашого наш adj:pron:pos:s:n:v_rod
+нашому наш adj:pron:pos:s:n:v_dav/v_mis
+нашим наш adj:pron:pos:s:n:v_oru
+нашім наш adj:pron:pos:s:n:v_mis
+
+
+наші наш adj:pron:pos:p:v_naz/v_zna/v_kly
+наших наш adj:pron:pos:p:v_rod/v_zna/v_mis
+нашим наш adj:pron:pos:p:v_dav
+нашими наш adj:pron:pos:p:v_oru 
+
+
+//невідь-який/V - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+невідь-який/V adj:pron:ind:v_naz:rare/v_zna:rare/v_kly:rare
+
+
+//невість-який/V - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+невість-який/V adj:pron:ind:v_naz:rare/v_zna:rare/v_kly:rare
+
+
+//невіть-який/V - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+невіть-який/V adj:pron:ind:v_naz:rare/v_zna:rare/v_kly:rare
+
+
+//неякийсь/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм  і теґ займенникового слова,  кличний відмінок
+
+
+неякийсь неякийсь adj:pron:neg:s:m:v_naz/v_zna/v_kly:rare
+неякогось неякийсь adj:pron:neg:s:m:v_rod/v_zna
+неякомусь неякийсь adj:pron:neg:s:m:v_dav/v_mis
+неякимсь неякийсь adj:pron:neg:s:m:v_oru
+неякимось неякийсь adj:pron:neg:s:m:v_oru
+неякімось неякийсь adj:pron:neg:s:m:v_mis
+
+неякась неякийсь adj:pron:neg:s:f:v_naz/v_kly:rare
+неякоїсь неякийсь adj:pron:neg:s:f:v_rod
+неякійсь неякийсь adj:pron:neg:s:f:v_dav/v_mis
+неякусь неякийсь adj:pron:neg:s:f:v_zna
+неякоюсь неякийсь adj:pron:neg:s:f:v_oru
+
+неякесь неякийсь adj:pron:neg:s:n:v_naz/v_zna/v_kly:rare
+неякогось неякийсь adj:pron:neg:s:n:v_rod
+неякомусь неякийсь adj:pron:neg:s:n:v_dav/v_mis
+неякимось неякийсь adj:pron:neg:s:n:v_oru
+неякімось неякийсь adj:pron:neg:s:n:v_mis
+
+неякісь неякийсь adj:pron:neg:p:v_naz/v_zna/v_kly:rare
+неякихось неякийсь adj:pron:neg:p:v_rod/v_zna/v_mis
+неякимось неякийсь adj:pron:neg:p:v_dav
+неякимись неякийсь adj:pron:neg:p:v_oru
+
+
+//нікоторий/V - r2u маркує adj: додати теґ займенникового слова,  кличний відмінок
+нікоторий/V adj:pron:neg:v_naz:rare/v_zna:rare/v_kly:rare
+
+
+//нікотрий/V - r2u маркує adj: додати теґ займенникового слова,  кличний відмінок
+нікотрий/V adj:pron:neg:v_naz:coll/v_zna:coll/v_kly:rare:coll
+
+
+//нічий/V - r2u маркує adj і правильно генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова,  кличний відмінок
+
+
+нічий нічий adj:pron:neg:s:m:v_naz/v_zna/v_kly:rare
+нічийого нічий adj:pron:neg:s:m:v_rod/v_zna
+нічийому нічий adj:pron:neg:s:m:v_dav/v_mis
+нічиєму нічий adj:pron:neg:s:m:v_dav/v_mis
+нічиїм нічий adj:pron:neg:s:m:v_oru/v_mis
+
+
+нічия нічий adj:pron:neg:s:f:v_naz/v_kly:rare
+нічиєї нічий adj:pron:neg:s:f:v_rod
+нічиїй нічий adj:pron:neg:s:f:v_dav/v_mis
+нічию нічий adj:pron:neg:s:f:v_zna
+нічиєю нічий adj:pron:neg:s:f:v_oru/v_mis
+
+
+нічиє нічий adj:pron:neg:s:n:v_naz/v_zna/v_kly:rare
+нічийого нічий adj:pron:neg:s:n:v_rod
+нічийому нічий adj:pron:neg:s:n:v_dav/v_mis
+нічиєму нічий adj:pron:neg:s:n:v_dav/v_mis
+нічиїм нічий adj:pron:neg:s:n:v_oru/v_mis
+
+
+нічиї нічий adj:pron:neg:p:v_naz/v_zna/v_kly:rare
+нічиїх нічий adj:pron:neg:p:v_rod/v_zna/v_mis
+нічиїм нічий adj:pron:neg:p:v_dav
+нічиїми нічий adj:pron:neg:p:v_oru
+
+
+//ніякий/V - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+ніякий/V adj:pron:neg:v_naz/v_zna/v_kly:rare
+
+
+//онакий/V - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+онакий/V adj:pron:def:v_naz:rare/v_zna:rare/v_kly:rare
+
+
+//оний/V - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+оний/V adj:pron:dem:v_naz:rare/v_zna:rare/v_kly:rare
+
+
+//отакий/V - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+отакий/V adj:pron:dem:v_naz/v_zna/v_kly:rare
+
+
+//отой/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+отой отой adj:pron:dem:s:m:v_naz:coll/v_zna:coll/v_kly:rare:coll
+отого отой adj:pron:dem:s:m:v_rod:coll/v_zna:coll
+отому отой adj:pron:dem:s:m:v_dav:coll/v_mis:coll
+отим отой adj:pron:dem:s:m:v_oru:coll
+отім отой adj:pron:dem:s:m:v_mis:coll
+
+
+ота отой adj:pron:dem:s:f:v_naz:coll/v_kly:rare:coll
+отої отой adj:pron:dem:s:f:v_rod:coll
+отієї отой adj:pron:dem:s:f:v_rod:coll
+отій отой adj:pron:dem:s:f:v_dav:coll/v_mis:coll
+оту отой adj:pron:dem:s:f:v_zna:coll
+отією отой adj:pron:dem:s:f:v_oru:coll
+отою отой adj:pron:dem:s:f:v_oru:coll
+
+
+оте отой adj:pron:dem:s:n:v_naz:coll/v_zna:coll/v_kly:rare:coll
+отого отой adj:pron:dem:s:n:v_rod:coll
+отому отой adj:pron:dem:s:n:v_dav:coll/v_mis:coll
+отим отой adj:pron:dem:s:n:v_oru:coll
+отім отой adj:pron:dem:s:n:v_mis:coll
+
+
+оті отой adj:pron:dem:p:v_naz:coll/v_zna:coll/v_kly:rare:coll
+отих отой adj:pron:dem:p:v_rod:coll/v_mis:coll
+отим отой adj:pron:dem:p:v_dav:coll
+отими отой adj:pron:dem:p:v_oru:coll
+
+
+//отсей/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+отсей отсей adj:pron:dem:s:m:v_naz:rare/v_zna:rare/v_kly:rare
+отсього отсей adj:pron:dem:s:m:v_rod:rare/v_zna:rare
+отсьому отсей adj:pron:dem:s:m:v_dav:rare/v_mis:rare
+отсим отсей adj:pron:dem:s:m:v_oru:rare
+отсім отсей adj:pron:dem:s:m:v_mis:rare
+
+
+отся отсей adj:pron:dem:s:f:v_naz:rare/v_kly:rare
+отсієї отсей adj:pron:dem:s:f:v_rod:rare
+отсїй отсей adj:pron:dem:s:f:v_dav:rare/v_mis:rare
+отсю отсей adj:pron:dem:s:f:v_zna:rare
+отсією отсей adj:pron:dem:s:f:v_oru:rare
+
+
+отсе отсей adj:pron:dem:s:n:v_naz:rare/v_zna:rare/v_kly:rare
+отсього отсей adj:pron:dem:s:n:v_rod:rare
+отсьому отсей adj:pron:dem:s:n:v_dav:rare/v_mis:rare
+отсим отсей adj:pron:dem:s:n:v_oru:rare/v_mis:rare
+отсім отсей adj:pron:dem:s:n:v_mis:rare
+
+
+отсі отсей adj:pron:dem:p:v_naz:rare/v_zna:rare/v_kly:rare
+отсих отсей adj:pron:dem:p:v_rod:rare/v_mis:rare
+отсим отсей adj:pron:dem:p:v_dav:rare
+отсими отсей adj:pron:dem:p:v_oru:rare
+
+
+//оттакий/V - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+оттакий/V adj:pron:dem:v_naz:rare/v_zna:rare/v_kly:rare
+
+
+//оттой/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+оттой оттой adj:pron:dem:s:m:v_naz:rare/v_zna:rare/v_kly:rare
+оттого оттой adj:pron:dem:s:m:v_rod:rare/v_zna:rare
+оттому оттой adj:pron:dem:s:m:v_dav:rare/v_mis:rare
+оттим оттой adj:pron:dem:s:m:v_oru:rare
+оттім оттой adj:pron:dem:s:m:v_mis:rare
+
+
+отта оттой adj:pron:dem:s:f:v_naz/v_kly:rare
+оттої оттой adj:pron:dem:s:f:v_rod:rare
+оттієї оттой adj:pron:dem:s:f:v_rod:rare
+оттій оттой adj:pron:dem:s:f:v_dav:rare/v_mis:rare
+отту оттой adj:pron:dem:s:f:v_zna:rare
+оттією оттой adj:pron:dem:s:f:v_oru:rare
+оттою оттой adj:pron:dem:s:f:v_oru:rare
+
+
+отте оттой adj:pron:dem:s:n:v_naz:rare/v_zna:rare/v_kly:rare
+оттого оттой adj:pron:dem:s:n:v_rod:rare
+оттому оттой adj:pron:dem:s:n:v_dav:rare/v_mis:rare
+оттим оттой adj:pron:dem:s:n:v_oru:rare
+оттім оттой adj:pron:dem:s:n:v_mis:rare
+
+
+отті оттой adj:pron:dem:p:v_naz:rare/v_zna:rare/v_kly:rare
+оттих оттой adj:pron:dem:p:v_rod:rare/v_mis:rare
+оттим оттой adj:pron:dem:p:v_dav:rare
+оттими оттой adj:pron:dem:p:v_oru:rare
+
+
+//отцей/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+отцей отцей adj:pron:dem:s:m:v_naz:rare/v_zna:rare/v_kly:rare
+отцього отцей adj:pron:dem:s:m:v_rod:rare/v_zna:rare
+отцьому отцей adj:pron:dem:s:m:v_dav:rare/v_mis:rare
+отцим отцей adj:pron:dem:s:m:v_oru:rare
+отцім отцей adj:pron:dem:s:m:v_mis:rare
+
+
+отця отцей adj:pron:dem:s:f:v_naz:rare/v_kly:rare
+отцієї отцей adj:pron:dem:s:f:v_rod:rare
+отцій отцей adj:pron:dem:s:f:v_dav:rare/v_mis:rare
+отцю отцей adj:pron:dem:s:f:v_zna:rare
+отцією отцей adj:pron:dem:s:f:v_oru:rare
+
+
+отце отцей adj:pron:dem:s:n:v_naz:rare/v_zna:rare/v_kly:rare
+отцього отцей adj:pron:dem:s:n:v_rod:rare
+отцьому отцей adj:pron:dem:s:n:v_dav:rare/v_mis:rare
+отцим отцей adj:pron:dem:s:n:v_oru:rare/v_mis:rare
+отцім отцей adj:pron:dem:s:n:v_mis:rare
+
+
+отці отцей adj:pron:dem:p:v_naz:rare/v_zna:rare/v_kly:rare
+отцих отцей adj:pron:dem:p:v_rod:rare/v_mis:rare
+отцим отцей adj:pron:dem:p:v_dav:rare
+отцими отцей adj:pron:dem:p:v_oru:rare
+
+
+//оцей/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+оцей оцей adj:pron:dem:s:m:v_naz/v_zna/v_kly:rare
+оцього оцей adj:pron:dem:s:m:v_rod/v_zna
+оцьому оцей adj:pron:dem:s:m:v_dav/v_mis
+оцим оцей adj:pron:dem:s:m:v_oru
+оцім оцей adj:pron:dem:s:m:v_mis
+
+
+оця оцей adj:pron:dem:s:f:v_naz/v_kly:rare
+оцієї оцей adj:pron:dem:s:f:v_rod
+оцій оцей adj:pron:dem:s:f:v_dav/v_mis
+оцю оцей adj:pron:dem:s:f:v_zna
+оцією оцей adj:pron:dem:s:f:v_oru
+
+
+оце оцей adj:pron:dem:s:n:v_naz/v_zna/v_kly:rare
+оцього оцей adj:pron:dem:s:n:v_rod
+оцьому оцей adj:pron:dem:s:n:v_dav/v_mis
+оцим оцей adj:pron:dem:s:n:v_oru/v_mis
+оцім оцей adj:pron:dem:s:n:v_mis
+
+
+оці оцей adj:pron:dem:p:v_naz/v_zna/v_kly:rare
+оцих оцей adj:pron:dem:p:v_rod/v_mis
+оцим оцей adj:pron:dem:p:v_dav
+оцими оцей adj:pron:dem:p:v_oru
+
+
+//перетакий/V - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+перетакий/V adj:pron:def/dem:v_naz:rare/v_zna:rare/v_kly:rare
+
+
+//подеякий/V - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+подеякий/V adj:pron:ind:v_naz:rare/v_zna:rare/v_kly:rare
+
+
+//позатой/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+позатой позатой adj:pron:dem:s:m:v_naz:rare/v_zna:rare/v_kly:rare
+позатого позатой adj:pron:dem:s:m:v_rod:rare/v_zna:rare
+позатому позатой adj:pron:dem:s:m:v_dav:rare/v_mis:rare
+позатим позатой adj:pron:dem:s:m:v_oru:rare
+позатім позатой adj:pron:dem:s:m:v_mis:rare
+
+
+позата позатой adj:pron:dem:s:f:v_naz:rare/v_kly:rare
+позатої позатой adj:pron:dem:s:f:v_rod:rare
+позатієї позатой adj:pron:dem:s:f:v_rod:rare
+позатій позатой adj:pron:dem:s:f:v_dav:rare/v_mis:rare
+позату позатой adj:pron:dem:s:f:v_zna:rare
+позатією позатой adj:pron:dem:s:f:v_oru:rare
+позатою позатой adj:pron:dem:s:f:v_oru:rare
+
+
+позате позатой adj:pron:dem:s:n:v_naz:rare/v_zna:rare/v_kly:rare
+позатого позатой adj:pron:dem:s:n:v_rod:rare
+позатому позатой adj:pron:dem:s:n:v_dav:rare/v_mis:rare
+позатим позатой adj:pron:dem:s:n:v_oru:rare
+позатім позатой adj:pron:dem:s:n:v_mis:rare
+
+
+позаті позатой adj:pron:dem:p:v_naz:rare/v_zna:rare/v_kly:rare
+позатих позатой adj:pron:dem:p:v_rod:rare/v_mis:rare
+позатим позатой adj:pron:dem:p:v_dav:rare
+позатими позатой adj:pron:dem:p:v_oru:rare
+
+
+//сам/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+сам сам adj:pron:def:s:m:v_naz/v_kly:rare
+самого сам adj:pron:def:s:m:v_rod/v_zna
+самому сам adj:pron:def:s:m:v_dav/v_mis
+самий сам adj:pron:def:s:m:v_zna
+самим сам adj:pron:def:s:m:v_oru
+самім сам adj:pron:def:s:m:v_mis
+
+
+сама сам adj:pron:def:s:f:v_naz/v_kly:rare
+самої сам adj:pron:def:s:f:v_rod
+самій сам adj:pron:def:s:f:v_dav/v_mis
+саму сам adj:pron:def:s:f:v_zna
+самою сам adj:pron:def:s:f:v_oru
+
+
+само сам adj:pron:def:s:n:v_naz/v_zna/v_kly:rare
+саме сам adj:pron:def:s:n:v_naz/v_zna/v_kly
+самого сам adj:pron:def:s:n:v_rod
+самому сам adj:pron:def:s:n:v_dav/v_mis
+самим сам adj:pron:def:s:n:v_oru
+самім сам adj:pron:def:s:n:v_mis
+
+
+самі сам adj:pron:def:p:v_naz/v_zna/v_kly:rare
+сами сам adj:pron:def:p:v_naz/v_zna/v_kly
+самих сам adj:pron:def:p:v_rod/v_zna/v_mis
+самим сам adj:pron:def:p:v_dav
+самими сам adj:pron:def:p:v_oru
+
+
+//самий - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+самий/V adj:pron:def:v_naz/v_zna/v_kly:rare
+
+
+//свій/V - r2u маркує adj і правильно генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+свій свій adj:pron:pos:m:v_naz/v_zna/v_kly:rare
+свого свій adj:pron:pos:m:v_rod/v_zna
+своєму свій adj:pron:pos:m:v_dav/v_mis
+своїм свій adj:pron:pos:m:v_oru/v_mis
+
+
+своя свій adj:pron:pos:s:f:v_naz/v_kly:rare
+своєї свій adj:pron:pos:s:f:v_rod
+своїй свій adj:pron:pos:s:f:v_dav/v_mis
+свою свій adj:pron:pos:s:f:v_zna
+своєю свій adj:pron:pos:s:f:v_oru
+
+
+своє свій adj:pron:pos:s:n:v_naz/v_zna/v_kly:rare
+свого свій adj:pron:pos:s:n:v_rod
+своєму свій adj:pron:pos:s:n:v_dav/v_mis
+своїм свій adj:pron:pos:s:n:v_oru/v_mis
+
+
+свої свій adj:pron:pos:p:v_naz/v_zna/v_kly:rare
+своїх свій adj:pron:pos:p:v_rod/v_zna/v_mis
+своїм свій adj:pron:pos:p:v_dav
+своїми свій adj:pron:pos:p:v_oru
+
+
+//сей/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+cей cей adj:pron:dem:s:m:v_naz:rare/v_zna:rare/v_kly:rare
+cього cей adj:pron:dem:s:m:v_rod:rare/v_zna:rare
+cьому cей adj:pron:dem:s:m:v_dav:rare/v_mis:rare
+cим cей adj:pron:dem:s:m:v_oru:rare
+cім cей adj:pron:dem:s:m:v_mis:rare
+
+
+cя cей adj:pron:dem:s:f:v_naz:rare/v_kly:rare
+cієї cей adj:pron:dem:s:f:v_rod:rare
+cій cей adj:pron:dem:s:f:v_dav:rare/v_mis:rare
+cю cей adj:pron:dem:s:f:v_zna:rare
+cією cей adj:pron:dem:s:f:v_oru:rare
+
+
+cе cей adj:pron:dem:s:n:v_naz:rare/v_zna:rare/v_kly:rare
+cього cей adj:pron:dem:s:n:v_rod:rare
+cьому cей adj:pron:dem:s:n:v_dav:rare/v_mis:rare
+cим cей adj:pron:dem:s:n:v_oru:rare/v_mis:rare
+cім cей adj:pron:dem:s:n:v_mis:rare
+
+
+cі cей adj:pron:dem:p:v_naz:rare/v_zna:rare/v_kly:rare
+cих cей adj:pron:dem:p:v_rod:rare/v_mis:rare
+cим cей adj:pron:dem:p:v_dav:rare
+cими cей adj:pron:dem:p:v_oru:rare
+
+
+//сякий/V - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+сякий/V adj:pron:def:v_naz:coll/v_zna:coll/v_kly:rare:coll
+
+
+//сякий-такий/V - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+сякий-такий/V adj:pron:def:v_naz:coll/v_zna:coll/v_kly:rare:coll
+
+
+//сякий-такий-перетакий/V - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+сякий-такий-перетакий/V adj:pron:def:v_naz:coll/v_zna:coll/v_kly:rare:coll
+
+
+//такий/V - r2u маркує adj: додати теґ займенникового слова
+такий/V adj:pron:def:v_naz/v_zna/v_kly:rare
+
+
+//такий-сякий/V - r2u маркує adj: додати теґ займенникового слова
+такий-сякий/V adj:pron:def:v_naz:coll/v_zna:coll/v_kly:rare:coll
+
+
+//такий-то/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ pron, кличний відмінок
+
+
+такий-то такий-то adj:pron:def:s:m:v_naz/v_zna/v_kly:rare
+такого-то такий-то adj:pron:def:s:m:v_rod/v_zna
+такому-то такий-то adj:pron:def:s:m:v_dav/v_mis
+таким-то такий-то adj:pron:def:s:m:v_oru
+такім-то такий-то adj:pron:def:s:m:v_mis
+
+
+така-то такий-то adj:pron:def:s:f:v_naz/v_kly:rare
+такої-то такий-то adj:pron:def:s:f:v_rod
+такій-то такий-то adj:pron:def:s:f:v_dav/v_mis
+таку-то такий-то adj:pron:def:s:f:v_zna
+такою-то такий-то adj:pron:def:s:f:v_oru
+
+
+таке-то такий-то adj:pron:def:s:n:v_naz/v_zna/v_kly:rare
+такого-то такий-то adj:pron:def:s:n:v_rod
+такому-то такий-то adj:pron:def:s:n:v_dav/v_mis
+таким-то такий-то adj:pron:def:s:n:v_oru
+такім-то такий-то adj:pron:def:s:n:v_mis
+
+
+такі-то такий-то adj:pron:def:p:v_naz/v_zna/v_kly:rare
+таких-то такий-то adj:pron:def:p:v_rod/v_zna/v_mis
+таким-то такий-то adj:pron:def:p:v_dav
+такими-то такий-то adj:pron:def:p:v_oru
+
+
+//тамтой/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+тамтой тамтой adj:pron:dem:s:m:v_naz:rare/v_zna:rare/v_kly:rare
+тамтого тамтой adj:pron:dem:s:m:v_rod:rare/v_zna:rare
+тамтому тамтой adj:pron:dem:s:m:v_dav:rare/v_mis:rare
+тамтим тамтой adj:pron:dem:s:m:v_oru:rare
+тамтім тамтой adj:pron:dem:s:m:v_mis:rare
+
+
+тамта тамтой adj:pron:dem:s:f:v_naz:rare/v_kly:rare
+тамтої тамтой adj:pron:dem:s:f:v_rod:rare
+тамтій тамтой adj:pron:dem:s:f:v_dav:rare/v_mis:rare
+тамту тамтой adj:pron:dem:s:f:v_zna:rare
+тамтою тамтой adj:pron:dem:s:f:v_oru:rare
+
+
+тамте тамтой adj:pron:dem:s:n:v_naz:rare/v_zna:rare/v_kly:rare
+тамтого тамтой adj:pron:dem:s:n:v_rod:rare
+тамтому тамтой adj:pron:dem:s:n:v_dav:rare/v_mis:rare
+тамтим тамтой adj:pron:dem:s:n:v_oru:rare
+тамтім тамтой adj:pron:dem:s:n:v_mis:rare
+
+
+тамті тамтой adj:pron:dem:p:v_naz:rare/v_zna:rare/v_kly:rare
+тамтих тамтой adj:pron:dem:p:v_rod:rare/v_mis:rare
+тамтим тамтой adj:pron:dem:p:v_dav:rare
+тамтими тамтой adj:pron:dem:p:v_oru:rare
+
+
+//твій/V - r2u маркує adj і правильно генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+твій твій adj:pron:pos:s:m:v_naz/v_zna/v_kly
+твого твій adj:pron:pos:s:m:v_rod/v_zna
+твоєму твій adj:pron:pos:s:m:v_dav/v_mis
+твоїм твій adj:pron:pos:s:m:v_oru/v_mis
+
+
+твоя твій adj:pron:pos:s:f:v_naz/v_kly
+твоєї твій adj:pron:pos:s:f:v_rod
+твоїй твій adj:pron:pos:s:f:v_dav/v_mis
+твою твій adj:pron:pos:s:f:v_zna
+твоєю твій adj:pron:pos:s:f:v_oru
+
+
+твоє твій adj:pron:pos:s:n:v_naz/v_zna/v_kly
+твого твій adj:pron:pos:s:n:v_rod
+твоєму твій adj:pron:pos:s:n:v_dav/v_mis
+твоїм твій adj:pron:pos:n:s:v_oru/v_mis
+
+
+твої твій adj:pron:pos:p:v_naz/v_zna/v_kly
+твоїх твій adj:pron:pos:p:v_rod/v_zna/v_mis
+твоїм твій adj:pron:pos:p:v_dav
+твоїми твій adj:pron:pos:p:v_oru
+
+
+//той/V - r2u маркує adj і правильно генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+той той adj:pron:dem:s:m:v_naz/v_zna/v_kly:rare
+того той adj:pron:dem:s:m:v_rod/v_zna
+тому той adj:pron:dem:s:m:v_dav/v_mis
+тим той adj:pron:dem:s:m:v_oru
+тім той adj:pron:dem:s:m:v_mis
+
+
+та той adj:pron:dem:s:f:v_naz/v_kly:rare
+тої той adj:pron:dem:s:f:v_rod
+тієї той adj:pron:dem:s:f:v_rod
+тій той adj:pron:dem:s:f:v_dav/v_mis
+ту той adj:pron:dem:s:f:v_zna
+тією той adj:pron:dem:s:f:v_oru
+тою той adj:pron:dem:s:f:v_oru
+
+
+те той adj:pron:dem:s:n:v_naz/v_zna/v_kly:rare
+того той adj:pron:dem:s:n:v_rod
+тому той adj:pron:dem:s:n:v_dav/v_mis
+тим той adj:pron:dem:s:n:v_oru
+тім той adj:pron:dem:s:n:v_mis
+
+
+ті той adj:pron:dem:p:v_naz/v_zna/v_kly:rare
+тих той adj:pron:dem:p:v_rod/v_mis
+тим той adj:pron:dem:p:v_dav
+тими той adj:pron:dem:p:v_oru
+
+
+//той-таки/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+той-таки той-таки adj:pron:dem:s:m:v_naz/v_zna/v_kly:rare
+того-таки той-таки adj:pron:dem:s:m:v_rod/v_zna
+тому-таки той-таки adj:pron:dem:s:m:v_dav/v_mis
+тим-таки той-таки adj:pron:dem:s:m:v_oru
+тім-таки той-таки adj:pron:dem:s:m:v_mis
+
+
+та-таки той-таки adj:pron:dem:s:f:v_naz/v_kly:rare
+тої-таки той-таки adj:pron:dem:s:f:v_rod
+тієї-таки той-таки adj:pron:dem:s:f:v_rod
+тій-таки той-таки adj:pron:dem:s:f:v_dav/v_mis
+ту-таки той-таки adj:pron:dem:s:f:v_zna
+тією-таки той-таки adj:pron:dem:s:f:v_oru
+тою-таки той-таки adj:pron:dem:s:f:v_oru
+
+
+те-таки той-таки adj:pron:dem:s:n:v_naz/v_zna/v_kly:rare
+того-таки той-таки adj:pron:dem:s:n:v_rod
+тому-таки той-таки adj:pron:dem:s:n:v_dav/v_mis
+тим-таки той-таки adj:pron:dem:s:n:v_oru
+тім-таки той-таки adj:pron:dem:s:n:v_mis
+
+
+ті-таки той-таки adj:pron:dem:p:v_naz/v_zna/v_kly:rare
+тих-таки той-таки adj:pron:dem:p:v_rod/v_mis
+тим-таки той-таки adj:pron:dem:p:v_dav
+тими-таки той-таки adj:pron:dem:p:v_oru
+
+
+//тот/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+тот тот adj:pron:dem:s:m:v_naz:rare/v_zna:rare/v_kly:rare
+тотого тот adj:pron:dem:s:m:v_rod:rare/v_zna:rare
+тотому тот adj:pron:dem:s:m:v_dav:rare/v_mis:rare
+тотим тот adj:pron:dem:s:m:v_oru:rare
+тотім тот adj:pron:dem:s:m:v_mis:rare
+
+
+тота той adj:pron:dem:s:f:v_naz:rare/v_kly:rare
+тотої той adj:pron:dem:s:f:v_rod:rare
+тотій той adj:pron:dem:s:f:v_dav:rare/v_mis:rare
+тоту той adj:pron:dem:s:f:v_zna:rare
+тотою той adj:pron:dem:s:f:v_oru:rare
+
+
+тоте той adj:pron:dem:s:n:v_naz:rare/v_zna:rare/v_kly:rare
+тотого той adj:pron:dem:s:n:v_rod:rare
+тотому той adj:pron:dem:s:n:v_dav:rare/v_mis:rare
+тотим той adj:pron:dem:s:n:v_oru:rare
+тотім той adj:pron:dem:s:n:v_mis:rare
+
+
+тоті той adj:pron:dem:p:v_naz:rare/v_zna:rare/v_kly:rare
+тотих той adj:pron:dem:p:v_rod:rare/v_mis:rare
+тотим той adj:pron:dem:p:v_dav:rare
+тотими той adj:pron:dem:p:v_oru:rare
+
+
+//хтозна-котрий/V - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+хтозна-котрий/V adj:pron:ind:v_naz/v_zna/v_kly:rare
+
+
+//хтозна-чий/V - r2u маркує adj і правильно генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+хтозна-чий хтозна-чий adj:pron:ind:s:m:v_naz:coll/v_zna:coll/v_kly:rare:coll
+хтозна-чийого хтозна-чий adj:pron:ind:s:m:v_rod:coll/v_zna:coll
+хтозна-чиєму хтозна-чий adj:pron:ind:s:m:v_dav:coll/v_mis:coll
+хтозна-чийому хтозна-чий adj:pron:ind:s:m:v_dav:coll/v_mis:coll
+хтозна-чиїм хтозна-чий adj:pron:ind:s:m:v_oru:coll/v_mis:coll
+
+
+хтозна-чия хтозна-чий adj:pron:ind:s:f:v_naz:coll/v_kly:rare:coll
+хтозна-чиєї хтозна-чий adj:pron:ind:s:f:v_rod:coll
+хтозна-чиїй хтозна-чий adj:pron:ind:s:f:v_dav:coll/v_mis:coll
+хтозна-чию хтозна-чий adj:pron:ind:s:f:v_zna:coll
+хтозна-чиєю хтозна-чий adj:pron:ind:s:f:v_oru:coll/v_mis:coll
+
+
+хтозна-чиє хтозна-чий adj:pron:ind:s:n:v_naz:coll/v_zna:coll/v_kly:rare:coll
+хтозна-чийого хтозна-чий adj:pron:ind:s:n:v_rod:coll
+хтозна-чиєму хтозна-чий adj:pron:ind:s:n:v_dav:coll/v_mis:coll
+хтозна-чийому хтозна-чий adj:pron:ind:s:n:v_dav:coll/v_mis:coll
+хтозна-чиїм хтозна-чий adj:pron:ind:s:n:v_oru:coll/v_mis:coll
+
+
+хтозна-чиї хтозна-чий adj:pron:ind:p:v_naz:coll/v_zna:coll/v_kly:rare:coll
+хтозна-чиїх хтозна-чий adj:pron:ind:p:v_rod:coll/v_mis:coll
+хтозна-чиїм хтозна-чий adj:pron:ind:p:v_dav:coll
+хтозна-чиїми хтозна-чий adj:pron:ind:p:v_oru:coll
+
+
+//хтозна-який/V - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+хтозна-який/V adj:pron:ind:v_naz:coll/v_zna:coll/v_kly:rare:coll
+
+
+//цей/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+цей цей adj:pron:dem:s:m:v_naz/v_zna/v_kly:rare
+цього цей adj:pron:dem:s:m:v_rod/v_zna
+цьому цей adj:pron:dem:s:m:v_dav/v_mis
+цим цей adj:pron:dem:s:m:v_oru
+цім цей adj:pron:dem:s:m:v_mis
+
+
+ця цей adj:pron:dem:s:f:v_naz/v_kly:rare
+цієї цей adj:pron:dem:s:f:v_rod
+цій цей adj:pron:dem:s:f:v_dav/v_mis
+цю цей adj:pron:dem:s:f:v_zna
+цією цей adj:pron:dem:s:f:v_oru
+
+
+це цей adj:pron:dem:s:n:v_naz/v_zna/v_kly:rare
+цього цей adj:pron:dem:s:n:v_rod
+цьому цей adj:pron:dem:s:n:v_dav/v_mis
+цим цей adj:pron:dem:s:n:v_oru/v_mis
+цім цей adj:pron:dem:s:n:v_mis
+
+
+ці цей adj:pron:dem:p:v_naz/v_zna/v_kly:rare
+цих цей adj:pron:dem:p:v_rod/v_mis
+цим цей adj:pron:dem:p:v_dav
+цими цей adj:pron:dem:p:v_oru
+
+
+
+
+//чий/V - r2u маркує adj і правильно генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+чий чий adj:pron:int/rel:s:m:v_naz/v_zna/v_kly:rare
+чийого чий adj:pron:int/rel:s:m:v_rod/v_zna
+чиєму чий adj:pron:int/rel:s:m:v_dav/v_mis
+чийому чий adj:pron:int/rel:s:m:v_dav/v_mis
+чиїм чий adj:pron:int/rel:s:m:v_oru/v_mis
+
+чия чий adj:pron:int/rel:s:f:v_naz/v_kly:rare
+чиєї чий adj:pron:int/rel:s:f:v_rod
+чиїй чий adj:pron:int/rel:s:f:v_dav/v_mis
+чию чий adj:pron:int/rel:s:f:v_zna
+чиєю чий adj:pron:int/rel:s:f:v_oru/v_mis
+
+чиє чий adj:pron:int/rel:s:n:v_naz/v_zna/v_kly:rare
+чийого чий adj:pron:int/rel:s:n:v_rod
+чиєму чий adj:pron:int/rel:s:n:v_dav/v_mis
+чийому чий adj:pron:int/rel:s:n:v_dav/v_mis
+чиїм чий adj:pron:int/rel:s:n:v_oru/v_mis
+
+чиї чий adj:pron:int/rel:p:v_naz/v_zna/v_kly:rare
+чиїх чий adj:pron:int/rel:p:v_rod/v_mis
+чиїм чий adj:pron:int/rel:p:v_dav
+чиїми чий adj:pron:int/rel:p:v_oru
+
+
+//чий-будь/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+чий-будь чий-будь adj:pron:ind:s:m:v_naz/v_zna/v_kly:rare
+чийого-будь чий-будь adj:pron:ind:s:m:v_rod/v_zna
+чиєму-будь чий-будь adj:pron:ind:s:m:v_dav/v_mis
+чийому-будь чий-будь adj:pron:ind:s:m:v_dav/v_mis
+чиїм-будь чий-будь adj:pron:ind:s:m:v_oru/v_mis
+
+чия-будь чий-будь adj:pron:ind:s:f:v_naz/v_kly:rare
+чиєї-будь чий-будь adj:pron:ind:s:f:v_rod
+чиїй-будь чий-будь adj:pron:ind:s:f:v_dav/v_mis
+чию-будь чий-будь adj:pron:ind:s:f:v_zna
+чиєю-будь чий-будь adj:pron:ind:s:f:v_oru/v_mis
+
+чиє-будь чий-будь adj:pron:ind:s:n:v_naz/v_zna/v_kly:rare
+чийого-будь чий-будь adj:pron:ind:s:n:v_rod
+чиєму-будь чий-будь adj:pron:ind:s:n:v_dav/v_mis
+чийому-будь чий-будь adj:pron:ind:s:n:v_dav/v_mis
+чиїм-будь чий-будь adj:pron:ind:s:n:v_oru/v_mis
+
+чиї-будь чий-будь adj:pron:ind:p:v_naz/v_zna/v_kly:rare
+чиїх-будь чий-будь adj:pron:ind:p:v_rod/v_mis
+чиїм-будь чий-будь adj:pron:ind:p:v_dav
+чиїми-будь чий-будь adj:pron:ind:p:v_oru
+
+
+//чий-небудь/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+чий-небудь чий-небудь adj:pron:ind:s:m:v_naz/v_zna/v_kly:rare
+чийого-небудь чий-небудь adj:pron:ind:s:m:v_rod/v_zna
+чиєму-небудь чий-небудь adj:pron:ind:s:m:v_dav/v_mis
+чийому-небудь чий-небудь adj:pron:ind:s:m:v_dav/v_mis
+чиїм-небудь чий-небудь adj:pron:ind:s:m:v_oru/v_mis
+
+чия-небудь чий-небудь adj:pron:ind:s:f:v_naz/v_kly:rare
+чиєї-небудь чий-небудь adj:pron:ind:s:f:v_rod
+чиїй-небудь чий-небудь adj:pron:ind:s:f:v_dav/v_mis
+чию-небудь чий-небудь adj:pron:ind:s:f:v_zna
+чиєю-небудь чий-небудь adj:pron:ind:s:f:v_oru/v_mis
+
+чиє-небудь чий-небудь adj:pron:ind:s:n:v_naz/v_zna/v_kly:rare
+чийого-небудь чий-небудь adj:pron:ind:s:n:v_rod
+чиєму-небудь чий-небудь adj:pron:ind:s:n:v_dav/v_mis
+чийому-небудь чий-небудь adj:pron:ind:s:n:v_dav/v_mis
+чиїм-небудь чий-небудь adj:pron:ind:s:n:v_oru/v_mis
+
+чиї-небудь чий-небудь adj:pron:ind:p:v_naz/v_zna/v_kly:rare
+чиїх-небудь чий-небудь adj:pron:ind:p:v_rod/v_mis
+чиїм-небудь чий-небудь adj:pron:ind:p:v_dav
+чиїми-небудь чий-небудь adj:pron:ind:p:v_oru
+
+
+
+
+//чийсь/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+чийсь чийсь adj:pron:ind:s:m:v_naz/v_zna/v_kly:rare
+чийогось чийсь adj:pron:ind:s:m:v_rod/v_zna
+чийомусь чийсь adj:pron:ind:s:m:v_dav/v_mis
+чиємусь чийсь adj:pron:ind:s:m:v_dav/v_mis
+чиїмось чийсь adj:pron:ind:s:m:v_oru/v_mis
+чиїмсь чийсь adj:pron:ind:s:m:v_oru/v_mis
+
+чиясь чийсь adj:pron:ind:s:f:v_naz/v_kly:rare
+чиєїсь чийсь adj:pron:ind:s:f:v_rod
+чиїйсь чийсь adj:pron:ind:s:f:v_dav/v_mis
+чиюсь чийсь adj:pron:ind:s:f:v_zna
+чиєюсь чийсь adj:pron:ind:s:f:v_oru/v_mis
+
+чиєсь чийсь adj:pron:ind:s:n:v_naz/v_zna/v_kly:rare
+чийогось чийсь adj:pron:ind:s:n:v_rod
+чийомусь чийсь adj:pron:ind:s:n:v_dav/v_mis
+чиїмось чийсь adj:pron:ind:s:n:v_oru/v_mis
+чиїмсь чийсь adj:pron:ind:s:n:v_oru/v_mis
+
+чиїсь чийсь adj:pron:ind:p:v_naz/v_zna/v_kly:rare
+чиїхсь чийсь adj:pron:ind:p:v_rod/v_mis
+чиїмсь чийсь adj:pron:ind:p:v_dav
+чиїмись чийсь adj:pron:ind:p:v_oru
+
+
+//чортзна-чий/V - r2u маркує adj і правильно генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+чортзна-чий чортзна-чий adj:pron:ind:s:m:v_naz:coll/v_zna:coll/v_kly:rare:coll
+чортзна-чийого чортзна-чий adj:pron:ind:s:m:v_rod:coll/v_zna:coll
+чортзна-чиєму чортзна-чий adj:pron:ind:s:m:v_dav:coll/v_mis:coll
+чортзна-чийому чортзна-чий adj:pron:ind:s:m:v_dav:coll/v_mis:coll
+чортзна-чиїм чортзна-чий adj:pron:ind:s:m:v_oru:coll/v_mis:coll
+
+
+чортзна-чия чортзна-чий adj:pron:ind:s:f:v_naz:coll/v_kly:rare:coll
+чортзна-чиєї чортзна-чий adj:pron:ind:s:f:v_rod:coll
+чортзна-чиїй чортзна-чий adj:pron:ind:s:f:v_dav:coll/v_mis:coll
+чортзна-чию чортзна-чий adj:pron:ind:s:f:v_zna:coll
+чортзна-чиєю чортзна-чий adj:pron:ind:s:f:v_oru:coll/v_mis:coll
+
+
+чортзна-чиє чортзна-чий adj:pron:ind:s:n:v_naz:coll/v_zna:coll/v_kly:rare:coll
+чортзна-чийого чортзна-чий adj:pron:ind:s:n:v_rod:coll
+чортзна-чиєму чортзна-чий adj:pron:ind:s:n:v_dav:coll/v_mis:coll
+чортзна-чийому чортзна-чий adj:pron:ind:s:n:v_dav:coll/v_mis:coll
+чортзна-чиїм чортзна-чий adj:pron:ind:s:n:v_oru/v_mis:coll
+
+
+чортзна-чиї чортзна-чий adj:pron:ind:p:v_naz:coll/v_zna:coll/v_kly:rare:coll
+чортзна-чиїх чортзна-чий adj:pron:ind:p:v_rod:coll/v_mis:coll
+чортзна-чиїм чортзна-чий adj:pron:ind:p:v_dav:coll
+чортзна-чиїми чортзна-чий adj:pron:ind:p:v_oru:coll
+
+
+//чортзна-який/V - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+чортзна-який/V adj:pron:ind:v_naz:coll/v_zna:coll/v_kly:rare:coll
+
+
+//який/V - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+який/V adj:pron:int/rel/def:v_naz/v_zna/v_kly:rare
+
+
+//який-небудь/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+який-небудь який-небудь adj:pron:ind:s:m:v_naz/v_zna/v_kly:rare
+якого-небудь який-небудь adj:pron:ind:s:m:v_rod/v_zna
+якому-небудь який-небудь adj:pron:ind:s:m:v_dav/v_mis
+яким-небудь який-небудь adj:pron:ind:s:m:v_oru
+якім-небудь який-небудь adj:pron:ind:s:m:v_mis
+
+
+яка-небудь який-небудь adj:pron:ind:s:f:v_naz/v_kly:rare
+якої-небудь який-небудь adj:pron:ind:s:f:v_rod
+якій-небудь який-небудь adj:pron:ind:s:f:v_dav/v_mis
+яку-небудь який-небудь adj:pron:ind:s:f:v_zna
+якою-небудь який-небудь adj:pron:ind:s:f:v_oru
+
+
+яке-небудь який-небудь adj:pron:ind:s:n:v_naz/v_zna/v_kly:rare
+якого-небудь який-небудь adj:pron:ind:s:n:v_rod
+якому-небудь який-небудь adj:pron:ind:s:n:v_dav/v_mis
+яким-небудь який-небудь adj:pron:ind:s:n:v_oru
+якім-небудь який-небудь adj:pron:ind:s:n:v_mis
+
+
+які-небудь який-небудь adj:pron:ind:p:v_naz/v_zna/v_kly:rare
+яких-небудь який-небудь adj:pron:ind:p:v_rod/v_zna/v_mis
+яким-небудь який-небудь adj:pron:ind:p:v_dav
+якими-небудь який-небудь adj:pron:ind:p:v_oru
+
+
+//який-но/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna  : додати теґ займенникового слова, кличний відмінок
+
+
+який-но який-но adj:pron:ind:s:m:v_naz/v_zna/v_kly:rare
+якого-но який-но adj:pron:ind:s:m:v_rod:rare/v_zna:rare
+якому-но який-но adj:pron:ind:s:m:v_dav:rare/v_mis:rare
+яким-но який-но adj:pron:ind:s:m:v_oru:rare
+якім-но який-но adj:pron:ind:s:m:v_mis:rare
+
+
+яка-но який-но adj:pron:ind:s:f:v_naz/v_kly:rare
+якої-но який-но adj:pron:ind:s:f:v_rod:rare
+якій-но який-но adj:pron:ind:s:f:v_dav:rare/v_mis:rare
+яку-но який-но adj:pron:ind:s:f:v_zna:rare
+якою-но який-но adj:pron:ind:s:f:v_oru:rare
+
+
+яке-но який-но adj:pron:ind:s:n:v_naz/v_zna/v_kly:rare
+якого-но який-но adj:pron:ind:s:n:v_rod:rare
+якому-но який-но adj:pron:ind:s:n:v_dav:rare/v_mis:rare
+яким-но який-но adj:pron:ind:s:n:v_oru:rare
+якім-но який-но adj:pron:ind:s:n:v_mis:rare
+
+
+які-но який-но adj:pron:ind:p:v_naz/v_zna/v_kly:rare
+яких-но який-но adj:pron:ind:p:v_rod:rare/v_zna:rare/v_mis:rare
+яким-но який-но adj:pron:ind:p:v_dav:rare
+якими-но який-но adj:pron:ind:p:v_oru:rare
+
+
+
+
+//якийсь/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+якийсь якийсь adj:pron:ind:s:m:v_naz/v_zna/v_kly:rare
+якогось якийсь adj:pron:ind:s:m:v_rod/v_zna
+якомусь якийсь adj:pron:ind:s:m:v_dav/v_mis
+якимсь якийсь adj:pron:ind:s:m:v_oru
+якимось якийсь adj:pron:ind:s:m:v_oru/v_mis
+
+
+
+
+якась якийсь adj:pron:ind:s:f:v_naz/v_kly:rare
+якоїсь якийсь adj:pron:ind:s:f:v_rod
+якійсь якийсь adj:pron:ind:s:f:v_dav/v_mis
+якусь якийсь adj:pron:ind:s:f:v_zna
+якоюсь якийсь adj:pron:ind:s:f:v_oru
+
+
+якесь якийсь adj:pron:ind:s:n:v_naz/v_zna/v_kly:rare
+якогось якийсь adj:pron:ind:s:n:v_rod
+якомусь якийсь adj:pron:ind:s:n:v_dav/v_mis
+якимось якийсь adj:pron:ind:s:n:v_oru/v_mis 
+
+
+якісь якийсь adj:pron:ind:p:v_naz/v_zna/v_kly:rare
+якихось якийсь adj:pron:ind:p:v_rod/v_zna/v_mis
+якихсь якийсь adj:pron:ind:p:v_rod/v_zna/v_mis
+якимось якийсь adj:pron:ind:p:v_dav
+якимись якийсь adj:pron:ind:p:v_oru
+
+
+//якийсь-то/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+якийсь-то якийсь-то adj:pron:ind:s:m:v_naz/v_zna/v_kly:rare
+якогось-то якийсь-то adj:pron:ind:s:m:v_rod/v_zna
+якомусь-то якийсь-то adj:pron:ind:s:m:v_dav/v_mis
+якимсь-то якийсь-то adj:pron:ind:s:m:v_oru/v_mis
+
+
+якась-то якийсь-то adj:pron:ind:s:f:v_naz/v_kly:rare
+якоїсь-то якийсь-то adj:pron:ind:s:f:v_rod
+якійсь-то якийсь-то adj:pron:ind:s:f:v_dav/v_mis
+якусь-то якийсь-то adj:pron:ind:s:f:v_zna
+якоюсь-то якийсь-то adj:pron:ind:s:f:v_oru
+
+
+якесь-то який-то adj:pron:ind:s:n:v_naz/v_zna/v_kly:rare
+якогось-то який-то adj:pron:ind:s:n:v_rod
+якомусь-то який-то adj:pron:ind:s:n:v_dav/v_mis
+якимсь-то який-то adj:pron:ind:s:n:v_oru/v_mis
+
+
+якісь-то якийсь-то adj:pron:ind:p:v_naz/v_zna/v_kly:rare
+якихсь-то якийсь-то adj:pron:ind:p:v_rod/v_zna/v_mis
+якимсь-то якийсь-то adj:pron:ind:p:v_dav
+якимись-то якийсь-то adj:pron:ind:p:v_oru
+
+
+//який-такий/V - r2u маркує adj: додати теґ займенникового слова, кличний відмінок
+який-такий/V adj:pron:ind:v_naz:coll/v_zna:coll/v_kly:rare:coll
+
+
+//який-то/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+який-то який-то adj:pron:ind:s:m:v_naz/v_zna/v_kly:rare
+якого-то який-то adj:pron:ind:s:m:v_rod/v_zna
+якому-то який-то adj:pron:ind:s:m:v_dav/v_mis
+яким-то який-то adj:pron:ind:s:m:v_oru
+якім-то який-то adj:pron:ind:s:m:v_mis
+
+
+яка-то який-то adj:pron:ind:s:f:v_naz/v_kly:rare
+якої-то який-то adj:pron:ind:s:f:v_rod
+якій-то який-то adj:pron:ind:s:f:v_dav/v_mis
+яку-то який-то adj:pron:ind:s:f:v_zna
+якою-то який-то adj:pron:ind:s:f:v_oru
+
+
+яке-то який-то adj:pron:ind:s:n:v_naz/v_zna/v_kly:rare
+якого-то який-то adj:pron:ind:s:n:v_rod
+якому-то який-то adj:pron:ind:s:n:v_dav/v_mis
+яким-то який-то adj:pron:ind:s:n:v_oru
+якім-то який-то adj:pron:ind:s:n:v_mis
+
+
+які-то який-то adj:pron:ind:p:v_naz/v_zna/v_kly:rare
+яких-то який-то adj:pron:ind:p:v_rod/v_zna/v_mis
+яким-то який-то adj:pron:ind:p:v_dav
+якими-то який-то adj:pron:ind:p:v_oru
+
+
+//один/V - r2u маркує adj і генерує правильно  тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
+
+
+один один adj:pron:ind:s:m:v_naz/v_zna/v_kly:rare
+одного один adj:pron:ind:s:m:v_rod/v_zna
+одному один adj:pron:ind:s:m:v_dav/v_mi
+одним один adj:pron:ind:s:m:v_oru
+однім один adj:pron:ind:s:m:v_mis
+
+
+одна один adj:pron:ind:s:f:v_naz/v_kly:rare
+одної один adj:pron:ind:s:f:v_rod
+однієї один adj:pron:ind:s:f:v_rod
+одній один adj:pron:ind:s:f:v_dav/v_mis
+одну один adj:pron:ind:s:f:v_zna
+одною один adj:pron:ind:s:f:v_oru
+однією один adj:pron:ind:s:f:v_oru
+
+
+одне один adj:pron:ind:s:n:v_naz/v_zna/v_kly:rare
+одно один adj:pron:ind:s:n:v_naz/v_zna/v_kly:rare
+одного один adj:pron:ind:s:n:v_rod
+одному один adj:pron:ind:s:n:v_dav/v_mis
+одним один adj:pron:ind:s:n:v_oru
+однім один adj:pron:ind:s:n:v_mis
+
+
+одні один adj:pron:ind:p:v_naz/v_zna/v_kly:rare
+одних один adj:pron:ind:p:v_rod/v_zna/v_mis
+одним один adj:pron:ind:p:v_dav
+одними один adj:pron:ind:p:v_oru
+
+
+#NOUN:PRON
+я я noun:pron:pers:1:np:v_naz/v_kly:rare
+мене я noun:pron:pers:1:np:v_rod/v_zna
+мені я noun:pron:pers:1:np:v_dav/v_mis
+мною я noun:pron:pers:1:np:v_oru
+
+
+ти ти noun:pron:pers:2:np:v_naz/v_kly
+тебе ти noun:pron:pers:2:np:v_rod/v_zna
+тобі ти noun:pron:pers:2:np:v_dav/v_mis
+тобою ти noun:pron:pers:2:np:v_oru
+
+
+він він noun:pron:pers:s:m:3:v_naz/v_kly:rare
+його він noun:pron:pers:s:m:3:v_rod/v_zna
+нього він noun:pron:pers:s:m:3:v_rod/v_zna
+йому він noun:pron:pers:s:m:3:v_dav
+ньому він noun:pron:pers:s:m:3:v_mis
+ним він noun:pron:pers:s:m:3:v_oru
+нім він noun:pron:pers:s:m:3:v_mis
+
+
+вона вона noun:pron:pers:s:f:3:v_naz/v_kly:rare
+її вона noun:pron:pers:s:f:3:v_rod/v_zna
+неї вона noun:pron:pers:s:f:3:v_rod/v_zna
+їй вона noun:pron:pers:s:f:3:v_dav
+нею вона noun:pron:pers:s:f:3:v_oru
+ній вона noun:pron:pers:s:f:3:v_mis
+
+
+воно воно noun:pron:pers:s:n:3:v_naz/v_kly:rare
+його воно noun:pron:pers:s:n:3:v_rod/v_zna
+нього воно noun:pron:pers:s:n:3:v_rod/v_zna
+йому воно noun:pron:pers:s:n:3:v_dav
+ньому воно noun:pron:pers:s:n:3:v_mis
+ним воно noun:pron:pers:s:n:3:v_oru
+
+
+ми ми noun:pron:pers:1:ns:v_naz/v_kly:rare
+нас ми noun:pron:pers:1:ns:v_rod/v_zna/v_mis
+нам ми noun:pron:pers:1:ns:v_dav
+нами ми noun:pron:pers:1:ns:v_oru
+
+
+ви ви noun:pron:pers:2:ns:v_naz/v_kly
+вас ви noun:pron:pers:2:ns:v_rod/v_zna/v_mis
+вам ви noun:pron:pers:2:ns:v_dav
+вами ви noun:pron:pers:2:ns:v_oru
+
+
+вони вони noun:pron:pers:p:3:v_naz/v_kly:rare
+їх вони noun:pron:pers:p:3:v_rod/v_zna
+них вони noun:pron:pers:p:3:v_rod/v_zna/v_mis
+їм вони noun:pron:pers:p:3:v_dav
+ними вони noun:pron:pers:p:3:v_oru
+
+
+себе себе noun:pron:refl:v_rod/v_zna
+собі себе noun:pron:refl:v_dav/v_mis
+собою себе noun:pron:refl:v_oru
+
+
+хто хто noun:pron:int/rel:v_naz/v_kly:rare
+кого хто noun:pron:int/rel:v_rod/v_zna
+кому хто noun:pron:int/rel:v_dav/v_mis
+ким хто noun:pron:int/rel:v_oru
+кім хто noun:pron:int/rel:v_mis
+ 
+ніхто ніхто noun:pron:neg:v_naz/v_kly:rare
+нікого ніхто noun:pron:neg:v_rod/v_zna
+нікому ніхто noun:pron:neg:v_dav/v_mis
+ніким ніхто noun:pron:neg:v_oru
+нікім ніхто noun:pron:neg:v_mis
+
+
+нікого нікого noun:pron:neg:v_rod/v_zna
+нікому нікого noun:pron:neg:v_dav/v_mis
+ніким нікого noun:pron:neg:v_oru
+
+
+аніхто аніхто noun:pron:neg:v_naz/v_kly:rare
+анікого аніхто noun:pron:neg:v_rod/v_zna
+анікому аніхто noun:pron:neg:v_dav
+аніким аніхто noun:pron:neg:v_oru
+анікім аніхто noun:pron:neg:v_mis
+
+
+абихто абихто noun:pron:ind:v_naz/v_kly:rare
+абикого абихто noun:pron:ind:v_rod/v_zna
+абикому абихто noun:pron:ind:v_dav/v_mis
+абиким абихто noun:pron:ind:v_oru
+абикім абихто noun:pron:ind:v_mis
+
+
+бозна-хто бозна-хто noun:pron:ind:v_naz/v_kly:rare
+бозна-кого бозна-хто noun:pron:ind:v_rod/v_zna
+бозна-кому бозна-хто noun:pron:ind:v_dav/v_mis
+бозна-ким бозна-хто noun:pron:ind:v_oru
+бозна-кім бозна-хто noun:pron:ind:v_mis
+
+
+будь-хто будь-хто noun:pron:ind:v_naz/v_kly:rare
+будь-кого будь-хто noun:pron:ind:v_rod/v_zna
+будь-кому будь-хто noun:pron:ind:v_dav/v_mis
+будь-ким будь-хто noun:pron:ind:v_oru
+будь-кім будь-хто noun:pron:ind:v_mis
+
+
+дехто дехто noun:pron:ind:v_naz/v_kly:rare
+декого дехто noun:pron:ind:v_rod/v_zna
+декому дехто noun:pron:ind:v_dav/v_mis
+деким дехто noun:pron:ind:v_oru
+декім дехто noun:pron:ind:v_mis
+
+
+казна-хто казна-хто noun:pron:ind:v_naz/v_kly:rare
+казна-кого казна-хто noun:pron:ind:v_rod/v_zna
+казна-кому казна-хто noun:pron:ind:v_dav/v_mis
+казна-ким казна-хто noun:pron:ind:v_oru
+казна-кім будь-хто noun:pron:ind:v_mis
+
+
+леда-хто леда-хто noun:pron:ind:v_naz:rare/v_kly:rare
+леда-кого леда-хто noun:pron:ind:v_rod:rare/v_zna:rare
+леда-кому леда-хто noun:pron:ind:v_dav:rare/v_mis:rare
+леда-ким леда-хто noun:pron:ind:v_oru:rare
+леда-кім леда-хто noun:pron:ind:v_mis:rare
+
+
+небагато-хто небагато-хто noun:pron:ind:v_naz/v_kly:rare
+небагато-кого небагато-хто noun:pron:ind:v_rod/v_zna
+небагато-кому небагато-хто noun:pron:ind:v_dav/v_mis
+небагато-ким небагато-хто noun:pron:ind:v_oru
+небагато-кім небагато-хто noun:pron:ind:v_mis
+
+
+невідь-хто невідь-хто noun:pron:ind:v_naz/v_kly:rare
+невідь-кого невідь-хто noun:pron:ind:v_rod/v_zna
+невідь-кому невідь-хто noun:pron:ind:v_dav/v_mis
+невідь-ким невідь-хто noun:pron:ind:v_oru
+невідь-кім невідь-хто noun:pron:ind:v_mis
+
+
+хто-будь хто-будь noun:pron:ind:v_naz/v_kly:rare
+кого-будь хто-будь noun:pron:ind:v_rod/v_zna
+кому-будь хто-будь noun:pron:ind:v_dav/v_mis
+ким-будь хто-будьnoun:pron:ind:v_oru
+кім-будь хто-будь noun:pron:ind:v_mis
+
+
+хтозна-хто хтозна-хто noun:pron:ind:v_naz/v_kly:rare
+хтозна-кого хтозна-хто noun:pron:ind:v_rod/v_zna
+хтозна-кому хтозна-хто noun:pron:ind:v_dav/v_mis
+хтозна-ким хтозна-хто noun:pron:ind:v_oru
+хтозна-кім хтозна-хто noun:pron:ind:v_mis
+
+
+хто-небудь хто-небудь noun:pron:ind:v_naz/v_kly:rare
+кого-небудь хто-небудь noun:pron:ind:v_rod/v_zna
+кому-небудь хто-небудь noun:pron:ind:v_dav/v_mis
+ким-небудь хто-небудь noun:pron:ind:v_oru
+кім-небудь хто-небудь noun:pron:ind:v_mis
+ 
+хто-не-хто хто-не-хто noun:pron:ind:v_naz:coll/v_kly:rare:coll
+кого-не-кого хто-не-хто noun:pron:ind:v_rod:coll/v_zna:coll
+кому-не-кому хто-не-хто noun:pron:ind:v_dav:coll/v_mis:coll
+ким-не-ким хто-не-хто noun:pron:ind:v_oru:coll
+кім-не-кім хто-не-хто noun:pron:ind:v_mis:coll
+ 
+хтось хтось noun:pron:ind:v_naz/v_kly:rare
+когось хтось noun:pron:ind:v_rod/v_zna
+комусь хтось noun:pron:ind:v_dav/v_mis
+кимось хтось noun:pron:ind:v_oru
+кимсь хтось noun:pron:ind:v_oru
+кімсь хтось noun:pron:ind:v_mis
+
+
+хтось-то хтось-то noun:pron:ind:v_naz:coll/v_kly:rare:coll
+когось-то хтось-то noun:pron:ind:v_rod:coll/v_zna:coll
+комусь-то хтось-то noun:pron:ind:v_dav:coll/v_mis:coll
+кимось-то хтось-то noun:pron:ind:v_oru:coll
+кимсь-то хтось-то noun:pron:ind:v_oru:coll
+кімсь-то хтось-то noun:pron:ind:v_mis:coll
+
+
+чортзна-хто чортзна-хто noun:pron:ind:v_naz:coll/v_kly:rare:coll
+чортзна-кого чортзна-хто noun:pron:ind:v_rod:coll/v_zna:coll
+чортзна-кому чортзна-хто noun:pron:ind:v_dav:coll/v_mis:coll
+чортзна-ким чортзна-хто noun:pron:ind:v_oru:coll
+чортзна-кім чортзна-хто noun:pron:ind:v_mis:coll
+
+
+анікогісінько анікогісінько noun:pron:neg:v_naz:coll/v_rod:coll/v_zna:coll
+
+
+нікогісінько нікогісінько noun:pron:neg:v_naz:coll/v_rod:coll/v_zna:coll
+
+
+що що noun:pron:int/rel:v_naz/v_zna/v_kly:rare&conj:subord
+чого що noun:pron:int/rel:v_rod
+чому що noun:pron:int/rel:v_dav/v_mis
+віщо що noun:pron:int/rel:v_zna
+чим що noun:pron:int/rel/rel:v_oru
+чім що noun:pron:int/rel:v_mis
+
+
+ніщо ніщо noun:pron:neg:v_naz/v_zna/v_kly:rare
+нічого ніщо noun:pron:neg:v_rod
+нічому ніщо noun:pron:neg:v_dav/v_mis
+нічим ніщо noun:pron:neg:v_oru
+нічім ніщо noun:pron:neg:v_mis
+
+
+нічого нічого noun:pron:neg:v_rod/v_zna
+нічому нічого noun:pron:neg:v_dav/v_mis
+нічим нічого noun:pron:neg:v_oru
+нічім нічого noun:pron:neg:v_mis
+
+
+аніщо аніщо noun:pron:neg:v_naz/v_zna/v_kly:rare
+анічого аніщо noun:pron:neg:v_rod
+анічому аніщо noun:pron:neg:v_dav/v_mis
+анічим аніщо noun:pron:neg:v_oru
+анічім аніщо noun:pron:neg:v_mis
+
+
+абищо абищо noun:pron:ind:v_naz/v_zna/v_kly:rare
+абичого абищо noun:pron:ind:v_rod
+абичому абищо noun:pron:ind:v_dav/v_mis
+абичим абищо noun:pron:ind:v_oru
+абичім абищо noun:pron:ind:v_mis
+
+
+бозна-що бозна-що noun:pron:ind:v_naz/v_zna/v_kly:rare
+бозна-чого бозна-що noun:pron:ind:v_rod
+бозна-чому бозна-що noun:pron:ind:v_dav/v_mis
+бозна-чим бозна-що noun:pron:ind:v_oru
+бозна-чім бозна-що noun:pron:ind:v_mis
+
+
+будь-що будь-що noun:pron:ind:v_naz/v_zna/v_kly:rare
+будь-чого будь-що noun:pron:ind:v_rod
+будь-чому будь-що noun:pron:ind:v_dav/v_mis
+будь-чим будь-що noun:pron:ind:v_oru
+будь-чім будь-що noun:pron:ind:v_mis
+
+
+дещо дещо noun:pron:ind:v_naz/v_zna/v_kly:rare
+дечого дещо noun:pron:ind:v_rod
+дечому дещо noun:pron:ind:v_dav/v_mis
+дечим дещо noun:pron:ind:v_oru
+дечім дещо noun:pron:ind:v_mis
+
+
+казна-що казна-що noun:pron:ind:v_naz/v_zna/v_kly:rare
+казна-чого казна-що noun:pron:ind:v_rod
+казна-чому казна-що noun:pron:ind:v_dav/v_mis
+казна-чим казна-що noun:pron:ind:v_oru
+казна-чім казна-що noun:pron:ind:v_mis
+ 
+невідь-що невідь-що noun:pron:ind:v_naz/v_zna/v_kly:rare
+невідь-чого невідь-що noun:pron:ind:v_rod
+невідь-чому невідь-що noun:pron:ind:v_dav/v_mis
+невідь-чим невідь-що noun:pron:ind:v_oru
+невідь-чім невідь-що noun:pron:ind:v_mis
+
+
+хтозна-що хтозна-що noun:pron:ind:v_naz/v_zna/v_kly:rare
+хтозна-чого хтозна-що noun:pron:ind:v_rod
+хтозна-чому хтозна-що noun:pron:ind:v_dav/v_mis
+хтозна-чим хтозна-що noun:pron:ind:v_oru
+хтозна-чім хтозна-що noun:pron:ind:v_mis
+ 
+чортзна-що чортзна-що noun:pron:ind:v_naz:coll/v_zna:coll/v_kly:rare:coll
+чортзна-чого чортзна-що noun:pron:ind:v_rod:coll
+чортзна-чому чортзна-що noun:pron:ind:v_dav:coll/v_mis:coll
+чортзна-чим чортзна-що noun:pron:ind:v_oru:coll
+чортзна-чім чортзна-що noun:pron:ind:v_mis:coll
+
+
+що-будь що-будь noun:pron:ind:v_naz:coll/v_zna:coll/v_kly:rare:coll
+чого-будь що-будь noun:pron:ind:v_rod:coll
+чому-будь що-будь noun:pron:ind:v_dav:coll/v_mis:coll
+віщо-будь що-будь noun:pron:ind:v_zna:coll
+чим-будь що-будь noun:pron:ind:v_oru:coll
+чім-будь що-будь noun:pron:ind:v_mis:coll
+ 
+що-небудь що-небудь noun:pron:ind:v_naz/v_zna/v_kly:rare
+чого-небудь що-небудь noun:pron:ind:v_rod
+чому-небудь що-небудь noun:pron:ind:v_dav/v_mis
+віщо-небудь що-небудь noun:pron:ind:v_zna
+чим-небудь що-небудь noun:pron:ind:v_oru
+чім-небудь що-небудь noun:pron:ind:v_mis
+
+
+щось щось noun:pron:ind:v_naz/v_zna/v_kly:rare
+чогось щось noun:pron:ind:v_rod
+чомусь щось noun:pron:ind:v_dav/v_mis
+чимось щось noun:pron:ind:v_oru
+чимсь щось noun:pron:ind:v_oru
+чімсь щось noun:pron:ind:v_mis
+
+
+анічогісінько анічогісінько noun:pron:neg:v_naz:coll/v_rod:coll/v_zna:coll
+
+
+неабищо неабищо noun:pron:neg:v_naz/v_zna/v_kly:rare
+неабичого неабищо noun:pron:neg:v_rod
+неабичому неабищо noun:pron:neg:v_dav/v_mis
+неабичим неабищо noun:pron:neg:v_oru
+неабичім неабищо noun:pron:neg:v_mis
+
+
+ніц ніц noun:pron:neg:v_naz:rare/v_rod:rare/v_zna:rare
+
+
+леда-що леда-що noun:pron:ind:v_naz:rare/v_zna:rare/v_kly:rare
+леда-чого леда-що noun:pron:ind:v_rod:rare
+леда-чому леда-що noun:pron:ind:v_dav:rare/v_mis:rare
+леда-чим леда-що noun:pron:ind:v_oru:rare
+леда-чім леда-що noun:pron:ind:v_mis:rare
+
+
+#NUMR:PRON
+
+
+стільки стільки numr:pron:dem:v_naz/v_zna/v_kly:rare
+стількох стільки numr:pron:dem:v_rod/v_zna/v_mis
+стільком стільки numr:pron:dem:v_dav
+стількома стільки numr:pron:dem:v_oru
+
+
+стільки-то стільки-то numr:pron:dem:v_naz/v_zna/v_kly:rare
+стількох-то стільки-то numr:pron:dem:v_rod/v_zna/v_mis
+стільком-то стільки-то numr:pron:dem:v_dav
+стількома-то стільки-то numr:pron:dem:v_oru
+
+
+стілько стілько numr:pron:dem:v_naz:coll/v_zna:coll/v_kly:rare:coll
+стількох стілько numr:pron:dem:v_rod:coll/v_zna:coll/v_mis:coll
+стільком стілько numr:pron:dem:v_dav:coll
+стількома стілько numr:pron:dem:v_oru:coll
+
+
+скільки скільки numr:pron:int/rel:v_naz/v_zna/v_kly:rare
+скількох скільки numr:pron:int/rel:v_rod/v_zna/v_mis
+скільком скільки numr:pron:int/rel:v_dav
+скількома скільки numr:pron:int/rel:v_oru
+
+
+скілько скілько dial:numr:pron:int/rel:v_naz/v_zna/v_kly:rare
+скількох скілько numr:pron:int/rel:v_rod/v_zna/v_mis
+скільком скілько numr:pron:int/rel:v_dav
+скількома скілько numr:pron:int/rel:v_oru
+
+
+ніскільки ніскільки numr:pron:neg:nv
+
+
+скількись скількись numr:pron:ind:n_naz/v_zna/v_kly:rare
+скількохсь скількись numr:pron:ind:n_rod/v_zna/v_mis
+скількомcь скількись numr:pron:ind:v_dav
+скількомась скількись numr:pron:ind:v_oru
+
+
+скілька скілька numr:pron:ind:v_naz:rare/v_zna:rare/v_kly:rare
+скількох скілька numr:pron:ind:v_rod:rare/v_zna:rare/v_mis:rare
+скільком скілька numr:pron:ind:v_dav:rare
+скількома скілька numr:pron:ind:v_oru:rare
+
+
+скільки-небудь скільки-небудь numr:pron:ind:v_naz/v_zna/v_kly:rare
+скількох-небудь скільки-небудь numr:pron:ind:v_rod/v_zna/v_mis
+скільком-небудь скільки-небудь numr:pron:ind:v_dav
+скількома-небудь скільки-небудь numr:pron:ind:v_oru
+
+
+хтозна-скільки хтозна-скільки numr:pron:ind:v_naz:coll/v_zna:coll/v_kly:rare:coll
+хтозна-скількох хтозна-скільки numr:pron:ind:v_rod:coll/v_zna:coll/v_mis:coll
+хтозна-скільком хтозна-скільки numr:pron:ind:v_dav:coll
+хтозна-скількома хтозна-скільки numr:pron:ind:v_oru:coll
+
+
+бозна-скільки хтозна-скільки numr:pron:ind:v_naz:coll/v_zna:coll/v_kly:rare:coll
+бозна-скількох хтозна-скільки numr:pron:ind:v_rod:coll/v_zna:coll/v_mis:coll
+бозна-скільком хтозна-скільки numr:pron:ind:v_dav:coll
+бозна-скількома хтозна-скільки numr:pron:ind:v_oru:coll
+
+
+чортзна-скільки чортзна-скільки numr:pron:ind:v_naz:coll/v_zna:coll/v_kly:rare:coll
+чортзна-скількох чортзна-скільки numr:pron:ind:v_rod:coll/v_zna:coll/v_mis:coll
+чортзна-скільком чортзна-скільки numr:pron:ind:v_dav:coll
+чортзна-скількома чортзна-скільки numr:pron:ind:v_oru:coll
+
+
+декілька декілька numr:pron:ind:v_naz/v_zna/v_kly:rare
+декількох декілька numr:pron:ind:v_rod/v_zna/v_mis
+декільком декілька numr:pron:ind:v_dav
+декількома декілька numr:pron:ind:v_oru
+
+
+кілька кілька numr:pron:ind:v_naz/v_zna/v_kly:rare
+кількох кілька numr:pron:ind:v_rod/v_zna/v_mis
+кільком кілька numr:pron:ind:v_dav
+кількома кілька numr:pron:ind:v_oru
+
+
+кілько кілько numr:pron:ind:v_naz:rare/v_zna:rare/v_kly:rare
+кількох кілько numr:pron:ind:v_rod:rare/v_zna:rare/v_mis:rare
+кільком кілько numr:pron:ind:v_dav:rare
+кількома кілько numr:pron:ind:v_oru:rare
+
+
+декілько декілько numr:pron:ind:v_naz:coll/v_zna:coll/v_kly:rare:coll
+декількох декілько numr:pron:ind:v_rod:coll/v_zna:coll/v_mis:coll
+декільком декілько numr:pron:ind:v_dav:coll
+декількома декілько numr:pron:ind:v_oru:coll
+
+
+кількадесят кількадесят numr:pron:ind:v_naz/v_zna/v_kly:rare
+кількадесяти кількадесят numr:pron:ind:v_rod/v_dav/v_mis
+кількадесятьох кількадесят numr:pron:ind:v_rod/v_zna/v_mis
+кількадесятьом кількадесят numr:pron:ind:v_dav
+кількадесятьома кількадесят numr:pron:ind:v_oru
+кількадесятьма кількадесят numr:pron:ind:v_oru
+
+
+кільканадцять кільканадцять numr:pron:ind:v_naz/v_zna/v_kly:rare
+кільканадцяти кільканадцять numr:pron:ind:v_rod/v_dav/v_mis
+кільканадцятьох кільканадцять numr:pron:ind:v_rod/v_zna/v_mis
+кільканадцятьом кільканадцять numr:pron:ind:v_dav
+кільканадцятьома кільканадцять numr:pron:ind:v_oru
+кільканадцятьма кільканадцять numr:pron:ind:v_oru
+
+
+надцять надцять numr:pron:ind:v_naz:coll/v_zna:coll/v_kly:rare:coll
+надцяти надцять numr:pron:ind:v_rod:coll/v_dav:coll/v_mis:coll
+надцятьох надцять numr:pron:ind:v_rod:coll/v_zna:coll/v_mis:coll
+надцятьом надцять numr:pron:ind:v_dav:coll
+надцятьома надцять numr:pron:ind:v_oru:coll
+надцятьма надцять numr:pron:ind:v_oru:coll
+
+
+стонадцять стонадцять numr:pron:ind:v_naz/v_zna/v_kly:rare
+стонадцяти стонадцять numr:pron:ind:v_rod/v_dav/v_mis
+стонадцятьох стонадцять numr:pron:ind:v_rod/v_zna/v_mis
+стонадцятьом стонадцять numr:pron:ind:v_dav
+стонадцятьома стонадцять numr:pron:ind:v_oru
+стонадцятьма стонадцять numr:pron:ind:v_oru
+
+
+кількасот кількасот numr:pron:ind:v_naz/v_zna/v_kly:rare
+кількохсот кількасот numr:pron:ind:v_rod
+кількомстам кількасот numr:pron:ind:v_dav
+кількомстами кількасот numr:pron:ind:v_oru
+кількохстах кількасот numr:pron:ind:v_mis
+
+
+кількадесятеро кількадесятеро numr:pron:ind:v_naz/v_zna/v_kly:rare
+кількадесятьох кількадесят numr:pron:ind:v_rod/v_zna/v_mis
+кількадесятьом кількадесят numr:pron:ind:v_dav
+кількадесятьома кількадесят numr:pron:ind:v_oru
+кількадесятьма кількадесят numr:pron:ind:v_oru
+
+
+кільканадцятеро кільканадцятеро numr:pron:ind:v_naz/v_zna/v_kly:rare
+кільканадцятьох кільканадцять numr:pron:ind:v_rod/v_zna/v_mis
+кільканадцятьом кільканадцять numr:pron:ind:v_dav
+кільканадцятьома кільканадцять numr:pron:ind:v_oru
+кільканадцятьма кільканадцять numr:pron:ind:v_oru
+￼￼
+мало numr:pron:ind:nv
+
+
+немало numr:pron:ind:nv
+
+
+чимало numr:pron:ind:nv
+
+
+багато багато numr:pron:ind:v_naz/v_kly:rare
+багатьох багато numr:pron:ind:v_rod/v_zna/v_mis
+багатьом багато numr:pron:ind:v_dav
+багатьма багато numr:pron:ind:v_oru
+
+
+небагато небагато numr:pron:ind:v_naz/v_kly:rare
+небагатьох небагато numr:pron:ind:v_rod/v_zna/v_mis
+небагатьом небагато numr:pron:ind:v_dav
+небагатьма небагато numr:pron:ind:v_oru
+
+
+#ADV:PRON
+відтепер відтепер adv:pron:dem
+відтоді відтоді adv:pron:dem
+досі досі adv:pron:dem
+дотепер дотепер adv:pron:dem
+доти доти adv:pron:dem
+зараз зараз adv:pron:dem
+звідси звідси adv:pron:dem
+звідти звідти adv:pron:dem
+звідтіля звідтіля adv:pron:dem
+отак отак adv:pron:dem
+отам отам adv:pron:dem
+оттак оттак adv:pron:dem:rare
+отут отут adv:pron:dem
+потім потім adv:pron:dem
+сюди сюди adv:pron:dem
+так так adv:pron:dem
+так-сяк так-сяк adv:pron:dem:coll
+так-то так-то adv:pron:dem:coll
+там там adv:pron:dem
+тамки тамки adv:pron:dem:coll
+там-сям там-сям adv:pron:dem:coll
+там-о там-о adv:pron:dem:coll
+тепер тепер adv:pron:dem
+тоді тоді adv:pron:dem
+туди туди adv:pron:dem
+тут тут adv:pron:dem
+тутки тутки adv:pron:dem:coll
+відколи відколи adv:pron:int/rel&conj:subord
+де де adv:pron:int/rel&part:coll             
+доки доки adv:pron:int/rel&conj:subord
+звідки звідки adv:pron:int/rel
+звідкіля звідкіля adv:pron:int/rel
+коли коли adv:pron:int/rel&conj:subord
+куди куди adv:pron:int/rel
+навіщо навіщо adv:pron:int/rel
+поки поки adv:pron:int/rel&conj:subord
+чому чому adv:pron:int/rel
+як як adv:pron:int/rel&part&conj:subord
+бозна-де бозна-де adv:pron:ind:coll
+будь-де будь-де adv:pron:ind
+деінде деінде adv:pron:ind
+деколи деколи adv:pron:ind
+де-небудь де-небудь adv:pron:ind
+де-не-де де-не-де adv:pron:ind
+десь десь adv:pron:ind
+звідки-небудь звідки-небудь adv:pron:ind
+звідкись звідкись adv:pron:ind
+звідкілясь звідкілясь adv:pron:ind
+інколи інколи adv:pron:ind
+іноді іноді adv:pron:ind
+казна-де казна-де adv:pron:ind
+казна-звідки казна-звідки adv:pron:ind
+казна-куди казна-куди adv:pron:ind
+коли-будь коли-будь adv:pron:ind:coll
+коли-небудь коли-небудь adv:pron:ind
+коли-не-коли коли-не-коли adv:pron:ind
+колись колись adv:pron:ind
+куди-небудь куди-небудь adv:pron:ind
+кудись кудись adv:pron:ind
+кудою кудою adv:pron:ind:coll
+навіщось навіщось adv:pron:ind
+подекуди подекуди adv:pron:ind
+хтозна-відкіля хтозна-відкіля adv:pron:ind:coll
+хтозна-відкіль хтозна-відкіль adv:pron:ind:coll
+хтозна-відколи хтозна-відколи adv:pron:ind:coll
+хтозна-де хтозна-де adv:pron:ind:coll
+хтозна-звідки хтозна-звідки adv:pron:ind:coll
+хтозна-куди хтозна-куди adv:pron:ind:coll
+хтозна-поки хтозна-поки adv:pron:ind:coll
+хтозна-чому хтозна-чому adv:pron:ind:coll
+хтозна-як хтозна-як adv:pron:ind:coll
+чомусь чомусь adv:pron:ind
+чортзна-відкіля чортзна-відкіля adv:pron:ind:coll
+чортзна-відкіль чортзна-відкіль adv:pron:ind:coll
+чортзна-відколи чортзна-відколи adv:pron:ind:coll
+чортзна-де чортзна-де adv:pron:ind:coll
+чортзна-зідки чортзна-зідки adv:pron:ind:coll
+чортзна-куди чортзна-куди adv:pron:ind:coll
+чортзна-чому чортзна-чому adv:pron:ind:coll
+чортзна-як чортзна-як adv:pron:ind:coll
+як-небудь як-небудь adv:pron:ind
+якось якось adv:pron:ind
+інакше інакше adv:pron:def
+по-всякому по-всякому adv:pron:def
+по-іншому по-іншому adv:pron:def
+по-вашому по-вашому adv:pron:pos
+по-їхньому по-їхньому adv:pron:pos
+по-моєму по-моєму adv:pron:pos
+по-наськи по-наськи adv:pron:pos:coll
+по-нашому по-нашому adv:pron:pos
+по-своєму по-своєму adv:pron:pos
+по-твоєму по-твоєму adv:pron:pos
+всюди всюди adv:pron:gen
+завжди завжди adv:pron:gen
+завше завше adv:pron:gen:coll
+звідусіль звідусіль adv:pron:gen
+звідусюди звідусюди adv:pron:gen
+повсюди повсюди adv:pron:gen
+повсюдно повсюдно adv:pron:gen
+скрізь скрізь adv:pron:gen
+аніде аніде adv:pron:neg
+ніде ніде adv:pron:neg
+нізащо нізащо adv:pron:neg
+нізвідки нізвідки adv:pron:neg
+нізвідкіля нізвідкіля adv:pron:neg
+ніколи ніколи adv:pron:neg
+нікуди нікуди adv:pron:neg
+нінащо нінащо adv:pron:neg
+ніскільки ніскільки adv:pron:neg
+ніяк ніяк adv:pron:neg
