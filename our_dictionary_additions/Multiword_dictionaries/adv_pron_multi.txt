@@ -1,6 +1,15 @@
-так\ само 
-там\ само 
-тут\ же
-туди\ ж 
-звідти\ ж
-тоді\ ж
+так\ само adv:pron:eq
+там\ само adv:pron:eq
+тут\ же adv:pron:eq
+туди\ ж adv:pron:eq
+звідти\ ж adv:pron:eq
+тоді\ ж adv:pron:eq
+там\ і\ там adv:pron:eq
+так\ же adv:pron:eq
+там\ же adv:pron:eq
+там\ і\ там adv:pron:eq
+
+
+
+
+
