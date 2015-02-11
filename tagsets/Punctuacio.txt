@@ -1,0 +1,39 @@
+розділові\ знаки=punctuation\ characters=punct
+абзац=indent=ind
+двокрапка=colon=cln 
+дефіс=hyphen=hyp 
+дужки=brackets=br
+знак\ оклику=exclamation\ mark=exclmrk 
+знак\ питання=question\ mark=quesmrk
+кома=comma=com
+крапка=full\ stop/period=fstp
+крапка\ з\ комою=semicolon=scln
+лапки=quotation\ mark=quotmrk
+скісна\ риска=slash=slsh
+тире=dash=dash=dsh
+три\ крапки=ellipsis=el
+
+
+графічні\ символи=graphic\ characters=graph
+апостроф=’=apostrophe=ap
+амперсанд=&=ampersand=amp
+равлик=@=at sign=atsgn
+зірочка=*=asterisk=ast
+обернена\ скісна риска=\=backslash=bslsh
+знаки\ права=© ®,℗=copyright symbols=cpr
+градус=°=degree=dgr
+октоторп/решітка/хеш=#=number\ sign/pound/hash=hsh
+номер=№=numero\ sign=nsgn
+відсоток=%=percent=prc
+проміле=‰=per mille=prm
+базисний\ пункт=‱=basis point=bpnt
+штрих=′,″,‴=stroke=strk
+параграф=§=section\ sign=ssgn
+тильда=~=tilde=tld  
+товарний\ знак=™=trademark=tmrk
+вертикальна\ риска=|,¦=vertical/broken\ bar,pipe=pip
+підкреслювання= _=underscore/understrike=undstr
+знак\ обслуговування=℠=service mark=smrk 
+маркер\ списку=•=bullet=bul
+циркумфлекс=^=caret=car
+символи\валют=currency\ symbols=cmrk
