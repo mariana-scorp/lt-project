@@ -9,7 +9,7 @@
 <publisher></publisher>
 <year>2013</year> 
 <pages></pages> 
-<length></length>
+<length>700</length>
 <alt_orth>0</alt_orth>
 <errors>немає в живих - серед живих; було вирішено забезпечити здійснення громадського контролю - вирішено контролювати</errors>
 <comments></comments>
