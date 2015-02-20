@@ -6,12 +6,12 @@
 <url>http://catholicnews.org.ua/poslannya-blazhennishogo-svyatoslava-z-nagodi-roku-pamyati-mitropolita-andreya-sheptickogo</url> 
 <publ_part></publ_part>
 <publ_place></publ_place>
-<publisher>Milites Christi Imperatoris</publisher>
+<publisher></publisher>
 <year>2014</year> 
 <pages></pages> 
 <length>765</length>
 <alt_orth>0</alt_orth>
-<errors>архимандрит - архімандрит; опоясана - оперезана; знущань над українським народом - знущань з українського народу</errors>
+<errors>Архиєпископам - Архієпископам; архимандрита - архімандрита; опоясана - оперезана; знущань над українським народом - знущань з українського народу; євангелській - євангельській; державних властей - державної влади; державними властями - державною владою; привносячи - вносячи</errors>
 <comments></comments>
 <body>
 Високопреосвященним і Преосвященним Архиєпископам та Митрополитам, боголюбивим єпископам, всечесному духовенству, преподобному монашеству, возлюбленим братам і сестрам, в Україні та на поселеннях у світі сущим
