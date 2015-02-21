@@ -8,7 +8,7 @@
 <publ_place>Львів</publ_place>
 <publisher>ЛА «Піраміда»</publisher>
 <year>2013</year> 
-<pages>100-103</pages> 
+<pages>101-103</pages> 
 <length>459</length>
 <alt_orth>0</alt_orth>
 <errors></errors>
