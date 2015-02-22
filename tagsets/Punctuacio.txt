@@ -1,18 +1,20 @@
 розділові\ знаки=punctuation\ characters=punct
 
-// базова версія
-двокрапка(colon)=punct 
-дефіс(hyphen)=punct  
-дужки(brackets)=punct 
-знак\ оклику(exclamation\ mark)=punct 
-знак\ питання(question\ mark)=punct 
-кома(comma)=punct
-крапка(full\ stop/period)=punct 
-крапка\ з\ комою(semicolon)=punct 
-лапки(quotation\ mark)=punct 
-скісна\ риска(slash)=punct 
-тире(dash)=punct
-три\ крапки(ellipsis)=punct
+// базова версія: всі розділові  знаки = punct
+:  
+-   
+(  
+) 
+!  
+?  
+, 
+.  
+;
+«
+»
+/ 
+—
+...
 
 
 //розширена версія (на майбутнє)
