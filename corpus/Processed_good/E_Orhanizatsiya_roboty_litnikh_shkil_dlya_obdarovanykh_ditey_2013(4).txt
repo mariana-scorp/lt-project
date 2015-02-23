@@ -3,7 +3,7 @@
 <author_name></author_name>
 <title>Організація роботи літніх шкіл для обдарованих дітей</title>
 <publ_in>Додаток до листа МОН від 30.07.2013 № 1/9-518</publ_in>
-<url></url> 
+<url>http://man.gov.ua/documents/50/MON_lyst_20_07_2013_N1_9-518.doc</url>
 <publ_part></publ_part>
 <publ_place>Київ</publ_place>
 <publisher>Міністерство освіти і науки України</publisher>
