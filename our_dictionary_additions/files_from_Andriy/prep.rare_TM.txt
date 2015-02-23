@@ -1,0 +1,14 @@
+﻿мість мість:prep:rare
+навперед навперед:prep:coll
+окроме окроме:prep:rare
+опостін опостін:prep:rare
+опріче опріче:prep:rare
+опроче опроче:prep:rare
+півперек півперек:prep:rare
+подовш подовш:prep:rare
+посереду посереду:prep
+почерез почерез:prep
+пріч пріч:prep:coll
+против против:prep:rare
+споміж споміж:prep:coll
+спосеред спосеред:prep:coll

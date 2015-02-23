@@ -1,0 +1,13 @@
+все\ це adj:pron:gen
+і\ таке\ інше adj:pron:def
+сам\ один adj:pron:def
+мало\ який adj:pron:ind
+невідомо\ який adj:pron:ind
+який\ завгодно adj:pron:ind
+один\ і\ той\ же adj:pron:eq
+той\ же adj:pron:eq
+той\ самий adj:pron:eq
+ 
+
+
+

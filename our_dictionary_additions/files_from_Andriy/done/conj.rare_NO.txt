@@ -1,0 +1,25 @@
+//рідкісні сполучники
+
+абись абись conj:subord:rare
+
+гейби гейби conj:subord:rare
+
+докіль conj:subord:rare
+
+заким заким conj:subord:rare
+
+замісто замісто prep:rv_rod:rare
+
+коби коби conj:subord:rare
+
+ніже conj:coord:rare
+
+оттим оттим conj:subord:rare
+
+притім притім conj:bad:rare
+
+таже conj:subord:rare
+таже part:rare
+
+таж conj:subord
+таж part
