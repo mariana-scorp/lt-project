@@ -3,7 +3,7 @@
 <author_name></author_name>
 <title>Про проведення Кубка України з ловлі риби поплавковою вудкою серед чоловіків з риболовного спорту (III-ранг)</title>
 <publ_in></publ_in>
-<url></url> 
+<url>http://fsfu.org.ua/index.php/2013-10-14-09-17-13/zmahannia/60-nakaz-pro-provedennia-chu-2013-poplavok</url> 
 <publ_part></publ_part>
 <publ_place>Київ</publ_place>
 <publisher></publisher>
