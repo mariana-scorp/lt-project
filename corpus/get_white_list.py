@@ -69,7 +69,7 @@ for i in CATS:
     if len(books[mapping[i]]) > 0:
         f.write(books[mapping[i]][0].word)
         f.write("\n")
-        for j in range(1, len(books[mapping[i]]) - 1):
+        for j in range(1, len(books[mapping[i]])):
             if j != 0 and books[mapping[i]][j].word != books[mapping[i]][j - 1].word:
                 f.write(books[mapping[i]][j].word)
                 f.write("\n")
