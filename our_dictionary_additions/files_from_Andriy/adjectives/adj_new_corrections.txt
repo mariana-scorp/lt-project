@@ -1,0 +1,7 @@
+
+//дієприкметники
+згасний/VZ ^adjp:actv:imperf
+зникний/VZ ^adjp:actv:imperf
+одривний/VZ ^adjp:pasv:imperf
+проникальний/VZ ^adjp:actv:imperf
+поширювальний/V ^adjp:actv:imperf
