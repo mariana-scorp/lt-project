@@ -661,7 +661,7 @@
 переливка/ab noun:inanim:s:f:bad //процес, дія
 розливка/ab noun:inanim:s:f:bad //процес, дія
 поливка/ab noun:inanim:s:f:rare
-сливка/ab noun:innim:s:f
+сливка/ab noun:inanim:s:f
 обмивка/ab noun:inanim:s:f:coll:bad //процес, дія
 відмивка/ab noun:inanim:s:f:coll:bad //процес, дія
 розривка/ab noun:inanim:s:f:rare
@@ -680,7 +680,7 @@
 ушивка/ab noun:inanim:s:f:X
 табівка/ab noun:inanim:s:f:rare
 дробівка/ab noun:inanim:s:f:coll
-карбівка/a noun:inanim:np //різьблення
+карбівка/a noun:inanim:np:f//різьблення
 карбівка/ab noun:inanim:s:f //інструмент
 зубівка/ab noun:inanim:s:f
 врубівка/ab noun:inanim:s:f:coll
@@ -709,7 +709,7 @@
 термоплівка/ab noun:inanim:s:f
 перлівка/ab noun:inanim:s:f
 замислівка/ab noun:inanim:s:f:rare
-нулівка/ab noun:innim:s:f
+нулівка/ab noun:inanim:s:f
 шпулівка/ab noun:inanim:s:f
 півдюймівка/ab noun:inanim:s:f
 шестидюймівка/ab noun:inanim:s:f
@@ -721,7 +721,7 @@
 триднівка/ab noun:inanim:s:f
 одноднівка/ab noun:inanim:s:f
 тебенівка/ab noun:inanim:s:f
-скаженівка/a noun:inanim:np //сказ
+скаженівка/a noun:inanim:np:f//сказ
 скаженівка/ab noun:inanim:s:f:coll //горілка
 кременівка/ab noun:inanim:s:f:rare
 тижнівка/ab noun:inanim:s:f
@@ -865,7 +865,7 @@
 плінтовка/ab noun:inanim:s:f:bad
 заготовка/ab noun:inanim:s:f:bad
 землепідготовка/ab noun:inanim:s:f:bad
-контрпідготовка/a noun:inanim:np
+контрпідготовка/a noun:inanim:np:f
 спецпідготовка/ab noun:inanim:s:f:bad //спецвишкіл
 салотовка/ab noun:inanim:s:f:rare
 підтекстовка/ab noun:inanim:s:f:bad
@@ -981,7 +981,7 @@
 трудкнижка/ab noun:inanim:s:f
 одрижка/ab noun:inanim:s:f:coll
 підстрижка/ab noun:inanim:s:f:coll
-ярижка/a noun:anim:np
+ярижка/a noun:inanim:np:f
 набіжка/ab noun:inanim:s:f
 розбіжка/ab noun:inanim:s:f:coll
 роликобіжка/ab noun:inanim:s:f
@@ -1195,7 +1195,7 @@
 радіоакустика/a noun:inanim:s:f
 рустика/a noun:inanim:s:f
 силабіка/a noun:inanim:s:f
-парубіка/a noun:inanim:s:m
+парубіка/a noun:anim:s:f
 сурдопедагогіка/a noun:inanim:s:f
 металогіка/a noun:inanim:s:f
 нацреспубліка/ab noun:inanim:s:f
@@ -3496,7 +3496,7 @@
 куховарня/ab noun:inanim:s:f
 сварня/a noun:inanim:np:f:rare
 звіздарня/ab noun:inanim:s:f
-спіжарня/ab noun:inanim:s:rare
+спіжарня/ab noun:inanim:s:f:rare
 пожарня/ab noun:inanim:s:f
 світловодолікарня/ab noun:inanim:s:f
 електросвітловодолікарня/ab noun:inanim:s:f
@@ -3514,18 +3514,18 @@
 келарня/ab noun:inanim:s:f
 гамарня/ab noun:inanim:s:f
 паламарня/ab noun:inanim:s:f
-римарня/ab noun:inanim:s:rare
-гренарня/ab noun:inanim:s:
+римарня/ab noun:inanim:s:f:rare
+гренарня/ab noun:inanim:s:f
 свинарня/ab noun:inanim:s:f
-касарня/ab noun:inanim:s:rare
+касарня/ab noun:inanim:s:f:rare
 слюсарня/ab noun:inanim:s:f
-титарня/ab noun:inanim:s:rare
+титарня/ab noun:inanim:s:f:rare
 чоботарня/ab noun:inanim:s:f
 золотарня/ab noun:inanim:s:f
-нафтарня/ab noun:inanim:s:rare
-маштарня/ab noun:inanim:s:rare
-шафарня/ab noun:inanim:s:rare
-сахарня/ab noun:inanim:s:rare
+нафтарня/ab noun:inanim:s:f:rare
+маштарня/ab noun:inanim:s:f:rare
+шафарня/ab noun:inanim:s:f:rare
+сахарня/ab noun:inanim:s:f:rare
 птахарня/ab noun:inanim:s:f:rare
 свічарня/ab noun:inanim:s:f:rare
 хмелесушарня/ab noun:inanim:s:f
