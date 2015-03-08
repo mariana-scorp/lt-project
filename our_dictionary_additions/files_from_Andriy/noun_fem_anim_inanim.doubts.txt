@@ -4,15 +4,15 @@
 лаба/ab :rare
 дараба/ab :rare
 саба/ab
-варцаба/ab :rare
+варцаба/ab
 надовба/ab
-підстовба/ab :rare
-щовба/ab :rare
-неклеба/ab
-неклеба/ab< :+m
-тижба/ab :rare
+підстовба/ab 
+щовба/ab
+неклеба/ab :anim
+неклеба/ab< :+m:anim
+тижба/a :np:rare 
 тужба/a :np:rare
-дієвтуриба/a :np:rare
+дієвтуриба/a :np
 штиба/ab :rare
 циба/ab :rare
 свайба/ab :rare
@@ -24,8 +24,8 @@
 пособа/ab :rare
 хрущоба/ab :coll
 сподоба/a :np
-шкорба/ab :rare
-гурба/a :np:rare
+шкорба/ab :anim:rare
+гурба/ab :rare
 турба/ab :rare
 самозгуба/a :np:rare
 розгуба/a :np:rare
