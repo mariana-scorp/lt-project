@@ -10,7 +10,7 @@
 <year>2014</year> 
 <pages>34-38</pages> 
 <length>1404</length>
-<alt_orth></alt_orth>
+<alt_orth>0</alt_orth>
 <errors> </errors>
 <comments>цікаве вживання форм noun:inanim:s:m:v_zna (способа, епізода)</comments>
 <body>

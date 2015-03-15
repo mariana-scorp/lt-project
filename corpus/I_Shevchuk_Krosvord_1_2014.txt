@@ -10,7 +10,7 @@
 <year>2014</year> 
 <pages>31-34</pages> 
 <length>1058</length>
-<alt_orth></alt_orth>
+<alt_orth>0</alt_orth>
 <errors>бути неспійманою – бути не спійманою</errors>
 <comments></comments>
 <body>
