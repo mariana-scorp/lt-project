@@ -5,7 +5,7 @@
 <publ_in>Про Ковель</publ_in>
 <url>http://www.prokovel.com/kovel_2015/231-kovelchanka_tetyana_kob_viborola_kubok_ukraini_z_boksu.html</url> 
 <publ_part></publ_part>
-<publ_place>Ковель</publ_place>
+<publ_place></publ_place>
 <publisher></publisher>
 <year>2015</year> 
 <pages></pages> 

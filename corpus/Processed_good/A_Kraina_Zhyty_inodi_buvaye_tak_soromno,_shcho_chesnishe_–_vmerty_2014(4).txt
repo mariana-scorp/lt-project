@@ -5,7 +5,7 @@
 <publ_in>Країна</publ_in>
 <url>http://gazeta.ua/articles/culture-journal/_ziti-inodi-buvaye-tak-soromno-scho-chesnishe-vmerti/557702</url> 
 <publ_part>19 (222)</publ_part>
-<publ_place>Київ</publ_place>
+<publ_place></publ_place>
 <publisher></publisher>
 <year>2014</year> 
 <pages>18</pages> 

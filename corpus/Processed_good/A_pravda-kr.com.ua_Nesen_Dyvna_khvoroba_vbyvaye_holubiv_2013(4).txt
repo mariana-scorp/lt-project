@@ -5,7 +5,7 @@
 <publ_in>Кіровоградська правда</publ_in>
 <url>http://pravda-kr.com.ua/sotsium/491-divna-khvoroba-vbivae-golubiv-v-oblasnomu-tsentri-spravzhnij-mor.html</url>
 <publ_part></publ_part>
-<publ_place>Кіровоград</publ_place>
+<publ_place></publ_place>
 <publisher></publisher>
 <year>2013</year>
 <pages></pages>
