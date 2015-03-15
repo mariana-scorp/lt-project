@@ -8,8 +8,8 @@
 <publ_place>Київ</publ_place>
 <publisher></publisher>
 <year>2015</year> 
-<pages>140</pages> 
-<length></length>
+<pages></pages> 
+<length>140</length>
 <alt_orth>0</alt_orth>
 <errors> у Київ — до Києва</errors>
 <comments></comments>
