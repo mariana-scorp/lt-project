@@ -1,7 +1,7 @@
 <id>A</id>
 <author_surname>Вовкун</author_surname>
 <author_name>Наталія</author_name>
-<title>Левко Лук’яненко : “Якщо у країні погано, то треба не втікати з неї, а боротися за те, щоб у ній стало добре. “</title>
+<title>Левко Лук’яненко: «Якщо у країні погано, то треба не втікати з неї, а боротися за те, щоб стало добре»</title>
 <publ_in>platforma</publ_in>
 <url>http://reinvent.platfor.ma/levko-luk---yanenko/</url>
 <publ_part></publ_part>
