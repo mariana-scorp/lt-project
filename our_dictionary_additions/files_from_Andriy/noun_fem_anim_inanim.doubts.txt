@@ -1,0 +1,2039 @@
+поваба/ab
+поваба/ab :m:rare
+скаба/ab :rare
+лаба/ab :rare
+дараба/ab :rare
+саба/ab
+варцаба/ab
+надовба/ab
+підстовба/ab 
+щовба/ab
+неклеба/ab :anim
+неклеба/ab< :+m:anim
+тижба/a :np:rare 
+тужба/a :np:rare
+дієвтуриба/a :np
+штиба/ab :rare
+циба/ab :rare
+свайба/ab :rare
+сійба/a :np:rare
+надоба/ab :rare
+придоба/a :np:rare
+коба/ab :rare
+пошаноба/a :np:rare
+пособа/ab :rare
+хрущоба/ab :coll
+сподоба/a :np
+шкорба/ab :anim:rare
+гурба/ab :rare
+турба/ab :rare
+самозгуба/a :np:rare
+розгуба/a :np:rare
+розгуба/ab< :rare
+розгуба/ab< :m:rare
+погуба/a :np:rare
+рахуба/a :np:coll
+рахуба/ab :rare
+тичба/ab :rare
+свадьба/ab :rare
+судьба/a :np:coll
+горорізьба/ab :rare
+хвальба/a :np:rare
+сегельба/ab :rare
+кольба/ab :rare
+мольба/a :np:rare
+чиньба/a :np:rare
+міньба/a :np:rare
+татьба/a :np:rare
+селитьба/ab :rare
+пастьба/a :np:rare
+каятьба/a :np:rare
+
+верв/ij --TODO:
+
+збава/a :np:rare
+обава/ab :rare
+тиркава/a :np:rare
+туфолава/a :np
+купава/ab :rare
+поправа/ab :rare
+батава/a :np:rare
+любва/a :np:rare
+хорогва/ab :rare
+коругва/ab :rare
+ужва/ab :rare
+мужва/a :np:coll
+перезва/a :np:rare
+призва/ab :rare
+язва/ab
+розжива/a :np:coll
+спожива/a :np:coll
+дефензива/a :np:rare
+жалива/ab :rare
+залива/ab :rare
+обшива/a :np:rare
+розшива/ab
+раква/ab :rare
+тиква/ab
+моква/ab :rare
+панва/a :np:rare
+кінва/ab  //кухоль
+кінва/a :np:rare //зб. до ‘кінь’
+плова/a :np:rare
+перемова/ab :coll
+недомова/ab :coll
+застанова/ab :rare
+розстанова/a :np:rare
+понова/ab :coll
+батова/ab :rare
+схова/a :np:rare
+зарва/ab :rare
+мерва/ab :rare
+чемерва/a :np:rare
+церва/ab :rare
+морва/ab :rare
+латва/a :np:rare
+платва/a :np:rare
+лихва/a :np:rare
+рихва/ab :rare
+пинхва/ab :rare
+кухва/ab :rare
+ляхва/a :np:rare
+ошва/a :np:rare
+сальва/ab :rare
+
+звага/ab :rare
+кулага/a :np:rare
+намага/a :np:rare
+змага/a :np:rare
+шарага/ab :coll
+катрага/ab :coll
+торбега/ab :coll
+свербига/ab :coll
+фурдига/ab :rare
+хурдига/ab :rare
+ломига/ab :rare
+відволога/ab :rare
+берлога/ab
+мога/a :np:rare
+помога/a :np:rare
+спомога/a :np:rare
+судорга/ab :rare
+судорога/ab :rare
+варга/ab :rare
+дерга/ab :rare
+джерга/ab :rare
+пересмуга/ab :rare
+сапуга/ab :rare
+шпуга/ab :rare
+руга/a :np:rare
+шаруга/ab :rare
+поруга/ab :rare
+осоруга/a :np:rare
+відпруга/a :np:rare
+підпруга/ab :rare
+притуга/a :np:rare
+стуга/ab :rare&adv:rare
+сутуга/a :np:rare
+цуга/ab :rare
+чуга/ab :rare
+піщуга/a :np:coll
+шальга/a :np:rare
+вільга/ab :rare
+дерюга/ab :rare
+серм'яга/ab :rare
+звяга/ab :rare
+сердяга/ab
+сердяга/ab<
+сердяга/ab< :m
+семеряга/ab :rare
+семиряга/ab :rare
+тюряга/ab :coll
+заприсяга/ab :rare
+кіптяга/a :np:coll
+гуртяга/a :np:coll
+
+
+привада/ab :coll
+відгада/ab :coll
+жада/a :np:rare
+ієреміада/ab :rare
+облада/a :np:rare
+самовлада/a :np:rare
+заглада/a :np:rare
+злада/ab :rare
+обрада/ab :rare
+ограда/ab :rare
+ретирада/ab :rare
+надсада/a :np:coll
+пересада/ab :rare
+бутада/ab :rare
+ощада/a :np:rare
+веда/ab
+ожеледа/a :np:rare
+вражда/a :np
+гражда/ab :rare
+ворожда/a :np:rare
+звізда/ab :rare
+мзда/a :np:coll
+узда/ab :rare
+обида/ab :rare
+зненавида/a :np:rare
+халамида/ab :rare
+віда/ab :rare
+пайда/a :np:rare
+реверенда/ab :rare
+ринда/ab< :m
+ринда/ab< :rare
+блонда/ab :rare
+бунда/ab :rare
+розлийвода/a :np:coll
+невзгода/ab :rare
+відшкода/a :np:rare
+осолода/a :np:rare
+усолода/ab :rare
+захолода/ab :coll
+надгорода/ab :rare
+перегорода/ab :rare
+огорода/ab :rare
+химорода/ab :rare
+похода/a :np:coll
+згарда/ab :rare
+муштарда/a :np:rare
+галабурда/ab :rare
+вурда/a :np:rare
+обуда/a :np:rare
+злуда/ab :rare
+нуда/ab :coll
+опуда/ab :rare
+обсуда/ab :rare
+перестуда/ab :rare
+причуда/ab
+причуда/ab<
+юда/ab< :coll
+
+
+//бр
+дебр/ab
+
+
+//дь
+кладь/i :np
+припадь/ij :rare
+кидь/i :np &predic
+накидь/i :np
+алюмомідь/i :np
+прорідь/i :np:coll
+сідь/i :np:rare
+просідь/i :np
+інохідь/i :np
+гниловодь/i :np:rare
+тиховодь/i :np
+тріодь/ij
+прохолодь/i :np
+химородь/i :np:rare
+твердь/i :np:rare
+незабудь/i :np
+незабудь/ij :rare //незабудка
+нудь/i :np:rare
+зглядь/i :np:rare
+
+
+//жа
+гажа/a :np
+лажа/ab :coll
+мажа/ab :rare
+тверджа/ab :rare
+лежа/a :np:rare
+стежа/ab :rare
+гижа/a :np:rare
+з'їжа/a :np:rare
+сухоїжа/a :np:rare
+олжа/a :np:rare
+лонжа/ab
+горожа/ab :rare
+ржа/a :np
+шаржа/ab :rare
+збіржа/ab :rare
+нужа/a :np:rare:coll
+ружа/ab :rare
+стужа/ab :coll
+
+
+//за
+логаза/a :np:rare
+сказа/ab :rare
+враза/ab :rare:X
+ураза/ab :rare:X
+риндза/a :np:rare
+костогриза/a :np //хвороба
+костогриза/ab  //птах
+костогриза/ab :rare //бідна людина
+костогриза/ab :m:rare //бідна людина
+хиза/ab :rare
+охиза/ab :rare
+різа/ab :rare
+заріза/ab :rare
+камза/ab :rare
+перевоза/ab :rare
+
+нежер/a :np
+спуза/a :np:rare
+
+
+//зь
+слизь/ab
+гризь/a :np:rare
+сизь/a :np:rare
+прорізь/ab
+приморозь/a :np
+поморозь/a :np:rare
+підв'язь/ab
+зв'язь/ab :rare
+розв'язь/a :np
+пов'язь/ab
+ферязь/ab
+
+
+//іб
+подріб/a :np:rare
+подріб/a :np:m:rare
+
+
+//іж
+дріж/a :np
+дріж/a :np:m
+
+
+//ка[a]
+табака/a :np:coll
+кульбака/a :np:rare
+кака/ab :coll
+клака/ab
+млака/ab :rare
+нероззнака/ab< :rare
+нероззнака/ab< :m:rare
+шостака/ab :rare
+лабка/ab :coll
+глибка/ab :rare
+бібка/ab :coll
+жадібка/ab :rare
+потрібка/ab :coll
+кобка/ab :rare
+скубка/a :coll
+шрубка/ab :rare
+юбка/ab :rare
+мигавка/ab :coll
+ногавка/ab :rare
+моргавка/ab :coll
+падавка/ab :rare
+сідавка/ab :rare
+продавка/ab :rare
+удавка/ab :rare
+саджавка/ab :rare
+кавка/ab :coll
+штрикавка/ab :rare
+щикавка/ab :rare
+ікавка/ab :rare
+прискавка/ab :rare
+пукавка/ab :rare
+рахкавка/ab< :rare
+пославка/ab :coll
+димавка/ab :rare
+рапавка/ab< :rare
+сіпавка/ab :coll
+ропавка/ab< :rare
+лупавка/ab :coll
+хляпавка/a :np:rare
+окравка/ab :rare
+невправка/a :coll
+доправка/ab  //процес, дія
+несправка/a :rare
+неуправка/a :coll
+затравка/ab
+витравка/ab :rare
+потравка/ab :rare
+муравка/a
+муравка/ab :rare
+метавка/ab :rare
+авіавиставка/ab
+свиставка/ab :coll
+сіноставка/ab
+рухавка/a :np:rare
+пищавка/ab :rare
+бевка/a :rare
+вибивка/ab :rare
+поливка/ab :rare
+розривка/ab :rare
+оперативка/ab :coll
+спортивка/ab :coll
+опочивка/a :rare
+пришивка/ab :coll
+прошивка/ab :rare
+ушивка/abX
+табівка/ab :rare
+дробівка/ab :coll
+карбівка/a :np //різьблення
+карбівка/ab  //інструмент
+врубівка/ab :coll
+лугівка/ab :coll
+фугівка/ab :coll
+сажівка/ab :rare
+ужівка/abX :rare
+вужівка/abX :rare
+кружівка/ab :rare
+риндзівка/ab :rare
+цинківка/ab :coll
+сороківка/ab :coll
+замислівка/ab :rare
+нулівка/ab :innim
+скаженівка/a :np //сказ
+скаженівка/ab :coll //горілка
+кременівка/ab :rare
+млинівка/ab :rare
+слинівка/ab :rare
+шипівка/ab :coll
+співка/ab :rare
+вандрівка/ab :rare
+шабасівка/ab :rare
+голосівка/ab :rare
+катівка/ab :coll
+тетівка/ab :rare
+шелестівка/ab :rare
+нафтівка/ab :rare
+асфальтівка/ab :coll
+цехівка/ab :coll
+штрихівка/ab :coll
+лісничівка/ab :rare
+бочівка/ab :rare
+сабашівка/ab :rare
+шабашівка/ab :coll
+галаївка/a :np:rare
+звіробоївка/ab :coll
+лоївка/ab :coll
+перегазовка/ab :coll
+низовка/ab :coll
+змовка/ab :rare
+вимовка/ab :rare
+хитромовка/ab :rare
+умовка/ab :rare
+поновка/ab :coll
+штамповка/ab :coll
+бровка/ab
+перекалібровка/ab :rare
+обмундировка/ab :rare
+мітовка/ab :rare
+салотовка/ab :rare
+фарцовка/ab :rare
+побувка/ab :coll
+обдувка/ab :coll
+видувка/ab :coll
+пересувка/ab :coll
+радіопересувка/ab :coll
+об'явка/ab :rare
+слинявка/ab :rare
+пінявка/ab
+звадка/ab :rare
+одгадка/ab
+пригадка/ab :coll
+спогадка/ab :coll
+карбідка/ab :coll
+вивідка/ab :rare
+розповідка/ab :rare
+спідка/ab :coll
+підсідка/ab :rare
+західка/ab
+обихідка/ab :rare
+обіхідка/ab :rare
+прохідка/ab :coll
+східка/ab :coll
+поїдка/ab :rare
+захолодка/ab :rare
+ходка/ab :coll
+мореходка/ab
+перегудка/ab :rare
+погудка/ab :rare
+рудка/ab :rare
+орудка/ab :rare
+лядка/ab
+шуфлядка/ab
+перезарядка/ab
+трирядка/ab :coll
+дворядка/ab :coll
+льонопрядка/ab
+присядка/ab
+сердека/ab<
+сердека/ab< :m
+забезпека/ab :rare
+суперека/ab :rare
+утека/ab :rare
+змажка/ab :rare
+шаражка/ab :coll
+пролежка/ab :rare
+трудкнижка/ab
+одрижка/ab :coll
+підстрижка/ab :coll
+ярижка/a< :np
+застіжка/ab :rare
+невдержка/ab :coll
+переторжка/ab :coll
+пужка/ab
+дерюжка/ab :rare
+ряжка/ab
+семеряжка/ab :rare
+семиряжка/ab :rare
+спряжка/ab :rare
+застяжка/ab :rare
+пристяжка/ab :rare
+погрозка/ab :coll
+ув'язка/ab :rare
+супліка/ab :rare
+кика/ab :rare
+брика/ab :rare
+піїтика/a :rare
+балабайка/ab :rare
+чубайка/ab :coll
+чубайка/ab< :coll  //пташка
+вгайка/abX :rare
+угайка/abX :rare
+каламайка/ab :rare
+файка/ab :rare
+чортопхайка/ab :coll
+звичайка/ab :rare
+дучайка/ab :rare
+шайка/ab :rare
+надклейка/ab
+переклейка/ab
+бадійка/ab :rare
+кандійка/ab :rare
+фамілійка/ab :rare
+жоломійка/ab :rare
+манійка/ab :rare
+пирійка/ab :rare
+застійка/ab :rare
+чуйка/ab :rare //різновид одягу
+чуйка/a :slang
+похвалка/ab :rare
+сідалка/ab :rare
+таляпалка/ab< :m
+таляпалка/ab<
+чалка/ab :rare
+правилка/ab :rare
+трясилка/ab :coll
+щілка/ab :rare
+памка/ab :rare
+телеграмка/a :np
+самка/a :np
+академка/a :np:coll
+димка/ab :rare
+піддимка/ab :rare
+булдимка/ab :rare
+озимка/a :np:coll
+кримка/ab :rare
+солімка/ab :rare
+обнімка/ab :rare
+передрімка/ab
+телезйомка/ab :coll
+перезйомка/ab :coll
+стереозйомка/ab :coll
+рентгенозйомка/ab :coll
+телекінозйомка/ab :coll
+аерозйомка/ab :coll
+телефотозйомка/ab :coll
+помка/ab :rare
+спомка/ab :rare
+корчомка/ab :rare
+задумка/ab
+видумка/ab
+рямка/ab :rare
+збанка/ab :rare
+набиванка/ab :rare
+обшиванка/ab :rare
+калганка/ab :rare
+органка/ab :rare
+піддяганка/ab :coll
+спогаданка/ab :coll
+гражданка/a :np:rare
+сажанка/ab :rare
+поїжджанка/ab :rare
+пряжанка/ab :rare
+сковзанка/ab :coll
+балаканка/ab :coll
+ладканка/ab
+деканка/ab< :coll
+чеканка/a :np
+сіканка/ab :rare
+тканка/ab :rare
+самотканка/ab :rare
+пошуканка/a :np:rare
+саманка/a :np:coll
+галломанка/ab :np
+фірманка/ab :rare
+фурманка/ab :rare
+хурманка/ab :rare
+сипанка/ab :rare
+приспанка/abd<
+купанка/ab :coll
+ступанка/ab
+форшпанка/ab :rare
+поранка/ab :coll
+шафранка/ab :coll
+натачанка/ab :rare
+тавричанка/ab< !
+сірчанка/ab :coll
+казенка/ab :rare
+паленка/ab :coll
+пеленка/ab
+форменка/ab :coll
+симиренка/ab :coll
+мітенка/ab :rare
+пендинка/a :np:coll
+подинка/ab :rare
+хлудинка/ab :coll
+грудинка/ab
+магазинка/ab :coll
+кармазинка/ab
+мізинка/ab :coll
+бензинка/ab :coll
+тавлинка/ab :rare
+відтулинка/ab :coll
+лакоминка/ab :coll
+скороминка/a :np
+проминка/ab :coll
+струминка/ab :rare
+капинка/ab :rare
+перепинка/ab :rare
+розпинка/ab :coll
+сарпинка/ab
+бронеспинка/ab
+заступинка/ab :rare
+задряпинка/ab
+роздряпинка/ab
+ринка/ab :rare
+басаринка/ab :rare
+катеринка/ab :rare
+ростинка/ab :rare
+вм'ятинка/abX
+перепелятинка/ab
+цинка/ab :coll
+куцинка/ab
+чумарчинка/ab :rare
+чарчинка/ab
+чемерчинка/ab :rare
+карабінка/ab :coll
+щебінка/ab :coll
+парокінка/ab :coll
+дисциплінка/ab
+ячмінка/a :np:coll
+райборінка/ab
+мічурінка/ab
+самопереоцінка/ab
+пшінка/a :np
+чугаїнка/ab :rare
+вагонка/a :np
+відгонка/ab :rare
+розгонка/a :np
+вигонка/ab
+прогонка/ab
+мотогонка/a :np
+веломотогонка/a :np
+пароконка/ab :coll
+суконка/a :np
+полонка/ab :coll
+обслонка/ab :rare
+сторонка/ab
+тронка/ab
+патронка/ab
+півторатонка/ab :coll
+півтонка/ab :coll
+вербунка/ab :rare
+чугунка/ab :rare
+ладунка/a :np
+карунка/ab :rare
+марунка/a :np
+мохунка/a :np
+луб'янка/ab :coll
+цем'янка/a :np
+двосім'янка/a :np
+рум'янка/ab
+череп'янка/ab :coll
+лип'янка/ab :coll
+серп'янка/a :np
+гаянка/ab :coll
+сербіянка/ab
+невіянка/a :np
+сортоділянка/ab
+шклянка/ab :coll
+полянка/ab
+чіплянка/ab :coll
+погулянка/ab
+напівпрогулянка/ab
+толокнянка/a :np
+двозернянка/a :np
+однозернянка/a :np
+житнянка/a :np
+полотнянка/a :np
+черешнянка/a :np
+сокирянка/ab :rare
+бистрянка/ab
+хутрянка/ab
+волосянка/ab
+шкуратянка/ab :coll
+тетянка/a :np
+свитянка/ab
+нитянка/ab
+тропотянка/a :np
+відволока/ab :rare
+одволока/ab :rare
+переволока/a :np
+проволока/ab :coll
+сутолока/ab :rare
+опорока/a :np:rare
+відклепка/ab :rare
+переклепка/ab :rare
+розклепка/ab :rare
+обсипка/ab :rare
+відсипка/ab :rare
+пересипка/ab :rare
+розсипка/ab :rare
+антипка/ab :coll
+шіпка/ab :rare
+лампка/ab
+лупка/ab :rare
+трупка/ab
+юпка/ab
+цяпка/ab :rare
+наварка/ab :bad //процес, дія
+наварка/ab  //наслідок дії
+зварка/ab  //наслідок дії
+соковарка/ab
+сигарка/ab
+піджарка/ab  //?
+санжарка/a :np
+зимарка/ab
+чинарка/ab :rare
+шапарка/ab :rare
+склепарка/ab :rare
+анасарка/ab
+травокосарка/ab
+кантарка/ab :rare
+передирка/ab :rare
+переднирка/ab
+кабатирка/ab :rare
+табатирка/ab :rare
+протирка/ab
+одбірка/ab :rare
+приговірка/ab
+поговірка/ab
+свірка/ab :rare
+фотодірка/ab
+радіозірка/ab
+протозірка/ab
+талірка/ab :rare
+семірка/ab
+запірка/ab :coll
+закупорка/ab
+шпорка/ab
+лабораторка/ab :coll
+мухорка/ab :coll
+шорка/ab
+павурка/ab :rare
+підкурка/ab
+пурка/ab
+рурка/ab :rare
+сигнатурка/ab
+халтурка/ab :coll
+центурка/ab :coll
+пічурка/ab :coll
+ошурка/ab
+фуярка/ab :rare
+рабеска/ab :rare
+вписка/ab :coll
+надписка/ab :rare
+одписка/ab :rare
+навіска/ab
+триколіска/ab
+чорноколоска/a :np
+переноска/ab :coll
+міноноска/ab :rare
+поноска/ab
+фоска/ab :coll
+перекуска/ab :rare
+прикуска/ab :rare
+розтруска/a :np:rare
+утруска/a :np:rare
+молдовеняска/a :np
+перетряска/ab :coll
+рабатка/ab :rare
+рубатка/ab :rare
+перегатка/ab
+рудовідкатка/a :np
+перепідкатка/a :np
+одкатка/a :np
+розкатка/a :np
+самокатка/a :np:rare
+скатка/ab
+гранатка/ab
+надлопатка/ab
+кратка/ab :rare
+носатка/ab :rare
+зубчатка/ab
+трубчатка/ab
+червчатка/ab :rare
+свинчатка/ab :coll
+крупчатка/ab :coll
+бранзолетка/ab :rare
+зчитка/ab :rare
+субітка/ab :rare
+розцвітка/ab :rare
+лакітка/ab :rare
+субітка/ab :rare
+сплітка/ab :rare
+уплітка/ab :rare
+вимітка/ab :rare
+сухітка/a :np:rare
+п'ятисотка/ab :coll
+бартка/ab :rare
+огортка/ab :rare
+повстка/ab :coll
+почестка/ab :rare
+обвістка/ab :rare
+примостка/ab :rare
+продрозверстка/ab :rare
+чотириверстка/ab :rare
+триверстка/ab :rare
+п'ятиверстка/ab :rare
+десятиверстка/ab :rare
+двоверстка/ab :rare
+п'ятиустка/ab
+твердоустка/ab
+рястка/ab
+відкрутка/ab
+сухом'ятка/a :np
+синятка/ab :rare
+п'ятдесятка/ab :coll
+сімнадцятка/ab :coll
+шістнадцятка/ab :coll
+самбука/ab :rare
+саблука/ab :rare
+поука/ab :rare
+опука/ab :rare
+припорука/ab :rare
+ошука/ab :rare
+різачка/a :np:coll
+проскачка/ab :coll
+сапачка/ab :coll
+тріпачка/ab :coll
+драчка/ab :rare
+передрачка/ab :rare
+трачка/ab :rare
+потачка/ab :coll
+невистачка/ab :rare
+нюхачка/ab :rare
+писулечка/ab :coll
+крисанечка/ab :rare
+цупечка/ab :rare
+дучечка/ab :rare
+шизичка/ab :rare
+кичка/ab :rare
+радіоперекличка/ab :rare
+підтичка/ab :rare
+протичка/ab :coll
+рапортичка/ab :coll
+опорічка/ab :rare
+пересічка/ab :rare
+чічка/ab :rare
+обстановочка/ab :coll
+вірьовочка/ab :rare
+шахвочка/ab :rare
+палочка/ab :coll
+шкляночка/ab :coll
+тальяночка/ab :coll
+папочка/ab :rare
+тапочка/ab :coll
+пацьорочка/ab :rare
+рурочка/ab :rare
+шабатурочка/ab :rare
+флоярочка/ab :rare
+облаточка/ab
+краточка/ab :rare
+червчаточка/ab :rare
+серветочка/ab
+литочка/ab
+плиточка/ab :rare
+віточка/ab :rare
+кіточка/ab< :rare
+баньочка/ab :rare
+дучка/ab :rare
+падучка/a :np:coll
+телейтокучка/ab
+получка/ab :coll
+сипучка/ab :coll
+шипучка/ab :coll
+заручка/ab :rare
+перевиручка/ab
+недовиручка/ab
+літучка/ab :coll
+гнилючка/ab
+приключка/ab
+закорючка/ab :rare
+скиндячка/ab :coll
+пилячка/a :np:rare
+гілячка/ab
+терплячка/a :np:coll
+троячка/ab :coll
+стоячка/ab
+чирячка/ab :coll
+башка/ab :coll
+бабашка/ab :rare
+шабашка/ab :coll
+пристрашка/ab :rare
+ташка/ab :rare
+кулешка/ab :rare
+тешка/ab :rare
+надвишка/ab :rare
+радіовишка/ab
+пишка/ab :rare
+шарошка/ab
+льошка/ab<
+дрібушка/ab
+рябушка/ab< :m //хтось рябий
+рябушка/ab< //хтось ряба
+рябушка/a :np //хвороба тютюну
+сивушка/a :np //горілка
+сивушка/ab< //самиця сивуча
+спідушка/ab :coll
+подолушка/ab :rare
+черепушка/ab :rare
+сліпушка/ab :coll
+окрушка/ab :coll
+крупорушка/ab :coll
+рисорушка/ab :coll
+просорушка/ab
+стрекотушка/ab
+психушка/ab :coll
+чушка/ab< :coll
+чушка/ab :rare
+чушка/ab  //брусок
+коклюшка/ab
+понюшка/ab :coll
+півпляшка/ab
+фляшка/ab :rare
+готелька/ab :coll
+бутелька/ab :rare
+мантилька/ab :rare
+фасолька/ab :rare
+писулька/ab :coll
+смоктулька/ab :coll
+пілюлька/ab :coll
+шанька/ab :rare
+кошуленька/ab :rare
+обрадонька/a :np:rare
+гунька/ab  //рослина
+гунька/ab< //людина, котра гундосить
+гунька/ab< :m //людина, котра гундосить
+тарапунька/ab :rare
+
+
+//ла
+кудла/ab  //кудлата голова
+кудла/ab< //жінка
+кушпела/a :np:rare
+парцела/ab :rare
+бібула/ab :rare
+балагула/ab :rare //віз
+балагула/ab< :rare //візник
+регула/ab :rare
+хамула/ab :rare //суп
+хамула/ab< :coll
+хамула/ab< :m:coll
+
+
+//ль
+сабаль/ij
+шушваль/i :np:coll
+даль/ij
+падаль/i :np
+розкаль/i :np:rare
+спаль/ij :rare
+каталь/ij< :coll
+відталь/ij :rare
+кибель/ij :rare
+скудель/ij :rare //горщик
+скудель/i :np:rare //глина
+орель/ij :rare
+трандафиль/ij :rare
+ферділь/ij :rare
+обміль/ij :rare
+метіль/ij :rare //метелиця
+метіль/ij< :m:rare //метелик
+паросль/ij :rare
+
+галя/ab :rare
+медаля/ab :rare
+фаля/ab :rare
+шаля/ab :rare
+зябля/a :np:rare
+крівля/ab :rare //покрівля
+крівля/a :np:rare //кров
+готівля/a :np:rare
+картоплезаготівля/ab
+порятівля/a :np:coll
+підночівля/ab
+гугля/ab :coll
+карабеля/ab :rare
+кобеля/ab :rare
+рагеля/ab :rare
+хурделя/ab :rare
+кнеля/ab
+реля/ab :rare
+ореля/ab :rare
+парцеля/ab :rare
+факля/ab :rare
+цикля/ab
+шмаркля/ab :coll
+новорілля/a :np
+кімля/ab :rare
+дрімля/ab :rare
+роля/ab :rare
+фасоля/ab :rare
+потоля/ab :rare
+папля/ab
+кропля/ab :rare
+купля/a :np:rare
+ненатля/a :np:rare
+красовуля/ab :rare
+рогуля/ab :coll
+моргуля/ab :rare
+надраґуля/a :np:coll
+ходуля/ab
+кошуля/ab :rare
+шуфля/ab :rare
+тахля/ab :rare
+хохля/ab :rare
+люля/ab :coll
+канюля/ab
+
+
+//ма
+строма/a :np //у біології
+строма/ab :rare //провалля
+
+
+стума/a :np:rare
+мішма/a :np:coll&adv
+тальма/ab :rare
+
+
+//мме
+умме :nv
+
+
+//на
+гана/a :np:rare
+німана unknown
+стогна/ab :rare
+бездна/ab
+бабизна/a :np:rare
+голубизна/a :np:rare
+кривизна/a :np:rare
+дівизна/a :np:rare
+подовизна unknown //error
+старовизна/a :np:rare
+ріднизна/a :np:rare
+панщизна/a :np:rare
+дуплавина/ab :rare
+рядовина/a :np:rare
+цмоковина/a :np:rare
+нітроклітковина/a :np:rare
+громовина/ab :rare
+основина/ab :rare
+невзгодина/ab :rare
+незгодина/ab :rare
+глодина/ab :coll
+маржина/a :np:rare
+скелина/ab :rare
+білина/a :np:rare
+поранина/a :np:rare
+паленина/a :np:rare
+зеленина/a :np:rare
+цундрина/a :np:rare
+натина/ab :rare
+дрантина/ab :rare
+фантина/ab :rare
+харкотина/a :np:rare
+околотина/a :np:rare
+шостина/ab :rare
+сурдутина/ab :rare
+закрутина/ab :rare
+цина/a :np:rare
+сардачина/ab :rare
+чумачина/ab< //чумак
+чумачина/a :np:rare //чумаки
+опачина/ab :rare
+кравчина/ab< ^noun:m //молодий кравець
+кравчина/a :np:rare //військо Наливайка
+складчина/ab<
+овечина/a :np
+печина/ab :rare
+розчина/a :np:rare
+опричина/a :np:rare
+шіпчина/ab :rare
+шопчина/ab :rare
+шлюпчина/ab :rare
+чумарчина/ab :rare
+чемерчина/ab :rare
+некрутчина/a :np:rare
+оддушина/ab :rare
+слов'янщина/a :np:rare
+відумерщина/a :np:rare
+змирщина/a :np:rare
+сухомельщина/a :np:rare
+раїна/ab :rare
+україна/ab :rare
+обслона/ab :rare
+анона/ab
+опона/ab :rare
+схорона/a :np:rare
+
+
+//нь
+ворвань/i :np:rare
+чвань/i :np:coll
+дань/i :np:rare
+казань/ij :rare
+скань/i :np
+слань/i :np
+хлань/i :np
+відхлань/i :np
+єлмань/ij :rare
+падеспань/i :np
+рань/i :np:coll
+скрань/ij :rare
+розтань/ij
+розстань/ij
+празелень/ij
+вісень/ij :rare
+линь/i :np
+сінь/i :np
+цінь/i :np:rare&excl:coll
+гармонь/ij
+бронь/i :np:rare
+воронь/i :np:rare
+зернь/i :np:rare
+рунь/i :np
+юнь/i :np
+багрянь/i :np
+
+
+//нья
+вікунья/ab<> //тварина
+вікунья/a :np //шерсть, тканина
+
+
+//ня
+калабаня/ab
+чуганя/ab :rare
+клапаня/ab :rare
+клепаня/ab :rare
+кресаня/ab :rare
+крисаня/ab :rare
+літаня/ab :rare
+станя/ab :rare
+бабня/a :np:coll
+погребня/a :np:rare
+садібня/a :np:rare
+ворохобня/a :np
+дзьобня/ab :rare
+козубня/ab :rare
+стравня/a :np:rare
+деревня/a :np:rare
+сівня/a :np:rare
+чатівня/ab :rare
+кловня/ab :rare
+половня/ab :rare
+підповня/a :np:rare
+цукрорафінадня/ab :rare
+порадня/ab :rare
+сидня/a :np:coll
+порідня/a :np:rare
+хідня/a :np:coll
+похідня/ab :rare
+ходня/a :np:coll
+студня/ab :rare
+челядня/ab :rare
+пряженя/ab :rare
+гуменя/ab :rare
+пожежня/ab :coll
+казня/ab :rare
+мазня/a :np:coll
+яскиня/ab :rare
+слиня/ab :rare
+миня/ab< :coll
+стариня/a :np:rare
+благостиня/a :np
+простиня/ab< :rare //проста людина
+простиня/ab< :m:rare //проста людина
+простиня/ab :bad
+махиня/ab :rare
+пазушиня/ab :rare
+моня/ab< :coll
+шупоня/a :np:rare
+сталетопня/ab :rare
+салотопня/ab :rare
+собарня/ab :rare
+гарбарня/ab :rare
+шкварня/a :np:coll
+короварня/ab :rare
+сварня/a :np:rare
+звіздарня/ab
+спіжарня/ab :rare
+римарня/ab :rare
+гренарня/ab :
+касарня/ab :rare
+титарня/ab :rare
+нафтарня/ab :rare
+маштарня/ab :rare
+шафарня/ab :rare
+сахарня/ab :rare
+птахарня/ab :rare
+свічарня/ab :rare
+губерня/ab :rare
+мізерня/a :np:coll
+мізерня/ab< :rare //нікчема
+мізерня/ab< :m:rare //нікчема
+юнкерня/a :np:coll
+авіамайстерня/ab
+радіомайстерня/ab
+фотомайстерня/ab
+багатирня/a :np:rare
+збірня/ab :rare
+звірня/a :np
+борня/a :np
+зборня/a :np
+цукорня/a :np:rare
+шорня/ab :rare
+очкурня/ab
+бахурня/a :np:rare
+цилюрня/ab
+пив'ярня/ab
+палярня/ab :rare
+волярня/ab :rare
+голярня/ab :rare
+дьогтярня/ab :rare
+хапатня/a :np:coll
+шатня/ab :rare
+заметня/a :np:coll
+каретня/ab :rare
+робітня/ab :rare
+дривітня/ab :rare
+гуня/ab :rare
+куня/a :np:rare
+матуня/ab :rare
+кормокухня/ab
+хробачня/a :np:rare
+собачня/a :np:rare
+бичня/a :np:rare
+паровичня/ab :rare
+мужичня/a :np:coll
+шашличня/ab
+пацючня/a :np
+сіромашня/a :np:rare
+кумашня/a :np:rare
+пташня/a :np:rare
+яєшня/ab
+баришня/ab :rare
+колішня/ab :rare
+пішня/ab :rare
+пригоршня/ab
+мушня/a :np:rare
+лопушня/a :np:rare
+ворушня/a :np:rare
+заметушня/a :np:rare
+налюшня/ab :rare
+костопальня/ab :rare
+
+
+//оя
+фуркроя/ab
+тоя/ab
+
+
+//па
+храпа/a :np:rare
+дотепа/ab< :m:rare //тямуща людина
+дотепа/ab< :rare //тямуща людина
+дотепа/a :np:rare //тямущість
+рипа/ab :rare
+кліпа/ab :rare
+шопа/ab :rare
+
+
+//ра
+обмара/ab :rare
+пригра/ab :rare
+супергра/ab :rare
+югра/a :np
+шпундра/a :np:rare
+цундра/a :np:rare
+подра/ab :rare
+неймовіра/ab :rare
+псявіра/ab :rare
+фіра/ab :rare
+хльора/a :np:rare
+негура/ab :rare
+фризура/ab :rare
+обскура/ab
+конура/ab :coll
+матура/a :np:rare
+хавтура/ab :rare
+позитура/ab :rare
+палітура/ab :rare
+прозектура/ab  //установа
+прозектура/a :np //діяльність
+піхтура/ab< :rare //піхотинець
+піхтура/a :np:coll //піхота
+піхтурою adv:rare&noun:inanim:np:v_oru:rare
+
+
+//ря
+заздря/a :np:rare
+циндря/ab< :rare //легковажна людина
+циндря/ab< :m:rare //легковажна людина
+циндря/a :np:rare //окалина
+цундря/a :np:rare
+меря/ab< :m:rare //представник народності
+меря/ab< :rare //представниця народності
+меря/a :np:rare //народність
+путеря/a :np:rare
+биря/ab< :rare
+макотиря/ab :slang
+хиря/ab :rare //хвороба
+хиря/ab< :m:rare //хвора людина
+хиря/ab< :rare //хвора людина
+пря/a :np:rare
+бистря/a :np:coll
+пістря/a :np:coll
+куштря/ab :rare
+куря/ab :rare
+
+
+//са
+покраса/ab :rare
+стоколоса/ab :rare
+пахітоса/ab :rare
+корса/a :np:rare
+яса/a :np:rare
+коляса/ab :rare
+
+
+//сь
+розквась/a :np:rare
+вись/ab
+завись/ab
+навись/a :np
+рукопись/ab :rare
+скоропись/ab :rare
+помісь/ab :rare&part:rare&conj:subord:rare
+
+
+//ся
+подуся/ab :rare
+тітуся/ab< :coll
+
+
+//та
+ногата/ab :rare
+саламата/a :np:rare
+тарапата/a :np:rare
+ренета/a :np //сорт
+ренета/ab :coll //окремий плід
+трепета/ab :rare
+візита/ab :rare
+калита/ab :rare
+посвіта/a :np:rare
+твердота/a :np:rare
+вікота/a :np:rare
+ренглота/ab
+обзолота/ab :rare
+труднота/a :np:rare
+рясота/a :np:rare
+літота/ab
+відеочастота/ab
+страхота/a :np
+позіхота/a :np
+заохота/ab :rare
+учта/ab  //банкет
+учта/a :np:rare //пошана
+цята/ab :coll
+
+
+//ть
+оплать/a :np:rare
+прожовть/a :np
+заметь/ab :rare
+макортеть/ab :rare
+четь/ab :rare
+щеть/a :np:rare
+сить/a :np:rare
+ненасить/a :np:rare
+пересить/a :np:rare
+віть/ab :rare //окрема гілка
+віть/a :np:rare
+повіть/ab :rare
+цвіть/a :np:rare
+локіть/ab :rare
+пліть/a :np
+попліть/ab :coll
+заміть/ab :rare
+хіть/a :np
+щіть/a :np:rare
+павоть/ab :rare
+пазолоть/a :np:rare
+позолоть/a :np
+прозолоть/a :np:rare
+колоть/a :np:rare
+чаполоть/a :np
+водоверть/ab :rare
+коловерть/ab :coll
+крутоверть/ab :rare
+четверть/ab
+півсмерть/a :np
+макотерть/ab :rare
+сирть/ab
+підобласть/ab
+радіообласть/ab
+пасть/ab
+страсть/ab
+часть/ab :rare
+нересть/a :np:rare
+нечесть/a :np:rare
+зависть/a :np:rare
+ристь/a :np:rare
+неристь/a :np:rare
+хисть/a :np:rare
+
+
+//сть[b]
+молодавість/l :np:rare
+ржавість/l :np:rare
+пухнавість/l :np:rare
+занепадливість/l :np:rare
+всидливість/lX :np:rare
+усидливість/lX :np:rare
+обхідливість/l :np:rare
+надоїдливість/l :np:rare
+незгодливість/l :np:rare
+ствердливість/l :np:rare
+страхопудливість/l :np:rare
+неуважливість/l :np:rare
+влазливість/l :np:coll
+оприскливість/l :np:rare
+розм'якливість/l :np:rare
+стрімливість/l :np:rare
+рівномінливість/l :np:rare
+нещасливість/l :np:rare
+скоротливість/l :np:rare
+почутливість/l :np:rare
+температурочутливість/l :np
+понятливість/l :np:coll
+сперечливість/l :np:rare
+спесивість/l :np:rare
+почтивість/l :np:rare
+подільчивість/l :np:rare
+рівноскладовість/l :np
+неархімедовість/l :np
+виставковість/l :np:rare
+скотопромисловість/l :np:rare
+приповість/l :np:rare
+провість/lb
+длявість/l :np:rare
+пухлявість/l :np:rare
+маловагість/l :np
+нічогість/l :np:rare
+вільгість/l :np:rare
+хрупкість/l :np:rare
+часокількість/l :np
+першохристиянськість/l :np:rare
+селянськість/l :np:rare
+лицарськість/l :np:rare
+невдосконалість/l :np:rare
+причалість/l :np:rare
+далекосяглість/l :np:rare
+отяжілість/l :np:rare
+омлілість/l :np:rare
+розжирілість/l :np:coll
+устеклість/l :np:rare
+пришлість/l :np:rare
+дійшлість/l :np:rare
+спалимість/l :np:rare
+одбиваність/l :np:rare
+приживаність/l :np:rare
+розшиваність/l :np:rare
+розкованість/l :np:rare
+скомплікованість/l :np:rare
+розкласифікованість/l :np
+зрусифікованість/l :np
+маркованість/l :np
+розмаркованість/l :np
+рискованість/l :np:rare
+запліткованість/l :np:coll
+роздрукованість/l :np:rare
+розцяцькованість/l :np
+непогамованість/l :np
+нормованість/l :np
+розруйнованість/l :np
+легкокерованість/l :np
+відтитрованість/l :np
+відцентрованість/l :np
+недоструктурованість/l :np
+розтасованість/l :np
+незаінтересованість/l :np:coll
+рефлексованість/l :np:rare
+застосованість/l :np
+зопсованість/l :np:coll
+розкомплектованість/l :np
+розукомплектованість/l :np
+недогартованість/l :np
+злютованість/l :np
+невідшліфованість/l :np
+розташованість/l :np
+клішованість/l :np
+згорьованість/l :np
+зафальцьованість/l :np
+прогартовуваність/l :np
+важковиховуваність/l :np
+припрацьовуваність/l :np
+роздосадуваність/l :np:rare
+уражуваність/l :np
+прочитуваність/l :np
+розсмоктуваність/l :np:rare
+розібганість/l :np:rare
+розлиганість/l :np:rare
+роздробність/l :np:rare
+способність/l :np:rare
+чиновність/l :np:rare
+зруйновність/l :np:rare
+квадровність/l :np:rare
+поверховність/l :np:coll
+скудність/l :np:rare
+страхопудність/l :np:rare
+одлюдність/l :np:rare
+розмочаленість/l :np:rare
+обезплідненість/l :np:rare
+розмареність/l :np:coll
+благонаміреність/l :np:rare
+розвореність/l :np:rare
+розузореність/l :np:rare
+розчепуреність/l :np:rare
+розвихреність/l :np
+некінченість/l :np:rare
+типажність/l :np
+нікомуненалежність/l :np:rare
+дряпіжність/l :np:rare
+можність/l :np:rare
+відразність/l :np:rare
+дбайність/l :np:rare
+обичайність/l :np:rare
+туподумність/l :np:coll
+дерзновенність/l :np:rare
+звинність/l :np:rare
+самотинність/l :np:rare
+безсонність/l :np:rare
+тварність/l :np:rare
+нехарність/l :np:rare
+благотворність/l :np:rare
+зморність/l :np:rare
+упорність/l :np:rare
+зависність/l :np:rare
+легкомисність/l :np:rare
+живописність/l :np:rare
+охвітність/l :np:rare
+первобутність/l :np:rare
+труськоміцність/l :np:rare
+бачність/l :np:rare
+плачність/l :np:rare
+мелодичність/l :np:rare
+ритмомелодичність/l :np:rare
+рапсодичність/l :np:rare
+синестезичність/l :np:rare
+безличність/l :np:rare
+драстичність/l :np:rare
+принципіальність/l :np:rare
+чиноначальність/l :np:rare
+відвічальність/l :np:rare
+задовольність/l :np:rare
+благоглупість/l :np:rare
+спорість/l :np:rare
+пронозуватість/l :np:coll
+стрибкуватість/l :np:rare
+осадкуватість/l :np:rare
+пилуватість/l :np:rare
+склуватість/l :np:rare
+вітіюватість/l :np:rare
+смаглюватість/l :np:rare
+плойчатість/l :np:rare
+розвитість/l :np:rare
+хоровитість/l :np:rare
+хвастовитість/l :np:rare
+розмивчастість/l :np:rare
+невиразистість/l :np:rare
+сягнистість/l :np:coll
+задьористість/l :np:rare
+слоїстість/l :np:coll
+смутість/l :np:coll
+розіп'ятість/l :np:rare
+робучість/l :np:rare
+могучість/l :np:rare
+невсипучість/l :np:rare
+цілючість/l :np:coll
+ость/ab
+пакость/ab
+милость/ab
+кріпость/ab :rare
+забрость/ab :rare
+обрость/ab
+літорость/ab :rare
+трость/ab
+персть/a :np:rare
+муть/a :np:rare
+безпам'ять/a :np:rare
+злопам'ять/a :np:rare
+
+
+//уя
+отруя/ab :rare
+шуя/a :np //шушваль
+шуя/ab< //ліворука людина
+
+
+//фа
+ізонефа/ab
+трефа/ab
+екоморфа/ab
+
+
+//ха
+наваха/ab
+саломаха/a :np:rare
+соломаха/a :np:rare
+цеха/ab
+буслиха/ab< :coll
+шумиха/a :np:rare
+шумиха/ab<
+лявониха/a :np
+цапиха/ab< :coll
+криха/ab :rare
+очеремха/ab :rare
+конха/ab
+запороха/ab :coll
+рябуха/ab< :coll
+медовуха/a :np:coll
+придуха/a :np
+запридуха/a :np:coll
+різуха/a :np
+стамуха/ab
+черемуха/ab :rare
+моримуха/ab :rare
+осьмуха/ab :rare
+мокруха/a :np
+скруха/a :np
+колотуха/a :np //ряжанка
+колотуха/ab< :coll //сварлива жінка
+частуха/a :np
+
+
+//ца
+інфлуенца/a :np:rare
+інфлюенца/a :np:rare
+каруца/ab< :rare
+
+
+//ця
+церківця/ab :rare
+ковбиця/ab :rare
+пригребиця/ab :coll
+голубиця/ab< :rare
+кривавиця/a :np:rare
+кровавиця/a :np:rare
+кервавиця/a :np:rare
+кирвавиця/a :np:rare
+ногавиця/ab :rare
+тискавиця/ab
+лавиця/ab
+ляпавиця/ab :coll
+муравиця/a :np
+трясавиця/a :np
+отавиця/ab
+дихавиця/a :np:rare
+полендвиця/ab
+перевиця/ab
+гребовиця/ab :rare
+бруковиця/ab :rare
+таловиця/ab :coll
+половиця/ab :rare
+коповиця/ab :rare
+паровиця/ab :rare
+сировиця/a :np:rare
+кровиця/a :np
+трясовиця/ab<
+пуховиця/ab< :rare
+сачовиця/a :np:rare
+польовиця/ab
+вервиця/ab
+мервиця/ab :rare
+кувиця/ab
+медведиця/ab<
+ледиця/ab
+солодиця/ab
+козиця/ab :rare
+жалиця/ab :rare
+малиця/ab
+греблиця/ab :rare
+низькостеблиця/ab
+фурделиця/ab :rare
+кужелиця/a :np:coll
+веселиця/ab :rare
+гирилиця/ab :rare
+тополиця/ab
+королиця/ab< :rare
+королиця/ab
+плиця/ab
+порплиця/ab
+теслиця/ab
+руслиця/ab
+метлиця/ab :rare
+улиця/ab :rare
+сулиця/ab :rare
+седмиця/ab :rare
+німиця/ab :rare
+обіймиця/ab :rare
+співаниця/ab :rare
+тканиця/ab :rare
+планиця/ab :rare
+ламаниця/ab :rare
+копаниця/ab
+заграниця/a :np:coll
+драниця/ab :rare
+збираниця/ab :coll //збирання
+збираниця/a :np:rare //колекція
+ораниця/a :np:rare
+плутаниця/ab :coll
+мішаниця/a :np:coll
+кошаниця/ab
+ліщаниця/ab
+шкребниця/ab
+рибниця/ab  //судно
+рибниця/ab< //жінка
+зарукавниця/ab<
+заздравниця/ab<
+справниця/ab :rare //установа
+справниця/ab< :rare //дружина справника
+дивниця/ab :rare
+скарбівниця/ab :rare
+ладівниця/ab :rare
+самогодівниця/ab
+гаківниця/ab :rare
+шпаківниця/ab
+маґлівниця/ab :rare
+снівниця/ab
+оснівниця/ab
+рівниця/ab
+цівниця/ab
+вовниця/a :np:rare
+смоковниця/ab
+половниця/ab :rare
+половниця/ab< :rare
+словниця/ab :rare
+повниця/ab
+бритовниця/ab
+фруктовниця/ab
+наладниця/ab<
+перекладниця/ab<
+стадниця/ab :rare
+щадниця/ab :rare
+оселедниця/ab
+обидниця/ab< :rare
+побідниця/ab< :rare
+проповідниця/ab<
+плідниця/ab<
+неплідниця/ab<
+наслідниця/ab< :coll
+престолонаслідниця/ab<
+мідниця/ab :rare
+розхідниця/ab
+черевоугодниця/ab<
+плодниця/ab< :rare
+природниця/ab<
+рукоблудниця/ab<
+марудниця/ab<
+бербениця/ab :rare
+смажениця/ab :rare
+вуджениця/a :np:rare
+зелениця/a :np
+камениця/ab :rare
+вітрениця/ab :rare
+осениця/ab< :rare
+ничениця/ab :rare
+кошениця/a :np:coll
+розважниця/ab<
+стражниця/ab<
+прибережниця/ab
+нижниця/ab
+діжниця/ab :coll
+ліжниця/ab :rare
+пляжниця/ab<
+лабазниця/ab< :rare
+піврізниця/ab
+лозниця/ab :rare
+єдиниця/ab :rare
+терміноодиниця/ab
+скамниця/ab :rare
+винниця/ab :rare
+марниця/ab :rare
+тарниця/ab :rare
+керниця/ab :rare
+кирниця/ab :rare
+покісниця/ab :rare
+лісниця/ab :coll
+лісниця/ab<
+голосниця/ab :rare
+папіросниця/ab
+співкурсниця/ab< :rare
+соусниця/ab
+приватниця/ab< :coll
+розкатниця/ab<
+суперфосфатниця/ab<
+оцетниця/ab
+пажитниця/a :np
+тавотниця/a :np
+самотниця/ab< :rare
+нотниця/ab :rare
+компотниця/ab
+тортниця/ab
+попрятниця/ab< :rare
+медуниця/a :np:rare
+лічниця/ab :rare
+піврічниця/ab
+пробочниця/ab
+ночниця/ab< :rare
+печіночниця/ab
+марочниця/ab
+пашниця/a :np:coll
+кошниця/ab :rare
+блошниця/ab
+заушниця/ab :rare //сережки
+заушниця/a :np:rare //хвороба
+яшниця/a :np:rare
+загальниця/ab :rare
+капельниця/ab :rare
+ничельниця/ab :rare
+кобильниця/ab :rare
+цідильниця/ab :rare
+магільниця/ab :rare
+сортодільниця/ab
+зооветдільниця/ab
+зільниця/ab :rare
+приспільниця/ab :rare
+заметільниця/ab :rare
+свавольниця/ab< :rare
+невольниця/ab<
+рольниця/ab<
+підкуркульниця/ab<
+мюльниця/ab<
+тім'яниця/ab :rare
+варяниця/ab
+росяниця/ab<
+просяниця/ab :rare
+тростяниця/ab
+скрепиця/ab
+скрипиця/ab
+ріпиця/ab
+свиріпиця/a :np
+ступиця/ab :rare
+сухоребриця/a< :np:coll //смерть, перен.
+сухоребриця/ab< :coll
+цебриця/ab :rare
+кендериця/a :np:rare
+семериця/ab :rare
+водопериця/a :np
+вітериця/ab :rare
+нириця/ab :rare
+лакриця/a :np
+патриця/ab
+кістриця/ab
+гостриця/ab
+дуриця/ab :rare
+яриця/ab  //суниця
+яриця/a :np //яра пшениця
+багатоголосиця/a :np
+білоколосиця/a :np
+росиця/ab
+рясиця/ab
+занігтиця/a :np
+обметиця/a :np
+ситиця/a :np:rare
+жентиця/a :np:rare
+ракотиця/ab :rare
+сухозлотиця/ab
+сухозолотиця/ab
+тиртиця/ab :rare
+капустиця/ab :rare
+павутиця/ab :rare
+циця/ab :coll
+липчиця/ab :rare
+перчиця/ab :rare
+ручиця/ab
+квашиця/ab
+кашиця/ab :rare
+порошиця/ab
+лещиця/a :np
+рамця/b :ns
+
+
+//ч
+товч/a :np:rare
+малеч/a :np:rare
+сеч/a :np:rare
+нетеч/a :np:rare
+відліч/a :np:rare
+міч/a :np:rare
+полуніч/ab :rare
+розтіч/a :np:rare
+патолоч/a :np:rare
+патороч/a :np:rare
+руч/ab :v_naz/v_rod/v_dav/v_zna/v_oru/v_mis/v_kly
+руч/ab :p:v_naz/v_rod/v_dav/v_zna/v_oru/v_mis/v_kly
+руч adv:rare
+
+
+//ча
+піддача/ab :coll
+хлібоздача/a :np:rare
+достача/a :np:rare
+солоднеча/a :np:coll
+цокотнеча/a :np:coll
+тріскотнеча/a :np:coll
+стукотнеча/a :np:coll
+клопотнеча/a :np:coll
+торохнеча/a :np:coll
+мокреча/a :np:coll
+камедетеча/a :np
+нетеча/a :np:coll
+слизотеча/a :np
+смолотеча/a :np
+мокротеча/a :np:coll
+стріча/ab :coll
+засіча/ab
+порча/ab :coll
+куча/ab :rare
+туча/ab :coll
+качуча/a :np
+
+
+//ш
+тиш/l :np
+пліш/lm :rare
+
+
+//ша
+таша/ab
+теша/a :np
+сейша/ab<
+бакша/ab :rare
+ракша/ab<
+локша/a :np:rare
+прокурорша/ab< :coll
+посесорша/ab< :coll
+папуша/ab
+папуша/ab<
+катуша/ab :rare
+управительша/ab< :coll
+учительша/ab< :coll
+
+
+//щ
+нехворощ/ab :coll
+святощ/b :ns
+пахощ/b :ns
+пригірщ/ab :rare
+
+
+//ща
+нехвороща/a :np:coll
+шкаралуща/ab :rare
+
+
+//я
+стая/ab
+бая/a :np:rare
+хиндя/a :np:rare
+дюдя/a :np:rare
+недея/a :np:rare
+гамазея/ab :rare
+фузея/ab :rare
+кирея/ab :rare
+рацея/a :np:rare
+базя/ab :rare
+стезя/a :np
+нозя/ab :rare
+свинория/ab :rare
+рвія/a :np:rare
+сальвія/ab :rare
+шальвія/ab :coll
+шельвія/a :np:rare
+маркетологія/a :np:rare
+магдебургія/a :np:rare
+самонадія/a :np:rare
+кордегардія/ab :rare
+дивоглядія/a :np:rare
+фереджія/a :np:rare
+халазія/a :np:rare
+прецизія/a :np:rare
+озія/a :np:rare
+калія/a :np:rare
+капелія/ab :rare
+фудулія/a :np:rare
+плебанія/ab :rare
+кумпанія/ab :rare
+оргинія/ab :rare
+драперія/a :np:rare
+есересерія/a :np:slang
+філоксерія/a :np:rare
+замрія/a :np:rare
+цикорія/ab :rare
+манорія/ab :rare
+санаторія/ab :rare
+кураторія/ab :rare
+квестія/ab :rare
+рафія/ab  //дерево
+рафія/a :np //волокно
+турбація/ab :rare
+резигнація/ab :rare
+резиґнація/ab :rare
+труднація/a :np:coll
+мудрація/ab :coll
+респірація/ab :rare
+перспірація/ab :rare
+орація/ab :rare
+іритація/a :np:rare
+рецитація/a :np:rare
+ліцитація/ab :rare
+габілітація/ab :rare
+протестація/ab :rare
+аболіція/a :np:rare
+коміція/ab :rare
+баніція/ab :rare
+муніція/a :np:rare
+придибенція/a :np:coll
+поведенція/a :np:coll
+кондоленція/ab :rare
+негоція/ab :rare
+конскрипція/ab :rare
+ґратуляція/ab :rare
+секвойя/ab
+
+понада/ab
+міта/ab :rare
+тама/ab
+кіна/ab
