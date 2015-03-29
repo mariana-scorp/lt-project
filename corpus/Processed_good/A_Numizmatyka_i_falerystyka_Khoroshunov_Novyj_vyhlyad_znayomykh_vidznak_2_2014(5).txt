@@ -1,4 +1,4 @@
-﻿<id>С</id>
+﻿<id>C</id>
 <author_surname>Хорошунов</author_surname>
 <author_name>Максим</author_name>
 <title>Новий вигляд знайомих відзнак</title>
