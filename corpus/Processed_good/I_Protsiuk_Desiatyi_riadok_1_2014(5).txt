@@ -9,7 +9,7 @@
 <publisher>Український пріоритет</publisher>
 <year>2014</year>
 <pages>126-129</pages>
-<length>633</length>
+<length>631</length>
 <alt_orth>0</alt_orth>
 <errors></errors>
 <comments></comments>
