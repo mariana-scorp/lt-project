@@ -10,7 +10,7 @@
 <publ_place>Київ</publ_place>
 <publisher>KM Publishing</publisher>
 <year>2013</year> 
-<pages>5-?</pages> 
+<pages>5-6</pages> 
 <length>461</length>
 <alt_orth>0</alt_orth>
 <errors></errors>

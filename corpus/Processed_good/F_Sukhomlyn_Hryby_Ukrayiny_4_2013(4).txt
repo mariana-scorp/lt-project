@@ -10,7 +10,7 @@
 <publ_place>Київ</publ_place>
 <publisher>KM Publishing</publisher>
 <year>2013</year> 
-<pages>?-7</pages> 
+<pages>6-7</pages> 
 <length>575</length>
 <alt_orth>0</alt_orth>
 <errors>гіменофора - гіменофору; наприклад у - наприклад, у; їх поверхні - їхній поверхні</errors>
