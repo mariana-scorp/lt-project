@@ -1,38 +1,38 @@
 //дієслова
-генерувати/ABGHOP0 :imperf:perf 
-глобалізувати/ABGHOP0 :imperf:perf 
-гідрогенізувати/ABGHOP0 :imperf:perf 
-ароматизувати/ABGHOP0 :imperf:perf  
-васкуляризувати/ABGHOP0 :imperf:perf 
-вітрифікувати/ABGHOP0 :imperf:perf 
-гідровати/ABGHOP0 :imperf:perf 
-електризувати/ABGHOP0 :imperf:perf 
-емульсувати/ABGHOP0 :imperf:perf 
-інтегрувати/ABGHOP0 :imperf:perf 
-кантирувати/ABGHOP0 :imperf:perf 
-колорувати/ABGHOP0 :imperf:perf 
-матеріалізувати/ABGHOP0 :imperf:perf 
-меркуризувати/ABGHOP0 :imperf:perf 
-мієлінізувати/ABGHOP0 :imperf:perf 
-назалізувати/ABGHOP0 :imperf:perf 
-нудувати/ABGHOP0 :imperf:perf 
-палаталізувати/ABGHOP0 :imperf:perf 
-реалізувати/ABGHOP0 :imperf:perf 
-структурувати/ABGHOP0 :imperf:perf 
-термінологізувати/ABGHOP0 :imperf:perf 
-фосфоризувати/ABGHOP0 :imperf:perf 
-фосфорувати/ABGHOP0 :imperf:perf 
-дискувати/ABGHOP0 :imperf:perf 
-дискутувати/ABGHOP0 :imperf:perf 
-дознатися/ABGHOP0 :perf 
-доставляти/ABGHOP0 :imperf:perf
-гнути/ABGHOP0 :imperf 
-давити/ABGHOP0 :imperf 
-йти/ABGHOP0 :imperf
-дозрівати/ABGHOP0 :imperf
-діяти/ABGHOP0 :imperf
-жити/ABGHOP0 :imperf
-дійти/ABGHOP0 :perf 
+генерувати/ABGHOP0 :imperf:perf //додати до словника дієслово з теґами
+глобалізувати/ABGHOP0 :imperf:perf //є в словнику
+гідрогенізувати/ABGHOP0 :imperf:perf //додати до словника дієслово з теґами
+ароматизувати/ABGHOP0 :imperf:perf  //є в словнику
+васкуляризувати/ABGHOP0 :imperf:perf //додати до словника дієслово з теґами
+вітрифікувати/ABGHOP0 :imperf:perf //додати до словника дієслово з теґами
+гідрувати/ABGHOP0 :imperf:perf //додати до словника дієслово з теґами
+електризувати/ABGHOP0 :imperf:perf //є в словнику
+емульсувати/ABGHOP0 :imperf:perf //є в словнику
+інтегрувати/ABGHOP0 :imperf:perf //є в словнику
+кантирувати/ABGHOP0 :imperf:perf //додати до словника дієслово з теґами
+колорувати/ABGHOP0 :imperf:perf //додати до словника дієслово з теґами
+матеріалізувати/ABGHOP0 :imperf:perf //є в словнику
+меркуризувати/ABGHOP0 :imperf:perf //додати до словника дієслово з теґами
+мієлінізувати/ABGHOP0 :imperf:perf //додати до словника дієслово з теґами
+назалізувати/ABGHOP0 :imperf:perf //є в словнику
+нудувати/ABGHOP0 :imperf:perf //додати до словника дієслово з теґами
+палаталізувати/ABGHOP0 :imperf:perf //є в словнику
+реалізувати/ABGHOP0 :imperf:perf //є в словнику
+структурувати/ABGHOP0 :imperf:perf //є в словнику
+термінологізувати/ABGHOP0 :imperf:perf //додати до словника дієслово з теґами
+фосфоризувати/ABGHOP0 :imperf:perf //додати до словника дієслово з теґами
+фосфорувати/AGO :imperf:perf //є в словнику
+дискувати/ABGHOP0 :imperf:perf //є в словнику
+дискутувати/ABGHOP0 :imperf:perf //є в словнику
+дознатися/ABGHOP0 :perf //додати до словника дієслово з теґами
+доставляти/IJGHQR :imperf //є в словнику
+гнути/ABEFGHOP2 :imperf //є в словнику
+давити/ABEFGHOP0 :imperf //є в словнику
+йти/MNGH :imperf //є в словнику
+дозрівати/IGQ :imperf //є в словнику
+діяти/IGQ :imperf //є в словнику
+жити/IGQ :imperf //є в словнику
+дійти/MN :perf //є в словнику
 
 //дієприкметники
 гідрогенізований/V ^adjp:pasv:perf
@@ -75,23 +75,23 @@
 
 //іменники
 гірорульовий/i :bad |гіростерничий, гірокермовий, гіростерновий
-гострослів/ab :bad |гострослов
+гострослів/ab :bad |гострослов //ГСУМ теж подає "гострослов" як реєстрову одиницю
 
 //похідні від власних назв
-Гельдерів/V
-Гензелів/V
-Геронів/V 
-Гефестів/V 
-Глауберів/V
-Гнідків/V 
-гоголевий/V :bad |Гоголів
+Гельдерів/U
+Гензелів/U
+Геронів/U 
+Гефестів/U 
+Глауберів/U
+Гнідків/U 
+гоголевий/V :bad |Гоголів/U
 Гомерів/V
-гофмановий/V :bad |Гофманів
-даламберовий/V |Даламберів
-Данаїв/V
-дафнієвий/V :bad |Дафніїв
-Дедалів/V 
-Дедекіндів/V 
+гофмановий/V :bad |Гофманів/U
+даламберовий/V |Даламберів/U
+Данаїв/U
+дафнієвий/V :bad |Дафніїв/U
+Дедалів/U 
+Дедекіндів/U 
 
 //прізвища
 Горський/ij
