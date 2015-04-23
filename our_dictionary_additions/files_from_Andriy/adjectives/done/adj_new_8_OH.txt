@@ -1,109 +1,104 @@
 //дієслова
-обезуміти/ABGHOP0 :rare:perf |збожеволіти/ABGHOP0 :perf, знавісніти/ABGHOP0 :perf
-обертати/IGQJHR :imperf 
-обгумувати/ABGHOP0 :perf
-обрідіти/ABGHOP0 :rare:perf |зрідіти/ABGHOP0 :perf, порідіти/ABGHOP0 :perf
-обрямувати/ABGHOP0 :rare:perf |облямувати/ABGHOP0 :perf
-обстругати/ABGHOP0 :perf
-обшерхнути/ABGHOP0 :perf
-об'якорити/ABGHOP0 :perf
-одпрацювати/ABGHOP0 :perf
-одринути/ABGHOP0 :rare:perf
-озвіріти/ABGHOP0 :perf
-озернити/ABGHOP0 :perf
-окаменіти/ABGHOP0 :rare:perf
-окозачити/ABGHOP0 :rare:perf |покозачити/ABGHOP0 :perf
-оконтурувати/ABGHOP0 :perf
-опішити/ABGHOP0 :coll:perf
-опішіти/ABGHOP0 :rare:perf 
-осамотнити/ABGHOP0 :perf
-осамотіти/ABGHOP0 :perf
-осамітнити/ABGHOP0 :perf
-освідомити/ABGHOP0 :rare:perf 
-оскліти/ABGHOP0 :rare:perf 
-осклити/ABGHOP0 :rare:perf 
-оджити/ABGHOP0 :perf 
-одзняти/ABGHOP0 :perf
-одіпнути/ABGHOP0 :perf
-одкрити/ABGHOP0 :perf
-одлягти/ABGHOP0 :perf
-одлигти/ABGHOP0 :rare:perf 
-одміряти/ABGHOP0 :perf
-одпасти/ABGHOP0 :perf
-одтанути/ABGHOP0 :perf
-одточити/ABGHOP0 :perf
-остовпеніти/ABGHOP0 :perf
-опасти/ABGHOP0 :perf
-опити/ABGHOP0 :rare:perf 
-оскірити/ABGHOP0 :coll:perf 
-осунути/ABGHOP0 :perf
-обабити/ABGHOP0 :bad:perf |збабити/ABGHOP0 :perf
-обварити/ABGHOP0 :perf
-обезземелити/ABGHOP0 :bad:perf |збезземелити/ABGHOP0 :perf
-обездолити/ABGHOP0 :bad:perf |знедолити/ABGHOP0 :perf 
-обездуховити/ABGHOP0 :bad:perf |знедуховити/ABGHOP0 :perf
-облягати/IGQJHR :imperf |обтискати/ABGHOP0 :imperf 
-ушляхетнити/ABGHOP0 :perf
-осірчити/ABGHOQ0 :perf
-отвердіти/IGQJHR :perf
-очмаріти/IGQJHR :perf
-очужіти/IGQJHR :perf
-перевідкласти/ABGHOP0 :perf
-переднакреслити/ABGHOP0 :perf
+обезуміти/IQ :perf:rare   
+збожеволіти/IQ :perf  // додати тег Q
+знавісніти/IQ :perf  // додати тег Q
+обгумувати/ABGHOP0 :perf 
+обрідіти//IQ :perf:rare 
+обрямувати/AB0 :perf:rare 
+обрямовувати/ABGHOP :imperf:rare 
+обстругати/I :perf  
+обшерхнути/A :perf 
+об'якорити/AB0 :perf 
+одпрацювати/AB0 :perf 
+одринути/AC :perf:rare 
+озернити/AB :perf 
+окаменіти/I :rare:perf 
+окозачити/A :perf:rare 
+оконтурувати/AB0 :perf 
+оконторовувати/ABGHOP :imperf 
+опішити/AB0 :perf:coll 
+опішіти/I :perf:rare 
+осамотніти/I :perf 
+осамотіти/I :perf 
+осамітніти/AB0 :perf 
+освідомити/AB0 :perf:rare 
+оскліти/I :perf:rare 
+оджити/I2 :perf 
+одзняти/A2 :perf 
+одіпнути/A :perf 
+одкрити/IJ2 :perf 
+одлегти/I :perf:rare 
+одлигти/I :perf:rare 
+одміряти//IJW :perf 
+одпасти/MN :perf 
+одтанути/AC :perf 
+одточити/A0 :perf 
+остовпеніти/I :perf 
+опити/I :perf :rare 
+оскірити/AB0 :perf:coll 
+осунути/AB0 :perf 
+збабити/ABEF0 :perf 
+знедуховити/AB0 :perf 
+обтиснути/AB :perf 
+осірчити/AB0 :perf  
+очмаріти/I :perf 
+очужіти/I :perf 
+перевідкласти/MN3 :perf 
+переднакреслити/ABEF0 :perf 
 
 //дієприкметники
-обезумілий/V :rare ^adjp:actv:perf |збожеволілий/V ^adjp:actv:perf, знавіснілий/V ^adjp:actv:perf
-обертуваний/V :rare ^adjp:pasv:perf
+обезумілий/V ^adjp:actv:perf:rare |збожеволілий/V ^adjp:actv:perf, знавіснілий/V ^adjp:actv:perf
+обертуваний/V ^adjp:pasv:perf:rare 
 обгумований/V ^adjp:pasv:perf
-обріділий/V :rare |зріділий/V ^adjp:actv:perf, поріділий/V ^adjp:actv:perf
-обрямований/V :rare |облямований/V ^adjp:pasv:perf
+обріділий/V ^adjp:actv:perf:rare |зріділий/V ^adjp:actv:perf, поріділий/V ^adjp:actv:perf
+обрямований/V ^adjp:pasv:perf:rare |облямований/V ^adjp:pasv:perf
 обстружений/V ^adjp:pasv:perf
 обшерхлий/V ^adjp:actv:perf
 об'якорений/V ^adjp:pasv:perf
 одпрацьований/V ^adjp:pasv:perf
-одринутий/V :rare ^adjp:pasv:perf
-озвірений/V :coll ^adjp:pasv:perf
+одринутий/V ^adjp:pasv:perf:rare 
+озвірений/V ^adjp:pasv:perf:coll 
 озернений/V ^adjp:pasv:perf
 окаменілий/V ^adjp:actv:perf
-окозачений/V :rare ^adjp:pasv:perf |покозачений/V ^adjp:pasv:perf
+окозачений/V ^adjp:pasv:perf:rare |покозачений/V ^adjp:pasv:perf
 оконтурований/V ^adjp:pasv:perf
-опішений/V :coll ^adjp:pasv:perf
-опішілий/V :rare ^adjp:actv:perf
+опішений/V ^adjp:pasv:perf:coll 
+опішілий/V ^adjp:actv:perf:rare 
 осамотнений/V ^adjp:pasv:perf
 осамотілий/V ^adjp:actv:perf
 осамітнений/V ^adjp:pasv:perf
 освідомлений/V ^adjp:pasv:perf
 осклілий/V ^adjp:actv:perf
-осклований/V :rare ^adjp:pasv:perf
+осклований/V ^adjp:pasv:perf:rare
 оджилий/V ^adjp:actv:perf
 оджитий/V ^adjp:pasv:perf
 одзнятий/V ^adjp:pasv:perf
 одіпнутий/V ^adjp:pasv:perf
 одкритий/V ^adjp:pasv:perf
 одлеглий/V ^adjp:actv:perf
-одлиглий/V :rare ^adjp:actv:perf
+одлиглий/V ^adjp:actv:perf:rare 
 одміряний/V ^adjp:pasv:perf
 одпалий/V ^adjp:actv:perf
-одталий/V ^adjp:actv:perf
+одталий/V ^adjp:actv:perf:rare
 одточений/V ^adjp:pasv:perf
 остовпенілий/V ^adjp:actv:perf
 опалий/V ^adjp:actv:perf
-опилий/V :rare ^adjp:actv:perf
-оскірений/V :coll ^adjp:pasv:perf
+опилий/V ^adjp:actv:perf:rare 
+оскірений/V ^adjp:pasv:perf:coll 
 осунутий/V ^adjp:pasv:perf
-осірчений/V adjp ^adjp:pasv:perf
-отвердлий/V adjp ^adjp:actv:perf
-очмарілий/V adjp ^adjp:actv:perf
-очужілий/V adjp ^adjp:actv:perf
+осірчений/V ^adjp:pasv:perf
+отвердлий/V ^adjp:actv:perf
+очмарілий/V ^adjp:actv:perf
+очужілий/V ^adjp:actv:perf
 перевідкладений/V ^adjp:pasv:perf
 переднакреслений/V ^adjp:pasv:perf
 
 //погані дієприкметники (twisters)
-обаблений/V :bad |збаблений/V ^adjp:pasv:perf
-обварний/V :bad |обварений/V ^adjp:pasv:perf, запарений/V ^adjp:pasv:perf
-обезземелений/V :bad |збезземелений/V ^adjp:pasv:perf
-обездолений/V :bad |знедолений/V ^adjp:pasv:perf |бездольний/V
-обездуховлений/V :bad |знедуховлений/V ^adjp:pasv:perf, пустодухий/V
+обаблений/V |збаблений/V ^adjp:pasv:perf
+обварний/V |обварений/V ^adjp:pasv:perf, запарений/V ^adjp:pasv:perf
+обезземелений/V |збезземелений/V ^adjp:pasv:perf
+обездолений/V |знедолений/V ^adjp:pasv:perf |бездольний/V
+обездуховлений/V |знедуховлений/V ^adjp:pasv:perf, пустодухий/V
 облягаючий/V |обтислий/V ^adjp:actv:perf
 органозберігаючий/V |органозбережний/V
 
@@ -124,8 +119,9 @@
 обрізочний/V |обрізувальний/V, обрізальний/V
 обручальний/V |заручний/V
 овочівський/V |овочевий
-одкаточний/V |відкотний/V; вивізний/V
+одкаточ ний/V |відкотний/V; вивізний/V
 одноблочний/V |одноблоковий/V
+одножолобчатий/V |одножолобчаcтий/V
 одноковшевий/V |одноківшевий/V
 одноковшовий/V |одноківшевий/V
 одноствольний/V |одноцівковий/V, одностовбурний/V, одностеблий/V
@@ -136,6 +132,7 @@
 острокінчастий/V |гострий/V, гостроносий/V, гострокінцевий/V, кінчастий/V, стрімчастий/V, шпичастий/V; шпилястий/V
 отоплювальний/V |опалювальний/V
 пакляний/V |клоччаний/V
+пальчатий/V |пальчаcтий/V
 перебудовчий/V |перебудовний/V
 перевиборчий/V |перевиборний/V
 передматчовий/V |передматчевий/V
@@ -496,7 +493,6 @@
 одноетнічний/V
 одножанровий/V
 одножолобчастий/V 
-одножолобчатий/V 
 однозахідний/V
 однозв'язний/V
 однозгідний/V
@@ -1447,7 +1443,6 @@
 пальцекрилий/V
 пальцехідний/V
 пальчанський/V
-пальчатий/V
 пальчиковий/V
 пальчинецький/V
 пальчинський/V
