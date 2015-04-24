@@ -1,9 +1,7 @@
 //дієслова
-обезуміти/IQ :perf:rare   
-збожеволіти/IQ :perf  // додати тег Q
-знавісніти/IQ :perf  // додати тег Q
+обезуміти/I :perf:rare   
 обгумувати/ABGHOP0 :perf 
-обрідіти//IQ :perf:rare 
+обрідіти//I :perf:rare 
 обрямувати/AB0 :perf:rare 
 обрямовувати/ABGHOP :imperf:rare 
 обстругати/I :perf  
