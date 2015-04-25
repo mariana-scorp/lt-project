@@ -13,7 +13,7 @@
 окаменіти/I :rare:perf 
 окозачити/A :perf:rare 
 оконтурувати/AB0 :perf 
-оконторовувати/ABGHOP :imperf 
+оконтуровувати/ABGHOP :imperf 
 опішити/AB0 :perf:coll 
 опішіти/I :perf:rare 
 осамотніти/I :perf 
