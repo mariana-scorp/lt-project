@@ -1,8 +1,8 @@
 //дієслова
 обезуміти/I :perf:rare   
-обгумувати/ABGHOP0 :perf 
+обгумувати/A0 :perf
 обрідіти//I :perf:rare 
-обрямувати/AB0 :perf:rare 
+обрямувати/A0 :perf:rare 
 обрямовувати/ABGHOP :imperf:rare 
 обстругати/IW :perf  
 обшерхнути/A :perf
