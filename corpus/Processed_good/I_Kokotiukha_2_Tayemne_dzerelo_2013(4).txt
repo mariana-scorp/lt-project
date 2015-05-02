@@ -11,7 +11,7 @@
 <pages>15-18</pages>
 <length>1131</length>
 <alt_orth>0</alt_orth>
-<errors></errors>
+<errors>військовим - військовиком</errors>
 <comments></comments>
 <body>
 Щойно зайшла в ліс, гумові чоботи стали вологими від збитої вранішньої роси.
