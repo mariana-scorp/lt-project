@@ -11,7 +11,7 @@
 <pages>105-107</pages>
 <length>558</length>
 <alt_orth>0</alt_orth>
-<errors></errors>
+<errors>не прийняв нову владу - не прийняв нової влади</errors>
 <comments></comments>
 <body>
 В такому разі шлях утікача — до першого міліціонера чи першого військового патруля.
