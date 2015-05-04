@@ -1,4 +1,4 @@
-<id>A</id>
+<id>C</id>
 <author_surname>Панова</author_surname>
 <author_name>Катя</author_name>
 <title>Донбас та голуби</title>
