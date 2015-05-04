@@ -1,7 +1,7 @@
 Category	Fraction	# of collected words	# of words to collect
-A       	25%     	32587               	217413
+A       	25%     	28476               	221524
 B       	3%      	1797                	28203
-C       	7%      	3304                	66696
+C       	7%      	7415                	62585
 D       	7%      	14458               	55542
 E       	3%      	5349                	24651
 F       	5%      	3617                	46383
