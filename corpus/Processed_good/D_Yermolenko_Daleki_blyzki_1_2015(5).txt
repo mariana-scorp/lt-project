@@ -8,7 +8,7 @@
 <publ_place>Львів</publ_place>
 <publisher>Видавництво Старого Лева</publisher>
 <year>2015</year> 
-<pages>64-69</pages> 
+<pages>66-69</pages> 
 <length>620</length>
 <alt_orth>1</alt_orth>
 <errors></errors>
