@@ -13,7 +13,7 @@
 <pages>29-32</pages>
 <length>599</length>
 <alt_orth>0</alt_orth>
-<errors></errors>
+<errors> барабанщик - барабанник </errors>
 <comments></comments>
 <body>
 МОВИ СВІТУ
