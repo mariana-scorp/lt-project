@@ -10,7 +10,7 @@
 <publ_place>Київ</publ_place>
 <publisher>Видавничий дім «Освіта»</publisher>
 <year>2012</year>
-<pages>217-221</pages>
+<pages>217-220</pages>
 <length>649</length>
 <alt_orth>0</alt_orth>
 <errors>підтримка державою - державна підтримка; супротив селянства - спротив селянства</errors>
