@@ -9,7 +9,7 @@
 <publisher></publisher>
 <year>2013</year>
 <pages></pages>
-<length>236	</length>
+<length>236</length>
 <alt_orth>0</alt_orth>
 <errors></errors>
 <comments></comments>
