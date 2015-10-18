@@ -1,4 +1,4 @@
-ƒ<id>I</id>
+<id>I</id>
 <author_surname>Корній</author_surname>
 <author_name>Дара</author_name>
 <title>Щоденник мавки</title>
