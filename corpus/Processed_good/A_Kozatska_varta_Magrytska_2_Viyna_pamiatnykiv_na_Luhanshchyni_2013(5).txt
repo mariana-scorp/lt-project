@@ -9,9 +9,9 @@
 <publisher></publisher>
 <year>2013</year>
 <pages>7</pages>
-<length>368</length>
+<length>356</length>
 <alt_orth>0</alt_orth>
-<errors></errors>
+<errors>рухів, й - рухів й; установили - встановили</errors>
 <comments></comments>
 <body>
 Проукраїнська громадськість не сидить склавши руки 

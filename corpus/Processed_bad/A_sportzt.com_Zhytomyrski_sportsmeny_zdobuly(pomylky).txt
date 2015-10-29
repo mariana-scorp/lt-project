@@ -11,7 +11,7 @@
 <pages></pages>
 <length>121</length>
 <alt_orth>0</alt_orth>
-<errors></errors>
+<errors>Заслужений тренер України та інші звання - треба писати з малої літери</errors>
 <comments></comments>
 <body>
 Житомирські спортсмени стали чемпіонами світу з гирьового спорту.
