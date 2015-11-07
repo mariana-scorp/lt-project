@@ -9,7 +9,7 @@
 <publisher>Клуб сімейного дозвілля</publisher>
 <year>2014</year>
 <pages></pages>
-<length>637</length>
+<length>628</length>
 <alt_orth>0</alt_orth>
 <errors></errors>
 <comments></comments>
