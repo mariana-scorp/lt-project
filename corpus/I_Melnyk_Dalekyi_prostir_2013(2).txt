@@ -9,7 +9,7 @@
 <publisher>Клуб Сімейного Дозвілля</publisher>
 <year>2013</year>
 <pages>78-81</pages>
-<length>430</length>
+<length>783</length>
 <alt_orth>0</alt_orth>
 <errors></errors>
 <comments></comments>
