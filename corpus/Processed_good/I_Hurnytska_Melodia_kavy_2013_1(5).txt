@@ -9,7 +9,7 @@
 <publisher>Клуб Сімейного Дозвілля</publisher>
 <year>2013</year>
 <pages>to be added</pages>
-<length>831</length>
+<length>806</length>
 <alt_orth>0</alt_orth>
 <errors></errors>
 <comments></comments>

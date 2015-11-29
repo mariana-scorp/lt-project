@@ -1,0 +1,5259 @@
+Абазівка noun:f:v_naz
+  Абазівки noun:f:v_rod
+Абрамівка noun:f:v_naz
+  Абрамівки noun:f:v_rod
+Абрамок noun:m:v_naz
+  Абрамка noun:m:v_rod
+Абранка noun:f:v_naz
+  Абранки noun:f:v_rod
+Августинівка noun:f:v_naz
+  Августинівки noun:f:v_rod
+Августівка noun:f:v_naz
+  Августівки noun:f:v_rod
+Авдотівка noun:f:v_naz
+  Авдотівки noun:f:v_rod
+Авидівка noun:f:v_naz
+  Авидівки noun:f:v_rod
+Авіловка noun:f:v_naz
+  Авіловки noun:f:v_rod
+Авксенівка noun:f:v_naz
+  Авксенівки noun:f:v_rod
+Авраменкове noun:n:v_naz
+  Авраменкового noun:n:v_rod
+Аврамівка noun:f:v_naz
+  Аврамівки noun:f:v_rod
+Аврамківщина noun:f:v_naz
+  Аврамківщини noun:f:v_rod
+Авратин noun:m:v_naz
+  Авратина noun:m:v_rod
+Автуничі noun:p:v_naz:ns
+  Автуничів noun:p:v_rod:ns
+Агатівка noun:f:v_naz
+  Агатівки noun:f:v_rod
+Агафіївка noun:f:v_naz
+  Агафіївки noun:f:v_rod
+Агеївка noun:f:v_naz
+  Агеївки noun:f:v_rod
+Аграфенівка noun:f:v_naz
+  Аграфенівки noun:f:v_rod
+Агробаза noun:f:v_naz
+  Агробази noun:f:v_rod
+Адалимівка noun:f:v_naz
+  Адалимівки noun:f:v_rod
+Адамівка noun:f:v_naz
+  Адамівки noun:f:v_rod
+Адампіль noun:m:v_naz
+  Адампіля noun:m:v_rod
+Адамчуки noun:p:v_naz:ns
+  Адамчуків noun:p:v_rod:ns
+Аджамка noun:f:v_naz
+  Аджамки noun:f:v_rod
+Адріанопіль noun:m:v_naz
+  Адріанополя noun:m:v_rod
+Азарівка noun:f:v_naz
+  Азарівки noun:f:v_rod
+Айвазовське noun:n:v_naz
+  Айвазовського noun:n:v_rod
+Акмечетські adj:p:v_naz:ns
+  Акмечетських adj:p:v_rod:ns
+Акрешори noun:p:v_naz:ns
+  Акрешорів noun:p:v_rod:ns
+Аксютівка noun:f:v_naz
+  Аксютівки noun:f:v_rod
+Акулинівка noun:f:v_naz
+  Акулинівки noun:f:v_rod
+Алісівка noun:f:v_naz
+  Алісівки noun:f:v_rod
+Алтестове noun:n:v_naz
+  Алтестового noun:n:v_rod
+Алтинівка noun:f:v_naz
+  Алтинівки noun:f:v_rod
+Альошинське noun:n:v_naz
+  Альошинського noun:n:v_rod
+Амбуків noun:m:v_naz
+  Амбукова noun:m:v_rod
+Анадоли noun:p:v_naz:ns
+  Анадолів noun:p:v_rod:ns
+Анадоль noun:m:v_naz
+  Анадоля noun:m:v_rod
+Ананьївка noun:f:v_naz
+  Ананьївки noun:f:v_rod
+Анастасівка noun:f:v_naz
+  Анастасівки noun:f:v_rod
+Анатолівка noun:f:v_naz
+  Анатолівки noun:f:v_rod
+Ангелівка noun:f:v_naz
+  Ангелівки noun:f:v_rod
+Ангелінівка noun:f:v_naz
+  Ангелінівки noun:f:v_rod
+Андреківське noun:n:v_naz
+  Андреківського noun:n:v_rod
+Андренки noun:p:v_naz:ns
+  Андренків noun:p:v_rod:ns
+Андрівка noun:f:v_naz
+  Андрівки noun:f:v_rod
+Андрієвичі noun:p:v_naz:ns
+  Андрієвичів noun:p:v_rod:ns
+Андрієвка noun:f:v_naz
+  Андрієвки noun:f:v_rod
+Андрієво-Зорине noun:n:v_naz
+  Андрієво-Зориного noun:n:v_rod
+Андрієво-Іванівка noun:f:v_naz
+  Андрієво-Іванівки noun:f:v_rod
+Андрієво-Іванове noun:n:v_naz
+  Андрієво-Іванового noun:n:v_rod
+Андрійки noun:p:v_naz:ns
+  Андрійків noun:p:v_rod:ns
+Андрійківці noun:p:v_naz:ns
+  Андрійківців noun:p:v_rod:ns
+Андрійчикове noun:n:v_naz
+  Андрійчикового noun:n:v_rod
+Андріяшівка noun:f:v_naz
+  Андріяшівки noun:f:v_rod
+Андроники noun:p:v_naz:ns
+  Андроників noun:p:v_rod:ns
+Андронівка noun:f:v_naz
+  Андронівки noun:f:v_rod
+Андросове noun:n:v_naz
+  Андросового noun:n:v_rod
+Андруга noun:f:v_naz
+  Андруги noun:f:v_rod
+Андрусівка noun:f:v_naz
+  Андрусівки noun:f:v_rod
+Андрусіїв noun:m:v_naz
+  Андрусієва noun:m:v_rod
+Андрусове noun:n:v_naz
+  Андрусового noun:n:v_rod
+Андрушки noun:p:v_naz:ns
+  Андрушків noun:p:v_rod:ns
+Андрущине noun:n:v_naz
+  Андрущиного noun:n:v_rod
+Анета noun:f:v_naz
+  Анети noun:f:v_rod
+Анетівка noun:f:v_naz
+  Анетівки noun:f:v_rod
+Анисів noun:m:v_naz
+  Анисова noun:m:v_rod
+Анискине noun:n:v_naz
+  Анискиного noun:n:v_rod
+Аношкине noun:n:v_naz
+  Аношкиного noun:n:v_rod
+Анталовці noun:p:v_naz:ns
+  Анталовців noun:p:v_rod:ns
+Антипівка noun:f:v_naz
+  Антипівки noun:f:v_rod
+Антоненкове noun:n:v_naz
+  Антоненкового noun:n:v_rod
+Антоно-Ковач noun:m:v_naz
+  Антоно-Ковача noun:m:v_rod
+Антонопіль noun:m:v_naz
+  Антонополя noun:m:v_rod
+Антонюки noun:p:v_naz:ns
+  Антонюків noun:p:v_rod:ns
+Антопіль noun:m:v_naz
+  Антопіля noun:m:v_rod
+Антракоп noun:m:v_naz
+  Антракопа noun:m:v_rod
+Анциполівка noun:f:v_naz
+  Анциполівки noun:f:v_rod
+Анютине noun:n:v_naz
+  Анютиного noun:n:v_rod
+Аполлонівка noun:f:v_naz
+  Аполлонівки noun:f:v_rod
+Аполянка noun:f:v_naz
+  Аполянки noun:f:v_rod
+Апрелівка noun:f:v_naz
+  Апрелівки noun:f:v_rod
+Апша noun:f:v_naz
+  Апші noun:f:v_rod
+Арапівка noun:f:v_naz
+  Арапівки noun:f:v_rod
+Араповичі noun:p:v_naz:ns
+  Араповичів noun:p:v_rod:ns
+Арбузівка noun:f:v_naz
+  Арбузівки noun:f:v_rod
+Арбузове noun:n:v_naz
+  Арбузового noun:n:v_rod
+Арданове noun:n:v_naz
+  Арданового noun:n:v_rod
+Арепівка noun:f:v_naz
+  Арепівки noun:f:v_rod
+Аристівка noun:f:v_naz
+  Аристівки noun:f:v_rod
+Аркавське noun:n:v_naz
+  Аркавського noun:n:v_rod
+Аркадівка noun:f:v_naz
+  Аркадівки noun:f:v_rod
+Аркадіївка noun:f:v_naz
+  Аркадіївки noun:f:v_rod
+Аркадіївці noun:p:v_naz:ns
+  Аркадіївців noun:p:v_rod:ns
+Аркушине noun:n:v_naz
+  Аркушиного noun:n:v_rod
+Арламівська noun:f:v_naz
+  Арламівськи noun:f:v_rod
+Арсенівка noun:f:v_naz
+  Арсенівки noun:f:v_rod
+Артакове noun:n:v_naz
+  Артакового noun:n:v_rod
+Артасів noun:m:v_naz
+  Артасова noun:m:v_rod
+Артелярщина noun:f:v_naz
+  Артелярщини noun:f:v_rod
+Артеменків noun:m:v_naz
+  Артеменкова noun:m:v_rod
+Артемо-Растівка noun:f:v_naz
+  Артемо-Растівки noun:f:v_rod
+Артинськ noun:m:v_naz
+  Артинська noun:m:v_rod
+Артирівка noun:f:v_naz
+  Артирівки noun:f:v_rod
+Артищів noun:m:v_naz
+  Артищева noun:m:v_rod
+Артополот noun:m:v_naz
+  Артополота noun:m:v_rod
+Артюхівка noun:f:v_naz
+  Артюхівки noun:f:v_rod
+Артюхове noun:n:v_naz
+  Артюхового noun:n:v_rod
+Архангелівка noun:f:v_naz
+  Архангелівки noun:f:v_rod
+Архемівка noun:f:v_naz
+  Архемівки noun:f:v_rod
+Архипівка noun:f:v_naz
+  Архипівки noun:f:v_rod
+Арчепитівка noun:f:v_naz
+  Арчепитівки noun:f:v_rod
+Аршиця noun:f:v_naz
+  Аршиці noun:f:v_rod
+Аршичин noun:m:v_naz
+  Аршичина noun:m:v_rod
+Аршуки noun:p:v_naz:ns
+  Аршуків noun:p:v_rod:ns
+Асіївка noun:f:v_naz
+  Асіївки noun:f:v_rod
+Асланове noun:n:v_naz
+  Асланового noun:n:v_rod
+Астахове noun:n:v_naz
+  Астахового noun:n:v_rod
+Астей noun:m:v_naz
+  Астея noun:m:v_rod
+Астраханка noun:f:v_naz
+  Астраханки noun:f:v_rod
+Атамань noun:f:v_naz
+  Атамані noun:f:v_rod
+Аткильня noun:f:v_naz
+  Аткильні noun:f:v_rod
+Атманай noun:m:v_naz
+  Атманая noun:m:v_rod
+Атюша noun:f:v_naz
+  Атюші noun:f:v_rod
+Аудиторівка noun:f:v_naz
+  Аудиторівки noun:f:v_rod
+Афанасіївка noun:f:v_naz
+  Афанасіївки noun:f:v_rod
+Африканівка noun:f:v_naz
+  Африканівки noun:f:v_rod
+Ашанівка noun:f:v_naz
+  Ашанівки noun:f:v_rod
+Ашуркове noun:n:v_naz
+  Ашуркового noun:n:v_rod
+Бабаївська adj:f:v_naz
+  Бабаївської adj:f:v_rod
+Бабайківка noun:f:v_naz
+  Бабайківки noun:f:v_rod
+Бабайкове noun:n:v_naz
+  Бабайкового noun:n:v_rod
+Бабаківка noun:f:v_naz
+  Бабаківки noun:f:v_rod
+Бабани noun:p:v_naz:ns
+  Бабанів noun:p:v_rod:ns
+Бабанівка noun:f:v_naz
+  Бабанівки noun:f:v_rod
+Бабанське noun:n:v_naz
+  Бабанського noun:n:v_rod
+Бабах-Тарама noun:f:v_naz
+  Бабах-Тарами noun:f:v_rod
+Бабаці noun:p:v_naz:ns
+  Бабаців noun:p:v_rod:ns
+Бабаші noun:p:v_naz:ns
+  Бабашів noun:p:v_rod:ns
+Бабенки noun:p:v_naz:ns
+  Бабенків noun:p:v_rod:ns
+Бабенківка noun:f:v_naz
+  Бабенківки noun:f:v_rod
+Бабенкове noun:n:v_naz
+  Бабенкового noun:n:v_rod
+Бабина noun:f:v_naz
+  Бабиної noun:f:v_rod
+Бабине noun:n:v_naz
+  Бабиного noun:n:v_rod
+Бабиничі noun:p:v_naz:ns
+  Бабиничів noun:p:v_rod:ns
+Бабичеве noun:n:v_naz
+  Бабичевого noun:n:v_rod
+Бабичівка noun:f:v_naz
+  Бабичівки noun:f:v_rod
+Бабишкине noun:n:v_naz
+  Бабишкиного noun:n:v_rod
+Бабодинка noun:f:v_naz
+  Бабодинки noun:f:v_rod
+Баболоки noun:p:v_naz:ns
+  Баболоків noun:p:v_rod:ns
+Бабурка noun:f:v_naz
+  Бабурки noun:f:v_rod
+Бабухів noun:m:v_naz
+  Бабухова noun:m:v_rod
+Бабушки noun:p:v_naz:ns
+  Бабушків noun:p:v_rod:ns
+Бабушкінський adj:m:v_naz
+  Бабушкінського adj:m:v_rod
+  Бабушкінська adj:f:v_naz
+  Бабушкінської adj:f:v_rod
+  Бабушкінське adj:n:v_naz
+  Бабушкінського adj:n:v_rod
+  Бабушкінські adj:p:v_naz
+  Бабушкінських adj:p:v_rod
+Бабче noun:n:v_naz
+  Бабча noun:n:v_rod
+Бабчинці noun:p:v_naz:ns
+  Бабчинців noun:p:v_rod:ns
+Бабшин noun:m:v_naz
+  Бабшина noun:m:v_rod
+Баб'янка noun:f:v_naz
+  Баб'янки noun:f:v_rod
+Баворів noun:m:v_naz
+  Баворова noun:m:v_rod
+Багатівка noun:f:v_naz
+  Багатівки noun:f:v_rod
+Багатківці noun:p:v_naz:ns
+  Багатківців noun:p:v_rod:ns
+Багачеве noun:n:v_naz
+  Багачевого noun:n:v_rod
+Багачівка noun:f:v_naz
+  Багачівки noun:f:v_rod
+Багва noun:f:v_naz
+  Багви noun:f:v_rod
+Баглайки noun:p:v_naz:ns
+  Баглайків noun:p:v_rod:ns
+Баглійський adj:m:v_naz
+  Баглійського adj:m:v_rod
+  Баглійська adj:f:v_naz
+  Баглійської adj:f:v_rod
+  Баглійське adj:n:v_naz
+  Баглійського adj:n:v_rod
+  Баглійські adj:p:v_naz
+  Баглійських adj:p:v_rod
+Багни noun:p:v_naz:ns
+  Багнів noun:p:v_rod:ns
+Багнувате noun:n:v_naz
+  Багнуватого noun:n:v_rod
+Баговиця noun:f:v_naz
+  Баговиці noun:f:v_rod
+Багрин noun:m:v_naz
+  Багрина noun:m:v_rod
+Багринівка noun:f:v_naz
+  Багринівки noun:f:v_rod
+Багринівці noun:p:v_naz:ns
+  Багринівців noun:p:v_rod:ns
+Бадалона noun:f:v_naz
+  Бадалони noun:f:v_rod
+Бадів noun:m:v_naz
+  Бадова noun:m:v_rod
+Бадівка noun:f:v_naz
+  Бадівки noun:f:v_rod
+Бадьорівка noun:f:v_naz
+  Бадьорівки noun:f:v_rod
+Бажани noun:p:v_naz:ns
+  Бажанів noun:p:v_rod:ns
+Бажанівка noun:f:v_naz
+  Бажанівки noun:f:v_rod
+Базавлучок noun:m:v_naz
+  Базавлучка noun:m:v_rod
+Базаліївка noun:f:v_naz
+  Базаліївки noun:f:v_rod
+Базалуки noun:p:v_naz:ns
+  Базалуків noun:p:v_rod:ns
+Базаринці noun:p:v_naz:ns
+  Базаринців noun:p:v_rod:ns
+Базарівка noun:f:v_naz
+  Базарівки noun:f:v_rod
+Базарове noun:n:v_naz
+  Базарового noun:n:v_rod
+Базар'янка noun:f:v_naz
+  Базар'янки noun:f:v_rod
+Базелівщина noun:f:v_naz
+  Базелівщини noun:f:v_rod
+Базилівщина noun:f:v_naz
+  Базилівщини noun:f:v_rod
+Базниківка noun:f:v_naz
+  Базниківки noun:f:v_rod
+Баїв noun:m:v_naz
+  Баєва noun:m:v_rod
+Баївська adj:f:v_naz
+  Баївської adj:f:v_rod
+Баїха noun:f:v_naz
+  Баїхи noun:f:v_rod
+Байбузи noun:p:v_naz:ns
+  Байбузів noun:p:v_rod:ns
+Байбузівка noun:f:v_naz
+  Байбузівки noun:f:v_rod
+Байдівка noun:f:v_naz
+  Байдівки noun:f:v_rod
+Байківка noun:f:v_naz
+  Байківки noun:f:v_rod
+Байківці noun:p:v_naz:ns
+  Байківців noun:p:v_rod:ns
+Баймаки noun:p:v_naz:ns
+  Баймаків noun:p:v_rod:ns
+Байраківка noun:f:v_naz
+  Байраківки noun:f:v_rod
+Бакаєве noun:n:v_naz
+  Бакаєвого noun:n:v_rod
+Бакаївка noun:f:v_naz
+  Бакаївки noun:f:v_rod
+Бакали noun:p:v_naz:ns
+  Бакалів noun:p:v_rod:ns
+Бакалове noun:n:v_naz
+  Бакалового noun:n:v_rod
+Бакирівка noun:f:v_naz
+  Бакирівки noun:f:v_rod
+Баківці noun:p:v_naz:ns
+  Баківців noun:p:v_rod:ns
+Бакланове noun:n:v_naz
+  Бакланового noun:n:v_rod
+Бакорин noun:m:v_naz
+  Бакорина noun:m:v_rod
+Бакоти noun:p:v_naz:ns
+  Бакотів noun:p:v_rod:ns
+Бакош noun:m:v_naz
+  Бакоша noun:m:v_rod
+Бакта noun:f:v_naz
+  Бакти noun:f:v_rod
+Бакумівка noun:f:v_naz
+  Бакумівки noun:f:v_rod
+Бакша noun:f:v_naz
+  Бакші noun:f:v_rod
+Бакшарівка noun:f:v_naz
+  Бакшарівки noun:f:v_rod
+Бакшеївка noun:f:v_naz
+  Бакшеївки noun:f:v_rod
+Балабанівка noun:f:v_naz
+  Балабанівки noun:f:v_rod
+Балажер noun:m:v_naz
+  Балажера noun:m:v_rod
+Балайчук noun:m:v_naz
+  Балайчука noun:m:v_rod
+Балакири noun:p:v_naz:ns
+  Балакирів noun:p:v_rod:ns
+Балакирівка noun:f:v_naz
+  Балакирівки noun:f:v_rod
+Балаклея noun:f:v_naz
+  Балаклеї noun:f:v_rod
+Баламутівка noun:f:v_naz
+  Баламутівки noun:f:v_rod
+Баландине noun:n:v_naz
+  Баландиного noun:n:v_rod
+Баланини noun:p:v_naz:ns
+  Баланинів noun:p:v_rod:ns
+Баланівка noun:f:v_naz
+  Баланівки noun:f:v_rod
+Баланове noun:n:v_naz
+  Баланового noun:n:v_rod
+Балаховичі noun:p:v_naz:ns
+  Балаховичів noun:p:v_rod:ns
+Балашівка noun:f:v_naz
+  Балашівки noun:f:v_rod
+Балашове noun:n:v_naz
+  Балашового noun:n:v_rod
+Балико-Щучинка noun:f:v_naz
+  Балико-Щучинки noun:f:v_rod
+Балин noun:m:v_naz
+  Балина noun:m:v_rod
+Балинці noun:p:v_naz:ns
+  Балинців noun:p:v_rod:ns
+Баличі noun:p:v_naz:ns
+  Баличів noun:p:v_rod:ns
+Балівка noun:f:v_naz
+  Балівки noun:f:v_rod
+Балківка noun:f:v_naz
+  Балківки noun:f:v_rod
+Балківці noun:p:v_naz:ns
+  Балківців noun:p:v_rod:ns
+Баловне noun:n:v_naz
+  Баловного noun:n:v_rod
+Балтазарівка noun:f:v_naz
+  Балтазарівки noun:f:v_rod
+Балучин noun:m:v_naz
+  Балучина noun:m:v_rod
+Бальківці noun:p:v_naz:ns
+  Бальківців noun:p:v_rod:ns
+Балюки noun:p:v_naz:ns
+  Балюків noun:p:v_rod:ns
+Балясне noun:n:v_naz
+  Балясного noun:n:v_rod
+Бандишівка noun:f:v_naz
+  Бандишівки noun:f:v_rod
+Бандурівка noun:f:v_naz
+  Бандурівки noun:f:v_rod
+Бандурове noun:n:v_naz
+  Бандурового noun:n:v_rod
+Банилів noun:m:v_naz
+  Банилова noun:m:v_rod
+Баничі noun:p:v_naz:ns
+  Баничів noun:p:v_rod:ns
+Банівка noun:f:v_naz
+  Банівки noun:f:v_rod
+Баннівка noun:f:v_naz
+  Баннівки noun:f:v_rod
+Банчени noun:p:v_naz:ns
+  Банченів noun:p:v_rod:ns
+Банюнин noun:m:v_naz
+  Банюнина noun:m:v_rod
+Барабанове noun:n:v_naz
+  Барабанового noun:n:v_rod
+Барабашівка noun:f:v_naz
+  Барабашівки noun:f:v_rod
+Бараниківка noun:f:v_naz
+  Бараниківки noun:f:v_rod
+Бараничеве noun:n:v_naz
+  Бараничевого noun:n:v_rod
+Баранне noun:n:v_naz
+  Баранного noun:n:v_rod
+Баранники noun:p:v_naz:ns
+  Баранників noun:p:v_rod:ns
+Баранове noun:n:v_naz
+  Баранового noun:n:v_rod
+Баратівка noun:f:v_naz
+  Баратівки noun:f:v_rod
+Барахти noun:p:v_naz:ns
+  Барахтів noun:p:v_rod:ns
+Бараші noun:p:v_naz:ns
+  Барашів noun:p:v_rod:ns
+Барашівка noun:f:v_naz
+  Барашівки noun:f:v_rod
+Барвинівка noun:f:v_naz
+  Барвинівки noun:f:v_rod
+Барвінщина noun:f:v_naz
+  Барвінщини noun:f:v_rod
+Барикине noun:n:v_naz
+  Барикиного noun:n:v_rod
+Барилівка noun:f:v_naz
+  Барилівки noun:f:v_rod
+Барилівщина noun:f:v_naz
+  Барилівщини noun:f:v_rod
+Барилове noun:n:v_naz
+  Барилового noun:n:v_rod
+Бармаки noun:p:v_naz:ns
+  Бармаків noun:p:v_rod:ns
+Бармашове noun:n:v_naz
+  Бармашового noun:n:v_rod
+Барнадівка noun:f:v_naz
+  Барнадівки noun:f:v_rod
+Бартошівка noun:f:v_naz
+  Бартошівки noun:f:v_rod
+Бартуха noun:f:v_naz
+  Бартухи noun:f:v_rod
+Барчани noun:p:v_naz:ns
+  Барчанів noun:p:v_rod:ns
+Басаличівка noun:f:v_naz
+  Басаличівки noun:f:v_rod
+Басань noun:f:v_naz
+  Басані noun:f:v_rod
+Басівка noun:f:v_naz
+  Басівки noun:f:v_rod
+Басівщина noun:f:v_naz
+  Басівщини noun:f:v_rod
+Бастова noun:f:v_naz
+  Бастової noun:f:v_rod
+Баталий noun:m:v_naz
+  Баталого noun:m:v_rod
+Батрадь noun:f:v_naz
+  Батраді noun:f:v_rod
+Батфа noun:f:v_naz
+  Батфи noun:f:v_rod
+Батьківці noun:p:v_naz:ns
+  Батьківців noun:p:v_rod:ns
+Батятичі noun:p:v_naz:ns
+  Батятичів noun:p:v_rod:ns
+Бахани noun:p:v_naz:ns
+  Баханів noun:p:v_rod:ns
+Бахів noun:m:v_naz
+  Бахова noun:m:v_rod
+Бахматівці noun:p:v_naz:ns
+  Бахматівців noun:p:v_rod:ns
+Бахметівка noun:f:v_naz
+  Бахметівки noun:f:v_rod
+Бахмутівка noun:f:v_naz
+  Бахмутівки noun:f:v_rod
+Бахмутське noun:n:v_naz
+  Бахмутського noun:n:v_rod
+Бахтин noun:m:v_naz
+  Бахтина noun:m:v_rod
+Бахтинок noun:m:v_naz
+  Бахтинка noun:m:v_rod
+Бахчівка noun:f:v_naz
+  Бахчівки noun:f:v_rod
+Бахчовик noun:m:v_naz
+  Бахчовика noun:m:v_rod
+Бацеве noun:n:v_naz
+  Бацевого noun:n:v_rod
+Бацмани noun:p:v_naz:ns
+  Бацманів noun:p:v_rod:ns
+Бачина noun:f:v_naz
+  Бачини noun:f:v_rod
+Бачів noun:m:v_naz
+  Бачева noun:m:v_rod
+Бачівськ noun:m:v_naz
+  Бачівська noun:m:v_rod
+Бачкурине noun:n:v_naz
+  Бачкуриного noun:n:v_rod
+Бачманівка noun:f:v_naz
+  Бачманівки noun:f:v_rod
+Башарівка noun:f:v_naz
+  Башарівки noun:f:v_rod
+Башилівка noun:f:v_naz
+  Башилівки noun:f:v_rod
+Башине noun:n:v_naz
+  Башиного noun:n:v_rod
+Башківці noun:p:v_naz:ns
+  Башківців noun:p:v_rod:ns
+Башмачка noun:f:v_naz
+  Башмачки noun:f:v_rod
+Башова noun:f:v_naz
+  Башової noun:f:v_rod
+Баштанівка noun:f:v_naz
+  Баштанівки noun:f:v_rod
+Баштанків noun:m:v_naz
+  Баштанкова noun:m:v_rod
+Баштевич noun:m:v_naz
+  Баштевича noun:m:v_rod
+Баштечки noun:p:v_naz:ns
+  Баштечків noun:p:v_rod:ns
+Баштине noun:n:v_naz
+  Баштиного noun:n:v_rod
+Башуки noun:p:v_naz:ns
+  Башуків noun:p:v_rod:ns
+Бджільна noun:f:v_naz
+  Бджільної noun:f:v_rod
+Бегета noun:f:v_naz
+  Бегети noun:f:v_rod
+Бедевля noun:f:v_naz
+  Бедевлі noun:f:v_rod
+Бедриківці noun:p:v_naz:ns
+  Бедриківців noun:p:v_rod:ns
+Беєве noun:n:v_naz
+  Беєвого noun:n:v_rod
+Беєве-Комуна noun:f:v_naz
+  Беєве-Комуни noun:f:v_rod
+Бежів noun:m:v_naz
+  Бежева noun:m:v_rod
+Безбородькове noun:n:v_naz
+  Безбородькового noun:n:v_rod
+Безброди noun:p:v_naz:ns
+  Безбродів noun:p:v_rod:ns
+Безводівка noun:f:v_naz
+  Безводівки noun:f:v_rod
+Безводня noun:f:v_naz
+  Безводні noun:f:v_rod
+Безгинове noun:n:v_naz
+  Безгинового noun:n:v_rod
+Бездрик noun:m:v_naz
+  Бездрика noun:m:v_rod
+Беззаботівка noun:f:v_naz
+  Беззаботівки noun:f:v_rod
+Безиків noun:m:v_naz
+  Безикова noun:m:v_rod
+Безім'яне noun:n:v_naz
+  Безім'яного noun:n:v_rod
+Безім'янка noun:f:v_naz
+  Безім'янки noun:f:v_rod
+Безкронівка noun:f:v_naz
+  Безкронівки noun:f:v_rod
+Безмятежне noun:n:v_naz
+  Безмятежного noun:n:v_rod
+Безпалівка noun:f:v_naz
+  Безпалівки noun:f:v_rod
+Безпальцеве noun:n:v_naz
+  Безпальцевого noun:n:v_rod
+Безп'ятне noun:n:v_naz
+  Безп'ятного noun:n:v_rod
+Безрадичі noun:p:v_naz:ns
+  Безрадичів noun:p:v_rod:ns
+Безруки noun:p:v_naz:ns
+  Безруків noun:p:v_rod:ns
+Безруків noun:m:v_naz
+  Безрукова noun:m:v_rod
+Безручки noun:p:v_naz:ns
+  Безручків noun:p:v_rod:ns
+Безсали noun:p:v_naz:ns
+  Безсалів noun:p:v_rod:ns
+Безсалівка noun:f:v_naz
+  Безсалівки noun:f:v_rod
+Безсокирне noun:n:v_naz
+  Безсокирного noun:n:v_rod
+Безуглівка noun:f:v_naz
+  Безуглівки noun:f:v_rod
+Безугляки noun:p:v_naz:ns
+  Безугляків noun:p:v_rod:ns
+Бейзими noun:p:v_naz:ns
+  Бейзимів noun:p:v_rod:ns
+Бейзимівка noun:f:v_naz
+  Бейзимівки noun:f:v_rod
+Бекарівка noun:f:v_naz
+  Бекарівки noun:f:v_rod
+Бекарщина noun:f:v_naz
+  Бекарщини noun:f:v_rod
+Белеїв noun:m:v_naz
+  Белеєва noun:m:v_rod
+Белелуя noun:f:v_naz
+  Белелуї noun:f:v_rod
+Бендзари noun:p:v_naz:ns
+  Бендзарів noun:p:v_rod:ns
+Бендюгівка noun:f:v_naz
+  Бендюгівки noun:f:v_rod
+Бенева noun:f:v_naz
+  Беневої noun:f:v_rod
+Бенедиківці noun:p:v_naz:ns
+  Бенедиківців noun:p:v_rod:ns
+Бенедівка noun:f:v_naz
+  Бенедівки noun:f:v_rod
+Бензики noun:p:v_naz:ns
+  Бензиків noun:p:v_rod:ns
+Бенівка noun:f:v_naz
+  Бенівки noun:f:v_rod
+Беньківці noun:p:v_naz:ns
+  Беньківців noun:p:v_rod:ns
+Бербениці noun:p:v_naz:ns
+  Бербениців noun:p:v_rod:ns
+Бервиця noun:f:v_naz
+  Бервиці noun:f:v_rod
+Бердинове noun:n:v_naz
+  Бердинового noun:n:v_rod
+Бердихів noun:m:v_naz
+  Бердихова noun:m:v_rod
+Бердичі noun:p:v_naz:ns
+  Бердичів noun:p:v_rod:ns
+Бердичів noun:m:v_naz
+  Бердичева noun:m:v_rod
+Бердянка noun:f:v_naz
+  Бердянки noun:f:v_rod
+Берегелі noun:p:v_naz:ns
+  Берегелів noun:p:v_rod:ns
+Берегуйфалу noun:n:v_naz:nv:np
+  Берегуйфалу noun:n:v_rod:nv:np
+Бережанка noun:f:v_naz
+  Бережанки noun:f:v_rod
+Бережесть noun:f:v_naz
+  Бережесті noun:f:v_rod
+Бережинка noun:f:v_naz
+  Бережинки noun:f:v_rod
+Бережинці noun:p:v_naz:ns
+  Бережинців noun:p:v_rod:ns
+Бережівка noun:f:v_naz
+  Бережівки noun:f:v_rod
+Бережниця noun:f:v_naz
+  Бережниці noun:f:v_rod
+Бережнівка noun:f:v_naz
+  Бережнівки noun:f:v_rod
+Бережонка noun:f:v_naz
+  Бережонки noun:f:v_rod
+Бережці noun:p:v_naz:ns
+  Бережців noun:p:v_rod:ns
+Березанщина noun:f:v_naz
+  Березанщини noun:f:v_rod
+Берездів noun:m:v_naz
+  Берездова noun:m:v_rod
+Берездівці noun:p:v_naz:ns
+  Берездівців noun:p:v_rod:ns
+Березець noun:m:v_naz
+  Березця noun:m:v_rod
+Березинка noun:f:v_naz
+  Березинки noun:f:v_rod
+Березичі noun:p:v_naz:ns
+  Березичів noun:p:v_rod:ns
+Березів noun:m:v_naz
+  Березова noun:m:v_rod
+Березники noun:p:v_naz:ns
+  Березників noun:p:v_rod:ns
+Березнуватівка noun:f:v_naz
+  Березнуватівки noun:f:v_rod
+Березнуватка noun:f:v_naz
+  Березнуватки noun:f:v_rod
+Березове noun:n:v_naz
+  Березового noun:n:v_rod
+Березовичі noun:p:v_naz:ns
+  Березовичів noun:p:v_rod:ns
+Березолуки noun:p:v_naz:ns
+  Березолуків noun:p:v_rod:ns
+Березоточа noun:f:v_naz
+  Березоточі noun:f:v_rod
+Березуватка noun:f:v_naz
+  Березуватки noun:f:v_rod
+Березянка noun:f:v_naz
+  Березянки noun:f:v_rod
+Берем'яни noun:p:v_naz:ns
+  Берем'янів noun:p:v_rod:ns
+Береславка noun:f:v_naz
+  Береславки noun:f:v_rod
+Бересняги noun:p:v_naz:ns
+  Береснягів noun:p:v_rod:ns
+Берестівець noun:m:v_naz
+  Берестівця noun:m:v_rod
+Берестівка noun:f:v_naz
+  Берестівки noun:f:v_rod
+Берестовенька noun:f:v_naz
+  Берестовеньки noun:f:v_rod
+Берестовець noun:m:v_naz
+  Берестівця noun:m:v_rod
+Берестяги noun:p:v_naz:ns
+  Берестягів noun:p:v_rod:ns
+Берестяни noun:p:v_naz:ns
+  Берестянів noun:p:v_rod:ns
+Береськ noun:m:v_naz
+  Береська noun:m:v_rod
+Берилівка noun:f:v_naz
+  Берилівки noun:f:v_rod
+Беримівці noun:p:v_naz:ns
+  Беримівців noun:p:v_rod:ns
+Беркозівка noun:f:v_naz
+  Беркозівки noun:f:v_rod
+Берлоги noun:p:v_naz:ns
+  Берлогів noun:p:v_rod:ns
+Берлози noun:p:v_naz:ns
+  Берлозів noun:p:v_rod:ns
+Берлютине noun:n:v_naz
+  Берлютиного noun:n:v_rod
+Бермешів noun:m:v_naz
+  Бермешева noun:m:v_rod
+Бернашівка noun:f:v_naz
+  Бернашівки noun:f:v_rod
+Бернове noun:n:v_naz
+  Бернового noun:n:v_rod
+Бертники noun:p:v_naz:ns
+  Бертників noun:p:v_rod:ns
+Берхівка noun:f:v_naz
+  Берхівки noun:f:v_rod
+Берці noun:p:v_naz:ns
+  Берців noun:p:v_rod:ns
+Бесарабівка noun:f:v_naz
+  Бесарабівки noun:f:v_rod
+Беседівка noun:f:v_naz
+  Беседівки noun:f:v_rod
+Бесідівка noun:f:v_naz
+  Бесідівки noun:f:v_rod
+Бесідівщина noun:f:v_naz
+  Бесідівщини noun:f:v_rod
+Бессараби noun:p:v_naz:ns
+  Бессарабів noun:p:v_rod:ns
+Бессарабка noun:f:v_naz
+  Бессарабки noun:f:v_rod
+Бехи noun:p:v_naz:ns
+  Бехів noun:p:v_rod:ns
+Бехтери noun:p:v_naz:ns
+  Бехтерів noun:p:v_rod:ns
+Бехтерщина noun:f:v_naz
+  Бехтерщини noun:f:v_rod
+Бецилове noun:n:v_naz
+  Бецилового noun:n:v_rod
+Бечеве noun:n:v_naz
+  Бечевого noun:n:v_rod
+Бешківка noun:f:v_naz
+  Бешківки noun:f:v_rod
+Бешти noun:p:v_naz:ns
+  Бештів noun:p:v_rod:ns
+Бзів noun:m:v_naz
+  Бзіва noun:m:v_rod
+Бзовиця noun:f:v_naz
+  Бзовиці noun:f:v_rod
+Библо noun:n:v_naz:nv:np
+  Библо noun:n:v_rod:nv:np
+Бийгань noun:f:v_naz
+  Бийгані noun:f:v_rod
+Бикове noun:n:v_naz
+  Бикового noun:n:v_rod
+Бикоза noun:f:v_naz
+  Бикози noun:f:v_rod
+Биличі noun:p:v_naz:ns
+  Биличів noun:p:v_rod:ns
+Бирзулове noun:n:v_naz
+  Бирзулового noun:n:v_rod
+Бирине noun:n:v_naz
+  Бириного noun:n:v_rod
+Бирлівка noun:f:v_naz
+  Бирлівки noun:f:v_rod
+Бирюки noun:p:v_naz:ns
+  Бирюків noun:p:v_rod:ns
+Бисків noun:m:v_naz
+  Бискова noun:m:v_rod
+Бистрець noun:m:v_naz
+  Бистреця noun:m:v_rod
+Бистрик noun:m:v_naz
+  Бистрика noun:m:v_rod
+Бистричі noun:p:v_naz:ns
+  Бистричів noun:p:v_rod:ns
+Бистріївка noun:f:v_naz
+  Бистріївки noun:f:v_rod
+Бистровиця noun:f:v_naz
+  Бистровиці noun:f:v_rod
+Битакове noun:n:v_naz
+  Битакового noun:n:v_rod
+Битень noun:m:v_naz
+  Битеня noun:m:v_rod
+Битиця noun:f:v_naz
+  Битиці noun:f:v_rod
+Бихальцохівка noun:f:v_naz
+  Бихальцохівки noun:f:v_rod
+Бихів noun:m:v_naz
+  Бихова noun:m:v_rod
+Бичева noun:f:v_naz
+  Бичевої noun:f:v_rod
+Бичківці noun:p:v_naz:ns
+  Бичківців noun:p:v_rod:ns
+Бишів noun:m:v_naz
+  Бишева noun:m:v_rod
+Бишівська adj:f:v_naz
+  Бишівської adj:f:v_rod
+Бишки noun:p:v_naz:ns
+  Бишків noun:p:v_rod:ns
+Бишкин noun:m:v_naz
+  Бишкина noun:m:v_rod
+Бишків noun:m:v_naz
+  Бишкова noun:m:v_rod
+Бишкінь noun:f:v_naz
+  Бишкіні noun:f:v_rod
+Бишляк noun:m:v_naz
+  Бишляка noun:m:v_rod
+Бібщани noun:p:v_naz:ns
+  Бібщанів noun:p:v_rod:ns
+Бігач noun:m:v_naz
+  Бігача noun:m:v_rod
+Бігунь noun:f:v_naz
+  Бігуні noun:f:v_rod
+Бідани noun:p:v_naz:ns
+  Біданів noun:p:v_rod:ns
+Бідило noun:n:v_naz:nv:np
+  Бідило noun:n:v_rod:nv:np
+Бідин noun:m:v_naz
+  Бідина noun:m:v_rod
+Бідряги noun:p:v_naz:ns
+  Бідрягів noun:p:v_rod:ns
+Бієве noun:n:v_naz
+  Бієвого noun:n:v_rod
+Біжівка noun:f:v_naz
+  Біжівки noun:f:v_rod
+Біївське noun:n:v_naz
+  Біївського noun:n:v_rod
+Біївці noun:p:v_naz:ns
+  Біївців noun:p:v_rod:ns
+Бійничі noun:p:v_naz:ns
+  Бійничів noun:p:v_rod:ns
+Біласовиця noun:f:v_naz
+  Біласовиці noun:f:v_rod
+Білашки noun:p:v_naz:ns
+  Білашків noun:p:v_rod:ns
+Білеве noun:n:v_naz
+  Білевого noun:n:v_rod
+Білейки noun:p:v_naz:ns
+  Білейків noun:p:v_rod:ns
+Біленченківка noun:f:v_naz
+  Біленченківки noun:f:v_rod
+Біленщина noun:f:v_naz
+  Біленщини noun:f:v_rod
+Білецьківка noun:f:v_naz
+  Білецьківки noun:f:v_rod
+Білещина noun:f:v_naz
+  Білещини noun:f:v_rod
+Білижинці noun:p:v_naz:ns
+  Білижинців noun:p:v_rod:ns
+Біликівка noun:f:v_naz
+  Біликівки noun:f:v_rod
+Біликівці noun:p:v_naz:ns
+  Біликівців noun:p:v_rod:ns
+Білилівка noun:f:v_naz
+  Білилівки noun:f:v_rod
+Білин noun:m:v_naz
+  Білина noun:m:v_rod
+Білине noun:n:v_naz
+  Білиного noun:n:v_rod
+Білинівка noun:f:v_naz
+  Білинівки noun:f:v_rod
+Білиця noun:f:v_naz
+  Білиці noun:f:v_rod
+Біличеве noun:n:v_naz
+  Біличевого noun:n:v_rod
+Біличин noun:m:v_naz
+  Біличина noun:m:v_rod
+Білівка noun:f:v_naz
+  Білівки noun:f:v_rod
+Білівське noun:n:v_naz
+  Білівського noun:n:v_rod
+Білівці noun:p:v_naz:ns
+  Білівців noun:p:v_rod:ns
+Біліївка noun:f:v_naz
+  Біліївки noun:f:v_rod
+Білківці noun:p:v_naz:ns
+  Білківців noun:p:v_rod:ns
+Білоберіжжя noun:f:v_naz
+  Білоберіжжі noun:f:v_rod
+Білоберізка noun:f:v_naz
+  Білоберізки noun:f:v_rod
+Білобожниця noun:f:v_naz
+  Білобожниці noun:f:v_rod
+Біловарці noun:p:v_naz:ns
+  Біловарців noun:p:v_rod:ns
+Біловеж noun:m:v_naz
+  Біловежа noun:m:v_rod
+Біловежі noun:p:v_naz:ns
+  Біловежів noun:p:v_rod:ns
+Біловишневе noun:n:v_naz
+  Біловишневого noun:n:v_rod
+Біловіж noun:m:v_naz
+  Біловежа noun:m:v_rod
+Біловод noun:m:v_naz
+  Біловода noun:m:v_rod
+Біловоди noun:p:v_naz:ns
+  Біловодів noun:p:v_rod:ns
+Білогалиця noun:f:v_naz
+  Білогалиці noun:f:v_rod
+Білогірка noun:f:v_naz
+  Білогірки noun:f:v_rod
+Білоглинка noun:f:v_naz
+  Білоглинки noun:f:v_rod
+Білогорілка noun:f:v_naz
+  Білогорілки noun:f:v_rod
+Білогрудове noun:n:v_naz
+  Білогрудового noun:n:v_rod
+Білогуби noun:p:v_naz:ns
+  Білогуб noun:p:v_rod:ns
+Білозерівка noun:f:v_naz
+  Білозерівки noun:f:v_rod
+Білозерне noun:n:v_naz
+  Білозерного noun:n:v_rod
+Білозір'я noun:n:v_naz
+  Білозір'я noun:n:v_rod
+Білозорина noun:f:v_naz
+  Білозорини noun:f:v_rod
+Білокамінка noun:f:v_naz
+  Білокамінки noun:f:v_rod
+Білоки noun:p:v_naz:ns
+  Білоків noun:p:v_rod:ns
+Білокопитове noun:n:v_naz
+  Білокопитового noun:n:v_rod
+Білокриниця noun:f:v_naz
+  Білокриниці noun:f:v_rod
+Білокриниччя noun:n:v_naz
+  Білокриниччя noun:n:v_rod
+Білокузьминівка noun:f:v_naz
+  Білокузьминівки noun:f:v_rod
+Білолісся noun:n:v_naz
+  Білолісся noun:n:v_rod
+Білопіль noun:m:v_naz
+  Білополя noun:m:v_rod
+Білоріцьке noun:n:v_naz
+  Білоріцького noun:n:v_rod
+Білорічанське noun:n:v_naz
+  Білорічанського noun:n:v_rod
+Білорічиця noun:f:v_naz
+  Білорічиці noun:f:v_rod
+Білосарайська adj:f:v_naz
+  Білосарайської adj:f:v_rod
+Білоскелювате noun:n:v_naz
+  Білоскелюватого noun:n:v_rod
+Білоскірка noun:f:v_naz
+  Білоскірки noun:f:v_rod
+Білотин noun:m:v_naz
+  Білотина noun:m:v_rod
+Білоусівка noun:f:v_naz
+  Білоусівки noun:f:v_rod
+Білоусове noun:n:v_naz
+  Білоусового noun:n:v_rod
+Білоцерківка noun:f:v_naz
+  Білоцерківки noun:f:v_rod
+Білоярівка noun:f:v_naz
+  Білоярівки noun:f:v_rod
+Білоярське noun:n:v_naz
+  Білоярського noun:n:v_rod
+Білухівка noun:f:v_naz
+  Білухівки noun:f:v_rod
+Більківці noun:p:v_naz:ns
+  Більківців noun:p:v_rod:ns
+Більманка noun:f:v_naz
+  Більманки noun:f:v_rod
+Більмачівка noun:f:v_naz
+  Більмачівки noun:f:v_rod
+Більськ noun:m:v_naz
+  Більська noun:m:v_rod
+Більчаки noun:p:v_naz:ns
+  Більчаків noun:p:v_rod:ns
+Більче noun:n:v_naz
+  Більча noun:n:v_rod
+Більчин noun:m:v_naz
+  Більчина noun:m:v_rod
+Більчинка noun:f:v_naz
+  Більчинки noun:f:v_rod
+Більшівцівська adj:f:v_naz
+  Більшівцівської adj:f:v_rod
+Білявинці noun:p:v_naz:ns
+  Білявинців noun:p:v_rod:ns
+Біляєве noun:n:v_naz
+  Біляєвого noun:n:v_rod
+Біляни noun:p:v_naz:ns
+  Білянів noun:p:v_rod:ns
+Біляри noun:p:v_naz:ns
+  Білярів noun:p:v_rod:ns
+Білятичі noun:p:v_naz:ns
+  Білятичів noun:p:v_rod:ns
+Біньова noun:f:v_naz
+  Біньової noun:f:v_rod
+Бірківка noun:f:v_naz
+  Бірківки noun:f:v_rod
+Бірківське noun:n:v_naz
+  Бірківського noun:n:v_rod
+Бірносове noun:n:v_naz
+  Бірносового noun:n:v_rod
+Бірочок noun:m:v_naz
+  Бірочка noun:m:v_rod
+Бірче noun:n:v_naz
+  Бірча noun:n:v_rod
+Бірчиці noun:p:v_naz:ns
+  Бірчиців noun:p:v_rod:ns
+Бірюки noun:p:v_naz:ns
+  Бірюків noun:p:v_rod:ns
+Бісків noun:m:v_naz
+  Біскова noun:m:v_rod
+Бісковицька noun:f:v_naz
+  Бісковицької noun:f:v_rod
+Бісковичі noun:p:v_naz:ns
+  Бісковичів noun:p:v_rod:ns
+Бітля noun:f:v_naz
+  Бітлі noun:f:v_rod
+Біще noun:n:v_naz
+  Біща noun:n:v_rod
+Благівка noun:f:v_naz
+  Благівки noun:f:v_rod
+Благовіщенка noun:f:v_naz
+  Благовіщенки noun:f:v_rod
+Благодатівка noun:f:v_naz
+  Благодатівки noun:f:v_rod
+Благоєве noun:n:v_naz
+  Благоєвого noun:n:v_rod
+Блаженик noun:m:v_naz
+  Блаженика noun:m:v_rod
+Блажів noun:m:v_naz
+  Блажіву noun:m:v_rod
+Блажіївка noun:f:v_naz
+  Блажіївки noun:f:v_rod
+Блажове noun:n:v_naz
+  Блажового noun:n:v_rod
+Блидні noun:p:v_naz:ns
+  Блиднів noun:p:v_rod:ns
+Блиставиця noun:f:v_naz
+  Блиставиці noun:f:v_rod
+Блистова noun:f:v_naz
+  Блистової noun:f:v_rod
+Блищадь noun:f:v_naz
+  Блищаді noun:f:v_rod
+Блищанівка noun:f:v_naz
+  Блищанівки noun:f:v_rod
+Блищанка noun:f:v_naz
+  Блищанки noun:f:v_rod
+Блищиводи noun:p:v_naz:ns
+  Блищиводів noun:p:v_rod:ns
+Блідча noun:f:v_naz
+  Блідчі noun:f:v_rod
+Блощинці noun:p:v_naz:ns
+  Блощинців noun:p:v_rod:ns
+Блудше noun:n:v_naz
+  Блудша noun:n:v_rod
+Блюдники noun:p:v_naz:ns
+  Блюдників noun:p:v_rod:ns
+Боберка noun:f:v_naz
+  Боберки noun:f:v_rod
+Бобилівка noun:f:v_naz
+  Бобилівки noun:f:v_rod
+Бобине noun:n:v_naz
+  Бобиного noun:n:v_rod
+Бобичі noun:p:v_naz:ns
+  Бобичів noun:p:v_rod:ns
+Бобівці noun:p:v_naz:ns
+  Бобівців noun:p:v_rod:ns
+Бобли noun:p:v_naz:ns
+  Боблів noun:p:v_rod:ns
+Боблів noun:m:v_naz
+  Боблева noun:m:v_rod
+Бобовище noun:n:v_naz
+  Бобовища noun:n:v_rod
+Бобриківка noun:f:v_naz
+  Бобриківки noun:f:v_rod
+Бобринка noun:f:v_naz
+  Бобринки noun:f:v_rod
+Бобриця noun:f:v_naz
+  Бобриці noun:f:v_rod
+Бобричі noun:p:v_naz:ns
+  Бобричів noun:p:v_rod:ns
+Бобрівка noun:f:v_naz
+  Бобрівки noun:f:v_rod
+Бобрівник noun:m:v_naz
+  Бобрівника noun:m:v_rod
+Бобрівники noun:p:v_naz:ns
+  Бобрівників noun:p:v_rod:ns
+Боброїди noun:p:v_naz:ns
+  Боброїдів noun:p:v_rod:ns
+Бобруйки noun:p:v_naz:ns
+  Бобруйків noun:p:v_rod:ns
+Бобулинці noun:p:v_naz:ns
+  Бобулинців noun:p:v_rod:ns
+Боб'ятин noun:m:v_naz
+  Боб'ятина noun:m:v_rod
+Бовбасівка noun:f:v_naz
+  Бовбасівки noun:f:v_rod
+Бовище noun:n:v_naz
+  Бовища noun:n:v_rod
+Бовсуни noun:p:v_naz:ns
+  Бовсунів noun:p:v_rod:ns
+Бовтишка noun:f:v_naz
+  Бовтишки noun:f:v_rod
+Бовшів noun:m:v_naz
+  Бовшіву noun:m:v_rod
+Богаревиця noun:f:v_naz
+  Богаревиці noun:f:v_rod
+Богатирівка noun:f:v_naz
+  Богатирівки noun:f:v_rod
+Богатирка noun:f:v_naz
+  Богатирки noun:f:v_rod
+Богачівка noun:f:v_naz
+  Богачівки noun:f:v_rod
+Богдалівка noun:f:v_naz
+  Богдалівки noun:f:v_rod
+Богдани noun:p:v_naz:ns
+  Богданів noun:p:v_rod:ns
+Богданка noun:f:v_naz
+  Богданки noun:f:v_rod
+Богдано-Вербки noun:p:v_naz:ns
+  Богдано-Вербків noun:p:v_rod:ns
+Богдано-Надеждівка noun:f:v_naz
+  Богдано-Надеждівки noun:f:v_rod
+Богдашів noun:m:v_naz
+  Богдашіву noun:m:v_rod
+Богемка noun:f:v_naz
+  Богемки noun:f:v_rod
+Богнатове noun:n:v_naz
+  Богнатового noun:n:v_rod
+Богодарівка noun:f:v_naz
+  Богодарівки noun:f:v_rod
+Богодарове noun:n:v_naz
+  Богодарового noun:n:v_rod
+Богодухівка noun:f:v_naz
+  Богодухівки noun:f:v_rod
+Боголюби noun:p:v_naz:ns
+  Боголюбів noun:p:v_rod:ns
+Боголюбівка noun:f:v_naz
+  Боголюбівки noun:f:v_rod
+Богомолівка noun:f:v_naz
+  Богомолівки noun:f:v_rod
+Богородичин noun:m:v_naz
+  Богородичина noun:m:v_rod
+Богословка noun:f:v_naz
+  Богословки noun:f:v_rod
+Богоявленка noun:f:v_naz
+  Богоявленки noun:f:v_rod
+Богрівка noun:f:v_naz
+  Богрівки noun:f:v_rod
+Богунівка noun:f:v_naz
+  Богунівки noun:f:v_rod
+Богунове noun:n:v_naz
+  Богунового noun:n:v_rod
+Богуславець noun:m:v_naz
+  Богуславця noun:m:v_rod
+Богутин noun:m:v_naz
+  Богутина noun:m:v_rod
+Богушівка noun:f:v_naz
+  Богушівки noun:f:v_rod
+Богушівська noun:f:v_naz
+  Богушівськи noun:f:v_rod
+Бодаква noun:f:v_naz
+  Бодакви noun:f:v_rod
+Бодаки noun:p:v_naz:ns
+  Бодаків noun:p:v_rod:ns
+Боднарів noun:m:v_naz
+  Боднарового noun:m:v_rod
+  Боднарова noun:f:v_naz
+  Боднарової noun:f:v_rod
+  Боднарове noun:n:v_naz
+  Боднарового noun:n:v_rod
+  Боднарові noun:p:v_naz
+  Боднарових noun:p:v_rod
+Боднарівка noun:f:v_naz
+  Боднарівки noun:f:v_rod
+Бодячів noun:m:v_naz
+  Бодячева noun:m:v_rod
+Боєвичі noun:p:v_naz:ns
+  Боєвичів noun:p:v_rod:ns
+Божедарівка noun:f:v_naz
+  Божедарівки noun:f:v_rod
+Божиків noun:m:v_naz
+  Божикова noun:m:v_rod
+Божиківці noun:p:v_naz:ns
+  Божиківців noun:p:v_rod:ns
+Божкове noun:n:v_naz
+  Божкового noun:n:v_rod
+Бойківка noun:f:v_naz
+  Бойківки noun:f:v_rod
+Бойкове noun:n:v_naz
+  Бойкового noun:n:v_rod
+Бокиївка noun:f:v_naz
+  Бокиївки noun:f:v_rod
+Бокійма noun:f:v_naz
+  Бокійми noun:f:v_rod
+Бокшин noun:m:v_naz
+  Бокшина noun:m:v_rod
+Болган noun:m:v_naz
+  Болгана noun:m:v_rod
+Болдирівка noun:f:v_naz
+  Болдирівки noun:f:v_rod
+Болеславчик noun:m:v_naz
+  Болеславчика noun:m:v_rod
+Болехівці noun:p:v_naz:ns
+  Болехівців noun:p:v_rod:ns
+Болибоки noun:p:v_naz:ns
+  Болибоків noun:p:v_rod:ns
+Бологівка noun:f:v_naz
+  Бологівки noun:f:v_rod
+Боложинів noun:m:v_naz
+  Боложинова noun:m:v_rod
+Боложівка noun:f:v_naz
+  Боложівки noun:f:v_rod
+Болозів noun:m:v_naz
+  Болозева noun:m:v_rod
+Болоня noun:f:v_naz
+  Болоні noun:f:v_rod
+Болотене noun:n:v_naz
+  Болотеного noun:n:v_rod
+Болотівка noun:f:v_naz
+  Болотівки noun:f:v_rod
+Болотківці noun:p:v_naz:ns
+  Болотківців noun:p:v_rod:ns
+Болотниця noun:f:v_naz
+  Болотниці noun:f:v_rod
+Болохів noun:m:v_naz
+  Болохова noun:m:v_rod
+Болтишка noun:f:v_naz
+  Болтишки noun:f:v_rod
+Болязуби noun:p:v_naz:ns
+  Болязубів noun:p:v_rod:ns
+Боляновичі noun:p:v_naz:ns
+  Боляновичів noun:p:v_rod:ns
+Болярка noun:f:v_naz
+  Болярки noun:f:v_rod
+Болячів noun:m:v_naz
+  Болячіву noun:m:v_rod
+Бомкове noun:n:v_naz
+  Бомкового noun:n:v_rod
+Бондареве noun:n:v_naz
+  Бондаревого noun:n:v_rod
+Бондаренкове noun:n:v_naz
+  Бондаренкового noun:n:v_rod
+Бондарівка noun:f:v_naz
+  Бондарівки noun:f:v_rod
+Бондарівщина noun:f:v_naz
+  Бондарівщини noun:f:v_rod
+Бондури noun:p:v_naz:ns
+  Бондурів noun:p:v_rod:ns
+Бондурі noun:p:v_naz:ns
+  Бондурів noun:p:v_rod:ns
+Бондурівка noun:f:v_naz
+  Бондурівки noun:f:v_rod
+Бондусі noun:p:v_naz:ns
+  Бондусів noun:p:v_rod:ns
+Боневичі noun:p:v_naz:ns
+  Боневичів noun:p:v_rod:ns
+Бонишин noun:m:v_naz
+  Бонишина noun:m:v_rod
+Бонівка noun:f:v_naz
+  Бонівки noun:f:v_rod
+Боратин noun:m:v_naz
+  Боратина noun:m:v_rod
+Боратичі noun:p:v_naz:ns
+  Боратичів noun:p:v_rod:ns
+Борбин noun:m:v_naz
+  Борбина noun:m:v_rod
+Борбухи noun:p:v_naz:ns
+  Борбухів noun:p:v_rod:ns
+Бордуляки noun:p:v_naz:ns
+  Бордуляків noun:p:v_rod:ns
+Боремель noun:m:v_naz
+  Боремля noun:m:v_rod
+Боремець noun:m:v_naz
+  Боремця noun:m:v_rod
+Боремщина noun:f:v_naz
+  Боремщини noun:f:v_rod
+Боржава noun:f:v_naz
+  Боржави noun:f:v_rod
+Боржавське noun:n:v_naz
+  Боржавського noun:n:v_rod
+Боржиківка noun:f:v_naz
+  Боржиківки noun:f:v_rod
+Борзенців noun:m:v_naz
+  Борзенцева noun:m:v_rod
+Борзівщина noun:f:v_naz
+  Борзівщини noun:f:v_rod
+Бориничі noun:p:v_naz:ns
+  Бориничів noun:p:v_rod:ns
+Бориси noun:p:v_naz:ns
+  Борисів noun:p:v_rod:ns
+Борисівка noun:f:v_naz
+  Борисівки noun:f:v_rod
+Борисковичі noun:p:v_naz:ns
+  Борисковичів noun:p:v_rod:ns
+Боричівка noun:f:v_naz
+  Боричівки noun:f:v_rod
+Боришківці noun:p:v_naz:ns
+  Боришківців noun:p:v_rod:ns
+Борівка noun:f:v_naz
+  Борівки noun:f:v_rod
+Борівці noun:p:v_naz:ns
+  Борівців noun:p:v_rod:ns
+Боровенька noun:f:v_naz
+  Боровеньки noun:f:v_rod
+Боровеньки noun:p:v_naz:ns
+  Боровеньків noun:p:v_rod:ns
+Боровикове noun:n:v_naz
+  Боровикового noun:n:v_rod
+Боровичі noun:p:v_naz:ns
+  Боровичів noun:p:v_rod:ns
+Боровківка noun:f:v_naz
+  Боровківки noun:f:v_rod
+Боровне noun:n:v_naz
+  Боровного noun:n:v_rod
+Боровуха noun:f:v_naz
+  Боровухи noun:f:v_rod
+Бородаївка noun:f:v_naz
+  Бородаївки noun:f:v_rod
+Бороданове noun:n:v_naz
+  Бороданового noun:n:v_rod
+Бородчиці noun:p:v_naz:ns
+  Бородчиців noun:p:v_rod:ns
+Борозенське noun:n:v_naz
+  Борозенського noun:n:v_rod
+Борок noun:m:v_naz
+  Борка noun:m:v_rod
+Боромики noun:p:v_naz:ns
+  Боромиків noun:p:v_rod:ns
+Боромля noun:f:v_naz
+  Боромлі noun:f:v_rod
+Борохи noun:p:v_naz:ns
+  Борохів noun:p:v_rod:ns
+Борохів noun:m:v_naz
+  Борохова noun:m:v_rod
+Борочиче noun:n:v_naz
+  Борочича noun:n:v_rod
+Борсків noun:m:v_naz
+  Борскова noun:m:v_rod
+Бортків noun:m:v_naz
+  Борткова noun:m:v_rod
+Бортниця noun:f:v_naz
+  Бортниці noun:f:v_rod
+Бортнів noun:m:v_naz
+  Бортнева noun:m:v_rod
+Бортятин noun:m:v_naz
+  Бортятина noun:m:v_rod
+Бортяхівка noun:f:v_naz
+  Бортяхівки noun:f:v_rod
+Борусів noun:m:v_naz
+  Борусова noun:m:v_rod
+Борутине noun:n:v_naz
+  Борутиного noun:n:v_rod
+Борушківці noun:p:v_naz:ns
+  Борушківців noun:p:v_rod:ns
+Боршевичі noun:p:v_naz:ns
+  Боршевичів noun:p:v_rod:ns
+Боршна noun:f:v_naz
+  Боршни noun:f:v_rod
+Борщівка noun:f:v_naz
+  Борщівки noun:f:v_rod
+Борщівці noun:p:v_naz:ns
+  Борщівців noun:p:v_rod:ns
+Борщовичі noun:p:v_naz:ns
+  Борщовичів noun:p:v_rod:ns
+Борятин noun:m:v_naz
+  Борятина noun:m:v_rod
+Босири noun:p:v_naz:ns
+  Босирів noun:p:v_rod:ns
+Босівка noun:f:v_naz
+  Босівки noun:f:v_rod
+Ботвинівка noun:f:v_naz
+  Ботвинівки noun:f:v_rod
+Ботин noun:m:v_naz
+  Ботина noun:m:v_rod
+Ботієве noun:n:v_naz
+  Ботієвого noun:n:v_rod
+Боханів noun:m:v_naz
+  Боханова noun:m:v_rod
+Бохни noun:p:v_naz:ns
+  Бохнів noun:p:v_rod:ns
+Бохоники noun:p:v_naz:ns
+  Бохоників noun:p:v_rod:ns
+Боцянівка noun:f:v_naz
+  Боцянівки noun:f:v_rod
+Бочаниця noun:f:v_naz
+  Бочаниці noun:f:v_rod
+Бочанівка noun:f:v_naz
+  Бочанівки noun:f:v_rod
+Бочківці noun:p:v_naz:ns
+  Бочківців noun:p:v_rod:ns
+Бочманівка noun:f:v_naz
+  Бочманівки noun:f:v_rod
+Бошівка noun:f:v_naz
+  Бошівки noun:f:v_rod
+Боянець noun:m:v_naz
+  Боянця noun:m:v_rod
+Бояни noun:p:v_naz:ns
+  Боянів noun:p:v_rod:ns
+Бояничі noun:p:v_naz:ns
+  Бояничів noun:p:v_rod:ns
+Боянівка noun:f:v_naz
+  Боянівки noun:f:v_rod
+Боянчук noun:m:v_naz
+  Боянчука noun:m:v_rod
+Боярівка noun:f:v_naz
+  Боярівки noun:f:v_rod
+Бояро-Лежачі noun:p:v_naz:ns
+  Бояро-Лежачих noun:p:v_rod:ns
+Брагинці noun:p:v_naz:ns
+  Брагинців noun:p:v_rod:ns
+Браженець noun:m:v_naz
+  Браженця noun:m:v_rod
+Бражинці noun:p:v_naz:ns
+  Бражинців noun:p:v_rod:ns
+Бражківка noun:f:v_naz
+  Бражківки noun:f:v_rod
+Бразолове noun:n:v_naz
+  Бразолового noun:n:v_rod
+Браїлівка noun:f:v_naz
+  Браїлівки noun:f:v_rod
+Браїлки noun:p:v_naz:ns
+  Браїлків noun:p:v_rod:ns
+Бране noun:n:v_naz
+  Браного noun:n:v_rod
+Брани noun:p:v_naz:ns
+  Бранів noun:p:v_rod:ns
+Браниця noun:f:v_naz
+  Браниці noun:f:v_rod
+Бранів noun:m:v_naz
+  Бранова noun:m:v_rod
+Бранкованове noun:n:v_naz
+  Бранкованового noun:n:v_rod
+Бранцівка noun:f:v_naz
+  Бранцівки noun:f:v_rod
+Браталів noun:m:v_naz
+  Браталова noun:m:v_rod
+Братанівка noun:f:v_naz
+  Братанівки noun:f:v_rod
+Братениця noun:f:v_naz
+  Братениці noun:f:v_rod
+Братешки noun:p:v_naz:ns
+  Братешків noun:p:v_rod:ns
+Братишів noun:m:v_naz
+  Братишева noun:m:v_rod
+Братківці noun:p:v_naz:ns
+  Братківців noun:p:v_rod:ns
+Братковичі noun:p:v_naz:ns
+  Братковичів noun:p:v_rod:ns
+Братове noun:n:v_naz
+  Братового noun:n:v_rod
+Братолюбівка noun:f:v_naz
+  Братолюбівки noun:f:v_rod
+Братсько-Семенівка noun:f:v_naz
+  Братсько-Семенівки noun:f:v_rod
+Брахівка noun:f:v_naz
+  Брахівки noun:f:v_rod
+Брачківка noun:f:v_naz
+  Брачківки noun:f:v_rod
+Бребоя noun:f:v_naz
+  Бребої noun:f:v_rod
+Бредихине noun:n:v_naz
+  Бредихиного noun:n:v_rod
+Брестів noun:m:v_naz
+  Брестова noun:m:v_rod
+Бреусівка noun:f:v_naz
+  Бреусівки noun:f:v_rod
+Бреч noun:m:v_naz
+  Бреча noun:m:v_rod
+Бригадирівка noun:f:v_naz
+  Бригадирівки noun:f:v_rod
+Бригидівка noun:f:v_naz
+  Бригидівки noun:f:v_rod
+Бридуни noun:p:v_naz:ns
+  Бридунів noun:p:v_rod:ns
+Бриків noun:m:v_naz
+  Брикова noun:m:v_rod
+Брикуля noun:f:v_naz
+  Брикулі noun:f:v_rod
+Брикун noun:m:v_naz
+  Брикуна noun:m:v_rod
+Бринівка noun:f:v_naz
+  Бринівки noun:f:v_rod
+Бритавка noun:f:v_naz
+  Бритавки noun:f:v_rod
+Бритай noun:m:v_naz
+  Бритая noun:m:v_rod
+Бритівка noun:f:v_naz
+  Бритівки noun:f:v_rod
+Бричківка noun:f:v_naz
+  Бричківки noun:f:v_rod
+Брище noun:n:v_naz
+  Брища noun:n:v_rod
+Брищі noun:p:v_naz:ns
+  Брищів noun:p:v_rod:ns
+Брідки noun:p:v_naz:ns
+  Брідків noun:p:v_rod:ns
+Брідок noun:m:v_naz
+  Брідка noun:m:v_rod
+Броварки noun:p:v_naz:ns
+  Броварків noun:p:v_rod:ns
+Бровахи noun:p:v_naz:ns
+  Бровахів noun:p:v_rod:ns
+Бровки noun:p:v_naz:ns
+  Бровків noun:p:v_rod:ns
+Бровкове noun:n:v_naz
+  Бровкового noun:n:v_rod
+Бродець noun:m:v_naz
+  Бродця noun:m:v_rod
+Бродки noun:p:v_naz:ns
+  Бродків noun:p:v_rod:ns
+Бродник noun:m:v_naz
+  Бродника noun:m:v_rod
+Бродниця noun:f:v_naz
+  Бродниці noun:f:v_rod
+Бродок noun:m:v_naz
+  Бродка noun:m:v_rod
+Бродщина noun:f:v_naz
+  Бродщини noun:f:v_rod
+Бродятине noun:n:v_naz
+  Бродятиного noun:n:v_rod
+Брожки noun:p:v_naz:ns
+  Брожків noun:p:v_rod:ns
+Бронгалівка noun:f:v_naz
+  Бронгалівки noun:f:v_rod
+Броники noun:p:v_naz:ns
+  Броників noun:p:v_rod:ns
+Брониця noun:f:v_naz
+  Брониці noun:f:v_rod
+Бронівка noun:f:v_naz
+  Бронівки noun:f:v_rod
+Бронне noun:n:v_naz
+  Бронного noun:n:v_rod
+Бронники noun:p:v_naz:ns
+  Бронників noun:p:v_rod:ns
+Бронниця noun:f:v_naz
+  Бронниці noun:f:v_rod
+Бронька noun:f:v_naz
+  Броньки noun:f:v_rod
+Броска noun:f:v_naz
+  Броски noun:f:v_rod
+Бросківці noun:p:v_naz:ns
+  Бросківців noun:p:v_rod:ns
+Брохвичі noun:p:v_naz:ns
+  Брохвичів noun:p:v_rod:ns
+Брошнів noun:m:v_naz
+  Брошнева noun:m:v_rod
+Брунетівка noun:f:v_naz
+  Брунетівки noun:f:v_rod
+Брунівка noun:f:v_naz
+  Брунівки noun:f:v_rod
+Брусенки noun:p:v_naz:ns
+  Брусенків noun:p:v_rod:ns
+Брусівка noun:f:v_naz
+  Брусівки noun:f:v_rod
+Бруслинів noun:m:v_naz
+  Бруслинова noun:m:v_rod
+Бруслинівка noun:f:v_naz
+  Бруслинівки noun:f:v_rod
+Брустурів noun:m:v_naz
+  Брустурова noun:m:v_rod
+Бруховичі noun:p:v_naz:ns
+  Бруховичів noun:p:v_rod:ns
+Брюшків noun:m:v_naz
+  Брюшкова noun:m:v_rod
+Бубереве noun:n:v_naz
+  Буберевого noun:n:v_rod
+Бубнище noun:n:v_naz
+  Бубнища noun:n:v_rod
+Бубнівка noun:f:v_naz
+  Бубнівки noun:f:v_rod
+Бубнівщина noun:f:v_naz
+  Бубнівщини noun:f:v_rod
+Бувалине noun:n:v_naz
+  Бувалиного noun:n:v_rod
+Бугаків noun:m:v_naz
+  Бугакова noun:m:v_rod
+Бугас noun:m:v_naz
+  Бугаса noun:m:v_rod
+Буглаї noun:p:v_naz:ns
+  Буглаїв noun:p:v_rod:ns
+Буглаки noun:p:v_naz:ns
+  Буглаків noun:p:v_rod:ns
+Буглів noun:m:v_naz
+  Буглева noun:m:v_rod
+Бугове noun:n:v_naz
+  Бугового noun:n:v_rod
+Бугорок noun:m:v_naz
+  Бугорка noun:m:v_rod
+Бугрин noun:m:v_naz
+  Бугрина noun:m:v_rod
+Бугринівка noun:f:v_naz
+  Бугринівки noun:f:v_rod
+Бугруватка noun:f:v_naz
+  Бугруватки noun:f:v_rod
+Будаївці noun:p:v_naz:ns
+  Будаївців noun:p:v_rod:ns
+Будаківка noun:f:v_naz
+  Будаківки noun:f:v_rod
+Бударки noun:p:v_naz:ns
+  Бударків noun:p:v_rod:ns
+Будеї noun:p:v_naz:ns
+  Будеїв noun:p:v_rod:ns
+Буденець noun:m:v_naz
+  Буденця noun:m:v_rod
+Будераж noun:m:v_naz
+  Будеража noun:m:v_rod
+Будзин noun:m:v_naz
+  Будзина noun:m:v_rod
+Будиголош noun:m:v_naz
+  Будиголоша noun:m:v_rod
+Будилів noun:m:v_naz
+  Будилова noun:m:v_rod
+Будилівка noun:f:v_naz
+  Будилівки noun:f:v_rod
+Будилка noun:f:v_naz
+  Будилки noun:f:v_rod
+Будимля noun:f:v_naz
+  Будимлі noun:f:v_rod
+Будисько noun:n:v_naz
+  Будиська noun:n:v_rod
+Будичани noun:p:v_naz:ns
+  Будичанів noun:p:v_rod:ns
+Будків noun:m:v_naz
+  Будкова noun:m:v_rod
+Будо-Бобриця noun:f:v_naz
+  Будо-Бобриці noun:f:v_rod
+Будо-Вороб'ї noun:p:v_naz:ns
+  Будо-Вороб'їв noun:p:v_rod:ns
+Будо-Літки noun:p:v_naz:ns
+  Будо-Літок noun:p:v_rod:ns
+Будолюбівка noun:f:v_naz
+  Будолюбівки noun:f:v_rod
+Будо-Орловецька noun:f:v_naz
+  Будо-Орловецької noun:f:v_rod
+Будятичі noun:p:v_naz:ns
+  Будятичів noun:p:v_rod:ns
+Бужани noun:p:v_naz:ns
+  Бужанів noun:p:v_rod:ns
+Бужанка noun:f:v_naz
+  Бужанки noun:f:v_rod
+Бужковичі noun:p:v_naz:ns
+  Бужковичів noun:p:v_rod:ns
+Бужок noun:m:v_naz
+  Бужка noun:m:v_rod
+Бузаки noun:p:v_naz:ns
+  Бузаків noun:p:v_rod:ns
+Бузинівка noun:f:v_naz
+  Бузинівки noun:f:v_rod
+Бузинівщина noun:f:v_naz
+  Бузинівщини noun:f:v_rod
+Бузівка noun:f:v_naz
+  Бузівки noun:f:v_rod
+Бузникувате noun:n:v_naz
+  Бузникуватого noun:n:v_rod
+Бузоварове noun:n:v_naz
+  Бузоварового noun:n:v_rod
+Бузовиця noun:f:v_naz
+  Бузовиці noun:f:v_rod
+Бузуків noun:m:v_naz
+  Бузукова noun:m:v_rod
+Бузулуки noun:p:v_naz:ns
+  Бузулуків noun:p:v_rod:ns
+Буйвалове noun:n:v_naz
+  Буйвалового noun:n:v_rod
+Буйволівці noun:p:v_naz:ns
+  Буйволівців noun:p:v_rod:ns
+Буймер noun:m:v_naz
+  Буймера noun:m:v_rod
+Буймерівка noun:f:v_naz
+  Буймерівки noun:f:v_rod
+Буймир noun:m:v_naz
+  Буймира noun:m:v_rod
+Букатинка noun:f:v_naz
+  Букатинки noun:f:v_rod
+Букварка noun:f:v_naz
+  Букварки noun:f:v_rod
+Букине noun:n:v_naz
+  Букиного noun:n:v_rod
+Буківка noun:f:v_naz
+  Буківки noun:f:v_rod
+Буківна noun:f:v_naz
+  Буківни noun:f:v_rod
+Буковець noun:m:v_naz
+  Буковця noun:m:v_rod
+Букрин noun:m:v_naz
+  Букрина noun:m:v_rod
+Булавине noun:n:v_naz
+  Булавиного noun:n:v_rod
+Булавинівка noun:f:v_naz
+  Булавинівки noun:f:v_rod
+Булавівщина noun:f:v_naz
+  Булавівщини noun:f:v_rod
+Булаї noun:p:v_naz:ns
+  Булаїв noun:p:v_rod:ns
+Буланове noun:n:v_naz
+  Буланового noun:n:v_rod
+Булатець noun:m:v_naz
+  Булатця noun:m:v_rod
+Булатівка noun:f:v_naz
+  Булатівки noun:f:v_rod
+Булахи noun:p:v_naz:ns
+  Булахів noun:p:v_rod:ns
+Булахів noun:m:v_naz
+  Булахова noun:m:v_rod
+Булахівка noun:f:v_naz
+  Булахівки noun:f:v_rod
+Булацелівка noun:f:v_naz
+  Булацелівки noun:f:v_rod
+Булацелове noun:n:v_naz
+  Булацелового noun:n:v_rod
+Булгаківка noun:f:v_naz
+  Булгаківки noun:f:v_rod
+Булдинка noun:f:v_naz
+  Булдинки noun:f:v_rod
+Булдичів noun:m:v_naz
+  Булдичева noun:m:v_rod
+Булуки noun:p:v_naz:ns
+  Булуків noun:p:v_rod:ns
+Бунакове noun:n:v_naz
+  Бунакового noun:n:v_rod
+Бунів noun:m:v_naz
+  Бунова noun:m:v_rod
+Бунчуківка noun:f:v_naz
+  Бунчуківки noun:f:v_rod
+Буньковичі noun:p:v_naz:ns
+  Буньковичів noun:p:v_rod:ns
+Бунякине noun:n:v_naz
+  Бунякиного noun:n:v_rod
+Буняківка noun:f:v_naz
+  Буняківки noun:f:v_rod
+Бурбине noun:n:v_naz
+  Бурбиного noun:n:v_rod
+Бурбулатове noun:n:v_naz
+  Бурбулатового noun:n:v_rod
+Бургунка noun:f:v_naz
+  Бургунки noun:f:v_rod
+Бурдей noun:m:v_naz
+  Бурдея noun:m:v_rod
+Бурдівка noun:f:v_naz
+  Бурдівки noun:f:v_rod
+Бурдяківці noun:p:v_naz:ns
+  Бурдяківців noun:p:v_rod:ns
+Бурики noun:p:v_naz:ns
+  Буриків noun:p:v_rod:ns
+Бурилове noun:n:v_naz
+  Бурилового noun:n:v_rod
+Бурівка noun:f:v_naz
+  Бурівки noun:f:v_rod
+Бурімка noun:f:v_naz
+  Бурімки noun:f:v_rod
+Бурканів noun:m:v_naz
+  Бурканова noun:m:v_rod
+Буркачі noun:p:v_naz:ns
+  Буркачів noun:p:v_rod:ns
+Бурківка noun:f:v_naz
+  Бурківки noun:f:v_rod
+Бурківці noun:p:v_naz:ns
+  Бурківців noun:p:v_rod:ns
+Бурлача adj:f:v_naz
+  Бурлачої adj:f:v_rod
+Буро-Рубанівка noun:f:v_naz
+  Буро-Рубанівки noun:f:v_rod
+Буртин noun:m:v_naz
+  Буртина noun:m:v_rod
+Бурханівка noun:f:v_naz
+  Бурханівки noun:f:v_rod
+Буряківщина noun:f:v_naz
+  Буряківщини noun:f:v_rod
+Бурячиха noun:f:v_naz
+  Бурячихи noun:f:v_rod
+Бусовисько noun:n:v_naz
+  Бусовиська noun:n:v_rod
+Бутейки noun:p:v_naz:ns
+  Бутейків noun:p:v_rod:ns
+Бутенки noun:p:v_naz:ns
+  Бутенків noun:p:v_rod:ns
+Бутенкове noun:n:v_naz
+  Бутенкового noun:n:v_rod
+Бутівка noun:f:v_naz
+  Бутівки noun:f:v_rod
+Бутівське noun:n:v_naz
+  Бутівського noun:n:v_rod
+Бутівці noun:p:v_naz:ns
+  Бутівців noun:p:v_rod:ns
+Бутківка noun:f:v_naz
+  Бутківки noun:f:v_rod
+Бутовичеське noun:n:v_naz
+  Бутовичеського noun:n:v_rod
+Бутовичівка noun:f:v_naz
+  Бутовичівки noun:f:v_rod
+Бутовщина noun:f:v_naz
+  Бутовщини noun:f:v_rod
+Бутори noun:p:v_naz:ns
+  Буторів noun:p:v_rod:ns
+Бутоярівка noun:f:v_naz
+  Бутоярівки noun:f:v_rod
+Бухалівка noun:f:v_naz
+  Бухалівки noun:f:v_rod
+Бухалівщина noun:f:v_naz
+  Бухалівщини noun:f:v_rod
+Бухалове noun:n:v_naz
+  Бухалового noun:n:v_rod
+Бухарів noun:m:v_naz
+  Бухарова noun:m:v_rod
+Буховецьке noun:n:v_naz
+  Буховецького noun:n:v_rod
+Буховичі noun:p:v_naz:ns
+  Буховичів noun:p:v_rod:ns
+Бухуни noun:p:v_naz:ns
+  Бухунів noun:p:v_rod:ns
+Буцики noun:p:v_naz:ns
+  Буциків noun:p:v_rod:ns
+Буцикове noun:n:v_naz
+  Буцикового noun:n:v_rod
+Буцин noun:m:v_naz
+  Буцина noun:m:v_rod
+Буцинівка noun:f:v_naz
+  Буцинівки noun:f:v_rod
+Буців noun:m:v_naz
+  Буцева noun:m:v_rod
+Буцівське noun:n:v_naz
+  Буцівського noun:n:v_rod
+Буцневе noun:n:v_naz
+  Буцневого noun:n:v_rod
+Буцні noun:p:v_naz:ns
+  Буцнів noun:p:v_rod:ns
+Буцнів noun:m:v_naz
+  Буцнева noun:m:v_rod
+Буцьківка noun:f:v_naz
+  Буцьківки noun:f:v_rod
+Бучали noun:p:v_naz:ns
+  Бучалів noun:p:v_rod:ns
+Бучачки noun:p:v_naz:ns
+  Бучачків noun:p:v_rod:ns
+Бучая noun:f:v_naz
+  Бучаї noun:f:v_rod
+Бучин noun:m:v_naz
+  Бучина noun:m:v_rod
+Бушеве noun:n:v_naz
+  Бушевого noun:n:v_rod
+Бушинка noun:f:v_naz
+  Бушинки noun:f:v_rod
+Бушкалик noun:m:v_naz
+  Бушкалика noun:m:v_rod
+Буща noun:f:v_naz
+  Бущі noun:f:v_rod
+Буянки noun:p:v_naz:ns
+  Буянків noun:p:v_rod:ns
+Вабля noun:f:v_naz
+  Ваблі noun:f:v_rod
+Ваганичі noun:p:v_naz:ns
+  Ваганичів noun:p:v_rod:ns
+Вадбольське noun:n:v_naz
+  Вадбольського noun:n:v_rod
+Вазлуївка noun:f:v_naz
+  Вазлуївки noun:f:v_rod
+Вакалівщина noun:f:v_naz
+  Вакалівщини noun:f:v_rod
+Вакарське noun:n:v_naz
+  Вакарського noun:n:v_rod
+Вакулиха noun:f:v_naz
+  Вакулихи noun:f:v_rod
+Вакулівка noun:f:v_naz
+  Вакулівки noun:f:v_rod
+Вакулки noun:p:v_naz:ns
+  Вакулків noun:p:v_rod:ns
+Валентинівка noun:f:v_naz
+  Валентинівки noun:f:v_rod
+Валер'янівка noun:f:v_naz
+  Валер'янівки noun:f:v_rod
+Валівське noun:n:v_naz
+  Валівського noun:n:v_rod
+Валіївка noun:f:v_naz
+  Валіївки noun:f:v_rod
+Валуйки noun:p:v_naz:ns
+  Валуйків noun:p:v_rod:ns
+Валуйське noun:n:v_naz
+  Валуйського noun:n:v_rod
+Валява noun:f:v_naz
+  Валяви noun:f:v_rod
+Валянівськ noun:m:v_naz
+  Валянівська noun:m:v_rod
+Ванжина noun:f:v_naz
+  Ванжини noun:f:v_rod
+Ванжулів noun:m:v_naz
+  Ванжулова noun:m:v_rod
+Ванів noun:m:v_naz
+  Ванева noun:m:v_rod
+Ванчиківці noun:p:v_naz:ns
+  Ванчиківців noun:p:v_rod:ns
+Ванчинець noun:m:v_naz
+  Ванчинця noun:m:v_rod
+Ваньковичі noun:p:v_naz:ns
+  Ваньковичів noun:p:v_rod:ns
+Ваньовичі noun:p:v_naz:ns
+  Ваньовичів noun:p:v_rod:ns
+Ванюшкине noun:n:v_naz
+  Ванюшкиного noun:n:v_rod
+Варачине noun:n:v_naz
+  Варачиного noun:n:v_rod
+Варваринці noun:p:v_naz:ns
+  Варваринців noun:p:v_rod:ns
+Варварівська adj:f:v_naz
+  Варварівської adj:f:v_rod
+Варвянське noun:n:v_naz
+  Варвянського noun:n:v_rod
+Вариводки noun:p:v_naz:ns
+  Вариводків noun:p:v_rod:ns
+Варівськ noun:m:v_naz
+  Варівська noun:m:v_rod
+Варівці noun:p:v_naz:ns
+  Варівців noun:p:v_rod:ns
+Варковичі noun:p:v_naz:ns
+  Варковичів noun:p:v_rod:ns
+Варламівка noun:f:v_naz
+  Варламівки noun:f:v_rod
+Варовичі noun:p:v_naz:ns
+  Варовичів noun:p:v_rod:ns
+Вартиківці noun:p:v_naz:ns
+  Вартиківців noun:p:v_rod:ns
+Варюшине noun:n:v_naz
+  Варюшиного noun:n:v_rod
+Варяж noun:m:v_naz
+  Варяжа noun:m:v_rod
+Василенки noun:p:v_naz:ns
+  Василенків noun:p:v_rod:ns
+Василенкове noun:n:v_naz
+  Василенкового noun:n:v_rod
+Василе-Устимівка noun:f:v_naz
+  Василе-Устимівки noun:f:v_rod
+Василиха noun:f:v_naz
+  Василихи noun:f:v_rod
+Василівщина noun:f:v_naz
+  Василівщини noun:f:v_rod
+Васильківщина noun:f:v_naz
+  Васильківщини noun:f:v_rod
+Васильцівка noun:f:v_naz
+  Васильцівки noun:f:v_rod
+Василяки noun:p:v_naz:ns
+  Василяків noun:p:v_rod:ns
+Васине noun:n:v_naz
+  Васиного noun:n:v_rod
+Васинівка noun:f:v_naz
+  Васинівки noun:f:v_rod
+Васловівці noun:p:v_naz:ns
+  Васловівців noun:p:v_rod:ns
+Васьки noun:p:v_naz:ns
+  Васьків noun:p:v_rod:ns
+Васьківка noun:f:v_naz
+  Васьківки noun:f:v_rod
+Васьківці noun:p:v_naz:ns
+  Васьківців noun:p:v_rod:ns
+Васьківчики noun:p:v_naz:ns
+  Васьківчиків noun:p:v_rod:ns
+Васьковичі noun:p:v_naz:ns
+  Васьковичів noun:p:v_rod:ns
+Васюків noun:m:v_naz
+  Васюкова noun:m:v_rod
+Васюківка noun:f:v_naz
+  Васюківки noun:f:v_rod
+Васюківщина noun:f:v_naz
+  Васюківщини noun:f:v_rod
+Васюкове noun:n:v_naz
+  Васюкового noun:n:v_rod
+Васютинці noun:p:v_naz:ns
+  Васютинців noun:p:v_rod:ns
+Васючин noun:m:v_naz
+  Васючина noun:m:v_rod
+Ватажкове noun:n:v_naz
+  Ватажкового noun:n:v_rod
+Ватинець noun:m:v_naz
+  Ватинця noun:m:v_rod
+Ватутіне noun:n:v_naz
+  Ватутіного noun:n:v_rod
+Вахівка noun:f:v_naz
+  Вахівки noun:f:v_rod
+Вахнівка noun:f:v_naz
+  Вахнівки noun:f:v_rod
+Вахнівці noun:p:v_naz:ns
+  Вахнівців noun:p:v_rod:ns
+Вахули noun:p:v_naz:ns
+  Вахулів noun:p:v_rod:ns
+Вахутинці noun:p:v_naz:ns
+  Вахутинців noun:p:v_rod:ns
+Ваці noun:p:v_naz:ns
+  Ваців noun:p:v_rod:ns
+Вачів noun:m:v_naz
+  Вачева noun:m:v_rod
+Вдовичине noun:n:v_naz
+  Вдовичиного noun:n:v_rod
+Вегерівка noun:f:v_naz
+  Вегерівки noun:f:v_rod
+Веденське noun:n:v_naz
+  Веденського noun:n:v_rod
+Ведильці noun:p:v_naz:ns
+  Ведильців noun:p:v_rod:ns
+Ведмедівка noun:f:v_naz
+  Ведмедівки noun:f:v_rod
+Ведмежка noun:f:v_naz
+  Ведмежки noun:f:v_rod
+Вежиця noun:f:v_naz
+  Вежиці noun:f:v_rod
+Везденьки noun:p:v_naz:ns
+  Везденьків noun:p:v_rod:ns
+Велесниця noun:f:v_naz
+  Велесниці noun:f:v_rod
+Велеснів noun:m:v_naz
+  Велеснева noun:m:v_rod
+Велетнівка noun:f:v_naz
+  Велетнівки noun:f:v_rod
+Великобоярка noun:f:v_naz
+  Великобоярки noun:f:v_rod
+Великобраталівське noun:n:v_naz
+  Великобраталівського noun:n:v_rod
+Великоведмеже noun:n:v_naz
+  Великоведмежа noun:n:v_rod
+Великовеселе noun:n:v_naz
+  Великовеселя noun:n:v_rod
+Великодрюкове noun:n:v_naz
+  Великодрюкового noun:n:v_rod
+Великодубове noun:n:v_naz
+  Великодубового noun:n:v_rod
+Великозалісся noun:n:v_naz
+  Великозалісся noun:n:v_rod
+Великозименове noun:n:v_naz
+  Великозименового noun:n:v_rod
+Великокозирщина noun:f:v_naz
+  Великокозирщини noun:f:v_rod
+Великокомарівка noun:f:v_naz
+  Великокомарівки noun:f:v_rod
+Великомар'янівка noun:f:v_naz
+  Великомар'янівки noun:f:v_rod
+Великомихайлівка noun:f:v_naz
+  Великомихайлівки noun:f:v_rod
+Великоолександрівка noun:f:v_naz
+  Великоолександрівки noun:f:v_rod
+Великопілля noun:n:v_naz
+  Великопілля noun:n:v_rod
+Великоплоске noun:n:v_naz
+  Великоплоского noun:n:v_rod
+Великополе noun:n:v_naz
+  Великополя noun:n:v_rod
+Великополовецьке noun:n:v_naz
+  Великополовецького noun:n:v_rod
+Великоприцьківська adj:f:v_naz
+  Великоприцьківської adj:f:v_rod
+Великорибальське noun:n:v_naz
+  Великорибальського noun:n:v_rod
+Великоселецьке noun:n:v_naz
+  Великоселецького noun:n:v_rod
+Великосербулівка noun:f:v_naz
+  Великосербулівки noun:f:v_rod
+Великосілля noun:n:v_naz
+  Великосілля noun:n:v_rod
+Великофедорівка noun:f:v_naz
+  Великофедорівки noun:f:v_rod
+Великоцьк noun:m:v_naz
+  Великоцька noun:m:v_rod
+Велимче noun:n:v_naz
+  Велимча noun:n:v_rod
+Велин noun:m:v_naz
+  Велина noun:m:v_rod
+Велихів noun:m:v_naz
+  Велихова noun:m:v_rod
+Велицьк noun:m:v_naz
+  Велицька noun:m:v_rod
+Велички noun:p:v_naz:ns
+  Величків noun:p:v_rod:ns
+Величківка noun:f:v_naz
+  Величківки noun:f:v_rod
+Величкове noun:n:v_naz
+  Величкового noun:n:v_rod
+Велідарівка noun:f:v_naz
+  Велідарівки noun:f:v_rod
+Велідники noun:p:v_naz:ns
+  Велідників noun:p:v_rod:ns
+Велізарове noun:n:v_naz
+  Велізарового noun:n:v_rod
+Вельбівка noun:f:v_naz
+  Вельбівки noun:f:v_rod
+Велюнь noun:m:v_naz
+  Велюня noun:m:v_rod
+Велятин noun:m:v_naz
+  Велятина noun:m:v_rod
+Венеславівка noun:f:v_naz
+  Венеславівки noun:f:v_rod
+Венслави noun:p:v_naz:ns
+  Венславів noun:p:v_rod:ns
+Веприн noun:m:v_naz
+  Веприна noun:m:v_rod
+Вербаїв noun:m:v_naz
+  Вербаєва noun:m:v_rod
+Вербилівці noun:p:v_naz:ns
+  Вербилівців noun:p:v_rod:ns
+Вербине noun:n:v_naz
+  Вербиного noun:n:v_rod
+Вербичне noun:n:v_naz
+  Вербичного noun:n:v_rod
+Вербів noun:m:v_naz
+  Вербова noun:m:v_rod
+Вербівочка noun:f:v_naz
+  Вербівочки noun:f:v_rod
+Вербівське noun:n:v_naz
+  Вербівського noun:n:v_rod
+Вербівчик noun:m:v_naz
+  Вербівчика noun:m:v_rod
+Вербіж noun:m:v_naz
+  Вербожа noun:m:v_rod
+Вербляни noun:p:v_naz:ns
+  Верблян noun:p:v_rod:ns
+Вербовець noun:m:v_naz
+  Вербовця noun:m:v_rod
+Вербородинці noun:p:v_naz:ns
+  Вербородинців noun:p:v_rod:ns
+Вербське noun:n:v_naz
+  Вербського noun:n:v_rod
+Вербувата noun:f:v_naz
+  Вербуватої noun:f:v_rod
+Вербуватівка noun:f:v_naz
+  Вербуватівки noun:f:v_rod
+Вербче noun:n:v_naz
+  Вербча noun:n:v_rod
+Верб'яж noun:m:v_naz
+  Верб'яжа noun:m:v_rod
+Верб'ятин noun:m:v_naz
+  Верб'ятина noun:m:v_rod
+Вергулівське noun:n:v_naz
+  Вергулівського noun:n:v_rod
+Вереміївка noun:f:v_naz
+  Вереміївки noun:f:v_rod
+Верем'я noun:n:v_naz
+  Верем'я noun:n:v_rod
+Верени noun:p:v_naz:ns
+  Веренів noun:p:v_rod:ns
+Веренчанка noun:f:v_naz
+  Веренчанки noun:f:v_rod
+Вересаєве noun:n:v_naz
+  Вересаєвого noun:n:v_rod
+Вереси noun:p:v_naz:ns
+  Вересів noun:p:v_rod:ns
+Вересівка noun:f:v_naz
+  Вересівки noun:f:v_rod
+Вересна noun:f:v_naz
+  Вересни noun:f:v_rod
+Вересоч noun:m:v_naz
+  Вересоча noun:m:v_rod
+Верешки noun:p:v_naz:ns
+  Верешків noun:p:v_rod:ns
+Верещиця noun:f:v_naz
+  Верещиці noun:f:v_rod
+Верин noun:m:v_naz
+  Верина noun:m:v_rod
+Верини noun:p:v_naz:ns
+  Веринів noun:p:v_rod:ns
+Верлок noun:m:v_naz
+  Верлока noun:m:v_rod
+Вернигородок noun:m:v_naz
+  Вернигородка noun:m:v_rod
+Вернянка noun:f:v_naz
+  Вернянки noun:f:v_rod
+Верпа noun:f:v_naz
+  Верпи noun:f:v_rod
+Вертелка noun:f:v_naz
+  Вертелки noun:f:v_rod
+Вертіївка noun:f:v_naz
+  Вертіївки noun:f:v_rod
+Вертокиївка noun:f:v_naz
+  Вертокиївки noun:f:v_rod
+Верхівськ noun:m:v_naz
+  Верхівська noun:m:v_rod
+Верхівське noun:n:v_naz
+  Верхівського noun:n:v_rod
+Верхнів noun:m:v_naz
+  Верхнева noun:m:v_rod
+Верхньобогданівка noun:f:v_naz
+  Верхньобогданівки noun:f:v_rod
+Верхньоводяне noun:n:v_naz
+  Верхньоводяного noun:n:v_rod
+Верхньогарасимівка noun:f:v_naz
+  Верхньогарасимівки noun:f:v_rod
+Верхньодеревечка noun:f:v_naz
+  Верхньодеревечки noun:f:v_rod
+Верхньодрагунське noun:n:v_naz
+  Верхньодрагунського noun:n:v_rod
+Верхньозаморське noun:n:v_naz
+  Верхньозаморського noun:n:v_rod
+Верхньозорянське noun:n:v_naz
+  Верхньозорянського noun:n:v_rod
+Верхньоінгульське noun:n:v_naz
+  Верхньоінгульського noun:n:v_rod
+Верхньокам'яниста noun:f:v_naz
+  Верхньокам'янистої noun:f:v_rod
+Верхньокам'янка noun:f:v_naz
+  Верхньокам'янки noun:f:v_rod
+Верхньокам'янське noun:n:v_naz
+  Верхньокам'янського noun:n:v_rod
+Верхньокурганне noun:n:v_naz
+  Верхньокурганного noun:n:v_rod
+Верхньосадове noun:n:v_naz
+  Верхньосадового noun:n:v_rod
+Верхньотузлове noun:n:v_naz
+  Верхньотузлового noun:n:v_rod
+Верхньошевирівка noun:f:v_naz
+  Верхньошевирівки noun:f:v_rod
+Верхняківці noun:p:v_naz:ns
+  Верхняківців noun:p:v_rod:ns
+Верхобуж noun:m:v_naz
+  Верхобужа noun:m:v_rod
+Верхолісся noun:n:v_naz
+  Верхолісся noun:n:v_rod
+Верхосулка noun:f:v_naz
+  Верхосулки noun:f:v_rod
+Верхоярівка noun:f:v_naz
+  Верхоярівки noun:f:v_rod
+Верхутка noun:f:v_naz
+  Верхутки noun:f:v_rod
+Верчани noun:p:v_naz:ns
+  Верчанів noun:p:v_rod:ns
+Вершаці noun:p:v_naz:ns
+  Вершаців noun:p:v_rod:ns
+Вершинівка noun:f:v_naz
+  Вершинівки noun:f:v_rod
+Вершинова noun:f:v_naz
+  Вершинової noun:f:v_rod
+Вершино-Кам'янка noun:f:v_naz
+  Вершино-Кам'янки noun:f:v_rod
+Веряця noun:f:v_naz
+  Веряці noun:f:v_rod
+Веселець noun:m:v_naz
+  Весельця noun:m:v_rod
+Веселинівка noun:f:v_naz
+  Веселинівки noun:f:v_rod
+Веселівка noun:f:v_naz
+  Веселівки noun:f:v_rod
+Веселогорівка noun:f:v_naz
+  Веселогорівки noun:f:v_rod
+Веселоіванівське noun:n:v_naz
+  Веселоіванівського noun:n:v_rod
+Веселотернувате noun:n:v_naz
+  Веселотернуватого noun:n:v_rod
+Веселянка noun:f:v_naz
+  Веселянки noun:f:v_rod
+Весногірське noun:n:v_naz
+  Весногірського noun:n:v_rod
+Вестерничани noun:p:v_naz:ns
+  Вестерничан noun:p:v_rod:ns
+Ветли noun:p:v_naz:ns
+  Ветлів noun:p:v_rod:ns
+Ветхалівка noun:f:v_naz
+  Ветхалівки noun:f:v_rod
+Вечірчине noun:n:v_naz
+  Вечірчиного noun:n:v_rod
+Виблі noun:p:v_naz:ns
+  Виблів noun:p:v_rod:ns
+Вибранівка noun:f:v_naz
+  Вибранівки noun:f:v_rod
+Вибудів noun:m:v_naz
+  Вибудова noun:m:v_rod
+Виводове noun:n:v_naz
+  Виводового noun:n:v_rod
+Вигів noun:m:v_naz
+  Вигова noun:m:v_rod
+Вигівка noun:f:v_naz
+  Вигівки noun:f:v_rod
+Вигодівка noun:f:v_naz
+  Вигодівки noun:f:v_rod
+Вигон noun:m:v_naz
+  Вигна noun:m:v_rod
+Виграїв noun:m:v_naz
+  Виграєва noun:m:v_rod
+Вигуричі noun:p:v_naz:ns
+  Вигуричів noun:p:v_rod:ns
+Видава noun:f:v_naz
+  Видави noun:f:v_rod
+Видвиженець noun:m:v_naz
+  Видвиженця noun:m:v_rod
+Видибор noun:m:v_naz
+  Видибора noun:m:v_rod
+Видинів noun:m:v_naz
+  Видинова noun:m:v_rod
+Виднівка noun:f:v_naz
+  Виднівки noun:f:v_rod
+Видошня noun:f:v_naz
+  Видошні noun:f:v_rod
+Видраниця noun:f:v_naz
+  Видраниці noun:f:v_rod
+Видричі noun:p:v_naz:ns
+  Видричів noun:p:v_rod:ns
+Видричка noun:f:v_naz
+  Видрички noun:f:v_rod
+Видумка noun:f:v_naz
+  Видумки noun:f:v_rod
+Вижгів noun:m:v_naz
+  Вижгова noun:m:v_rod
+Виженка noun:f:v_naz
+  Виженки noun:f:v_rod
+Вижине noun:n:v_naz
+  Вижиного noun:n:v_rod
+Вижняни noun:p:v_naz:ns
+  Вижнян noun:p:v_rod:ns
+Визирівка noun:f:v_naz
+  Визирівки noun:f:v_rod
+Визирка noun:f:v_naz
+  Визирки noun:f:v_rod
+Визниця noun:f:v_naz
+  Визниці noun:f:v_rod
+Вилецьке noun:n:v_naz
+  Вилецького noun:n:v_rod
+Вилівка noun:f:v_naz
+  Вилівки noun:f:v_rod
+Вильчики noun:p:v_naz:ns
+  Вильчиків noun:p:v_rod:ns
+Вимислівка noun:f:v_naz
+  Вимислівки noun:f:v_rod
+Вимушів noun:m:v_naz
+  Вимушева noun:m:v_rod
+Винарівка noun:f:v_naz
+  Винарівки noun:f:v_rod
+Виннички noun:p:v_naz:ns
+  Винничків noun:p:v_rod:ns
+Виноградівка noun:f:v_naz
+  Виноградівки noun:f:v_rod
+Виноминівка noun:f:v_naz
+  Виноминівки noun:f:v_rod
+Винторівка noun:f:v_naz
+  Винторівки noun:f:v_rod
+Винятинці noun:p:v_naz:ns
+  Винятинців noun:p:v_rod:ns
+Виповзів noun:m:v_naz
+  Виповзова noun:m:v_rod
+Виповзки noun:p:v_naz:ns
+  Виповзків noun:p:v_rod:ns
+Вирівка noun:f:v_naz
+  Вирівки noun:f:v_rod
+Вирка noun:f:v_naz
+  Вирки noun:f:v_rod
+Висачки noun:p:v_naz:ns
+  Висачків noun:p:v_rod:ns
+Виселки noun:p:v_naz:ns
+  Виселків noun:p:v_rod:ns
+Висипівці noun:p:v_naz:ns
+  Висипівців noun:p:v_rod:ns
+Висіч noun:f:v_naz
+  Висічі noun:f:v_rod
+Вискрива noun:f:v_naz
+  Вискриви noun:f:v_rod
+Вислобоки noun:p:v_naz:ns
+  Вислобоків noun:p:v_rod:ns
+Висове noun:n:v_naz
+  Висового noun:n:v_rod
+Високинь noun:f:v_naz
+  Високині noun:f:v_rod
+Високопіль noun:m:v_naz
+  Високополя noun:m:v_rod
+Високосів noun:m:v_naz
+  Високосова noun:m:v_rod
+Високофедорівка noun:f:v_naz
+  Високофедорівки noun:f:v_rod
+Висоцьк noun:m:v_naz
+  Висоцька noun:m:v_rod
+Височанка noun:f:v_naz
+  Височанки noun:f:v_rod
+Височанове noun:n:v_naz
+  Височанового noun:n:v_rod
+Височинівка noun:f:v_naz
+  Височинівки noun:f:v_rod
+Височне noun:n:v_naz
+  Височного noun:n:v_rod
+Виспа noun:f:v_naz
+  Виспи noun:f:v_rod
+Вистороп noun:m:v_naz
+  Висторопа noun:m:v_rod
+Виступовичі noun:p:v_naz:ns
+  Виступовичів noun:p:v_rod:ns
+Висунськ noun:m:v_naz
+  Висунська noun:m:v_rod
+Вись noun:f:v_naz
+  Висі noun:f:v_rod
+Витачів noun:m:v_naz
+  Витачева noun:m:v_rod
+Витвиця noun:f:v_naz
+  Витвиці noun:f:v_rod
+Витень noun:f:v_naz
+  Витені noun:f:v_rod
+Витилівка noun:f:v_naz
+  Витилівки noun:f:v_rod
+Витківці noun:p:v_naz:ns
+  Витківців noun:p:v_rod:ns
+Витуле noun:n:v_naz
+  Витуля noun:n:v_rod
+Витязеве noun:n:v_naz
+  Витязевого noun:n:v_rod
+Витязівка noun:f:v_naz
+  Витязівки noun:f:v_rod
+Вихватнівці noun:p:v_naz:ns
+  Вихватнівців noun:p:v_rod:ns
+Вихвостів noun:m:v_naz
+  Вихвостова noun:m:v_rod
+Вихилівка noun:f:v_naz
+  Вихилівки noun:f:v_rod
+Вихля noun:f:v_naz
+  Вихлі noun:f:v_rod
+Вихрівка noun:f:v_naz
+  Вихрівки noun:f:v_rod
+Виців noun:m:v_naz
+  Вицева noun:m:v_rod
+Вичівка noun:f:v_naz
+  Вичівки noun:f:v_rod
+Вишарі noun:p:v_naz:ns
+  Вишарів noun:p:v_rod:ns
+Вишгородок noun:m:v_naz
+  Вишгородка noun:m:v_rod
+Вишевичі noun:p:v_naz:ns
+  Вишевичів noun:p:v_rod:ns
+Вишенне noun:n:v_naz
+  Вишенного noun:n:v_rod
+Вишків noun:m:v_naz
+  Вишкова noun:m:v_rod
+Вишківка noun:f:v_naz
+  Вишківки noun:f:v_rod
+Вишківське noun:n:v_naz
+  Вишківського noun:n:v_rod
+Вишківці noun:p:v_naz:ns
+  Вишківців noun:p:v_rod:ns
+Вишнів noun:m:v_naz
+  Вишнева noun:m:v_rod
+Вишнівчик noun:m:v_naz
+  Вишнівчика noun:m:v_rod
+Вишнопіль noun:m:v_naz
+  Вишнополя noun:m:v_rod
+Вишнювате noun:n:v_naz
+  Вишнюватого noun:n:v_rod
+Вишняківка noun:f:v_naz
+  Вишняківки noun:f:v_rod
+Вишнянка noun:f:v_naz
+  Вишнянки noun:f:v_rod
+Вишоватий noun:m:v_naz
+  Вишоватого noun:m:v_rod
+Вишпіль noun:m:v_naz
+  Вишполя noun:m:v_rod
+Вищевеселе noun:n:v_naz
+  Вищевеселя noun:n:v_rod
+Вищеольчедаїв noun:m:v_naz
+  Вищеольчедаєва noun:m:v_rod
+Вищетарасівка noun:f:v_naz
+  Вищетарасівки noun:f:v_rod
+Вібли noun:p:v_naz:ns
+  Віблів noun:p:v_rod:ns
+Вівня noun:f:v_naz
+  Вівні noun:f:v_rod
+Вівсяники noun:p:v_naz:ns
+  Вівсяників noun:p:v_rod:ns
+Вівсянівка noun:f:v_naz
+  Вівсянівки noun:f:v_rod
+Вівчарне noun:n:v_naz
+  Вівчарного noun:n:v_rod
+Вівчарове noun:n:v_naz
+  Вівчарового noun:n:v_rod
+Вівче noun:n:v_naz
+  Вівчого noun:n:v_rod:np
+Вівчицьк noun:m:v_naz
+  Вівчицька noun:m:v_rod
+Віднів noun:m:v_naz
+  Віднева noun:m:v_rod
+Відножине noun:n:v_naz
+  Відножиного noun:n:v_rod
+Відродженівське noun:n:v_naz
+  Відродженівського noun:n:v_rod
+Відути noun:p:v_naz:ns
+  Відут noun:p:v_rod:ns
+Віжомля noun:f:v_naz
+  Віжомлі noun:f:v_rod
+Візня noun:f:v_naz
+  Візні noun:f:v_rod
+Війниця noun:f:v_naz
+  Війниці noun:f:v_rod
+Вікентіївка noun:f:v_naz
+  Вікентіївки noun:f:v_rod
+Вікнине noun:n:v_naz
+  Вікниного noun:n:v_rod
+Вікняне noun:n:v_naz
+  Вікняного noun:n:v_rod
+Вікторинівка noun:f:v_naz
+  Вікторинівки noun:f:v_rod
+Вікторівка noun:f:v_naz
+  Вікторівки noun:f:v_rod
+Вікторове noun:n:v_naz
+  Вікторового noun:n:v_rod
+Вікторяни noun:p:v_naz:ns
+  Вікторян noun:p:v_rod:ns
+Віленка noun:f:v_naz
+  Віленки noun:f:v_rod
+Віленька noun:f:v_naz
+  Віленьки noun:f:v_rod
+Вілиця noun:f:v_naz
+  Вілиці noun:f:v_rod
+Віліне noun:n:v_naz
+  Віліного noun:n:v_rod
+Вілія noun:f:v_naz
+  Вілії noun:f:v_rod
+Вілля noun:f:v_naz
+  Віллі noun:f:v_rod
+Вільгір noun:m:v_naz
+  Вільгіра noun:m:v_rod
+Вільниця noun:f:v_naz
+  Вільниці noun:f:v_rod
+Вільноандріївка noun:f:v_naz
+  Вільноандріївки noun:f:v_rod
+Вільногірськ noun:m:v_naz
+  Вільногірська noun:m:v_rod
+Вільногрушівське noun:n:v_naz
+  Вільногрушівського noun:n:v_rod
+Вільнокур'янівське noun:n:v_naz
+  Вільнокур'янівського noun:n:v_rod
+Вільнопілля noun:n:v_naz
+  Вільнопілля noun:n:v_rod
+Вільноуланівське noun:n:v_naz
+  Вільноуланівського noun:n:v_rod
+Вільня noun:f:v_naz
+  Вільні noun:f:v_rod
+Вільнянка noun:f:v_naz
+  Вільнянки noun:f:v_rod
+Вільськ noun:m:v_naz
+  Вільська noun:m:v_rod
+Вільхівське noun:n:v_naz
+  Вільхівського noun:n:v_rod
+Вільхівчик noun:m:v_naz
+  Вільхівчика noun:m:v_rod
+Вільхівщина noun:f:v_naz
+  Вільхівщини noun:f:v_rod
+Вільховатий noun:m:v_naz
+  Вільховатого noun:m:v_rod
+Вільховатка noun:f:v_naz
+  Вільховатки noun:f:v_rod
+Вільховець noun:m:v_naz
+  Вільховця noun:m:v_rod
+Вільховецьке noun:n:v_naz
+  Вільховецького noun:n:v_rod
+Вільховиця noun:f:v_naz
+  Вільховиці noun:f:v_rod
+Вільхуватка noun:f:v_naz
+  Вільхуватки noun:f:v_rod
+Вільшане noun:n:v_naz
+  Вільшаного noun:n:v_rod
+Вільшаник noun:m:v_naz
+  Вільшаника noun:m:v_rod
+Вільшаниця noun:f:v_naz
+  Вільшаниці noun:f:v_rod
+Вільшинки noun:p:v_naz:ns
+  Вільшинків noun:p:v_rod:ns
+Вільянівка noun:f:v_naz
+  Вільянівки noun:f:v_rod
+Вілюничі noun:p:v_naz:ns
+  Вілюничів noun:p:v_rod:ns
+Вілявче noun:n:v_naz
+  Вілявчого noun:n:v_rod:np
+Вінинці noun:p:v_naz:ns
+  Вінинців noun:p:v_rod:ns
+Вінкове noun:n:v_naz
+  Вінкового noun:n:v_rod
+Вінниківці noun:p:v_naz:ns
+  Вінниківців noun:p:v_rod:ns
+Вінож noun:f:v_naz
+  Віножі noun:f:v_rod
+Вінтенці noun:p:v_naz:ns
+  Вінтенців noun:p:v_rod:ns
+Віняви noun:p:v_naz:ns
+  Вінявів noun:p:v_rod:ns
+Вірівка noun:f:v_naz
+  Вірівки noun:f:v_rod
+Вірлів noun:m:v_naz
+  Вірлева noun:m:v_rod
+Вірнопілля noun:f:v_naz
+  Вірнопіллі noun:f:v_rod
+Віролюбівка noun:f:v_naz
+  Віролюбівки noun:f:v_rod
+Вісичі noun:p:v_naz:ns
+  Вісичів noun:p:v_rod:ns
+Вістовичі noun:p:v_naz:ns
+  Вістовичів noun:p:v_rod:ns
+Вітава noun:f:v_naz
+  Вітави noun:f:v_rod
+Вітвисте noun:n:v_naz
+  Вітвистого noun:n:v_rod
+Вітківці noun:p:v_naz:ns
+  Вітківців noun:p:v_rod:ns
+Вітковичі noun:p:v_naz:ns
+  Вітковичів noun:p:v_rod:ns
+Вітове noun:n:v_naz
+  Вітового noun:n:v_rod
+Вітоніж noun:f:v_naz
+  Вітоніжі noun:f:v_rod
+Владипіль noun:m:v_naz
+  Владиполя noun:m:v_rod
+Владиславівка noun:f:v_naz
+  Владиславівки noun:f:v_rod
+Владиславка noun:f:v_naz
+  Владиславки noun:f:v_rod
+Владиславчик noun:m:v_naz
+  Владиславчика noun:m:v_rod
+Владичень noun:m:v_naz
+  Владичня noun:m:v_rod
+Владична noun:f:v_naz
+  Владичної noun:f:v_rod
+Владівка noun:f:v_naz
+  Владівки noun:f:v_rod
+Влашанівка noun:f:v_naz
+  Влашанівки noun:f:v_rod
+Влащинці noun:p:v_naz:ns
+  Влащинців noun:p:v_rod:ns
+Влізьки noun:p:v_naz:ns
+  Влізьків noun:p:v_rod:ns
+Внукове noun:n:v_naz
+  Внукового noun:n:v_rod
+Вовківка noun:f:v_naz
+  Вовківки noun:f:v_rod
+Вовківці noun:p:v_naz:ns
+  Вовківців noun:p:v_rod:ns
+Вовківчики noun:p:v_naz:ns
+  Вовківчиків noun:p:v_rod:ns
+Вовковатиця noun:f:v_naz
+  Вовковатиці noun:f:v_rod
+Вовкове noun:n:v_naz
+  Вовкового noun:n:v_rod
+Вовковиї noun:p:v_naz:ns
+  Вовковиїв noun:p:v_rod:ns
+Вовкодаєве noun:n:v_naz
+  Вовкодаєвого noun:n:v_rod
+Вовкосафонове noun:n:v_naz
+  Вовкосафонового noun:n:v_rod
+Вовкошів noun:m:v_naz
+  Вовкошева noun:m:v_rod
+Вовничі noun:p:v_naz:ns
+  Вовничів noun:p:v_rod:ns
+Вовніги noun:p:v_naz:ns
+  Вовніг noun:p:v_rod:ns
+Вовчанка noun:f:v_naz
+  Вовчанки noun:f:v_rod
+Вовчатичі noun:p:v_naz:ns
+  Вовчатичів noun:p:v_rod:ns
+Вовчинець noun:m:v_naz
+  Вовчинця noun:m:v_rod
+Вовчицьк noun:m:v_naz
+  Вовчицька noun:m:v_rod
+Вовчищовичі noun:p:v_naz:ns
+  Вовчищовичів noun:p:v_rod:ns
+Вовчківці noun:p:v_naz:ns
+  Вовчківців noun:p:v_rod:ns
+Вовчухи noun:p:v_naz:ns
+  Вовчухів noun:p:v_rod:ns
+Водолагівка noun:f:v_naz
+  Водолагівки noun:f:v_rod
+Водолазьке noun:n:v_naz
+  Водолазького noun:n:v_rod
+Водопійне noun:n:v_naz
+  Водопійного noun:n:v_rod
+Водославка noun:f:v_naz
+  Водославки noun:f:v_rod
+Водотиї noun:p:v_naz:ns
+  Водотиїв noun:p:v_rod:ns
+Водоток noun:m:v_naz
+  Водотока noun:m:v_rod
+Водянолипове noun:n:v_naz
+  Водянолипового noun:n:v_rod
+Водяно-Лорине noun:n:v_naz
+  Водяно-Лориного noun:n:v_rod
+Водяно-Михайлівка noun:f:v_naz
+  Водяно-Михайлівки noun:f:v_rod
+Водяхівка noun:f:v_naz
+  Водяхівки noun:f:v_rod
+Воєводівка noun:f:v_naz
+  Воєводівки noun:f:v_rod
+Воєводчинці noun:p:v_naz:ns
+  Воєводчинців noun:p:v_rod:ns
+Воєгоща noun:f:v_naz
+  Воєгощі noun:f:v_rod
+Возвратне noun:n:v_naz
+  Возвратного noun:n:v_rod
+Воздвиженка noun:f:v_naz
+  Воздвиженки noun:f:v_rod
+Воздвиженське noun:n:v_naz
+  Воздвиженського noun:n:v_rod
+Воздвижівка noun:f:v_naz
+  Воздвижівки noun:f:v_rod
+Возилів noun:m:v_naz
+  Возилова noun:m:v_rod
+Возлякове noun:n:v_naz
+  Возлякового noun:n:v_rod
+Вознесенка noun:f:v_naz
+  Вознесенки noun:f:v_rod
+Возничі noun:p:v_naz:ns
+  Возничів noun:p:v_rod:ns
+Вознівці noun:p:v_naz:ns
+  Вознівців noun:p:v_rod:ns
+Возсіятське noun:n:v_naz
+  Возсіятського noun:n:v_rod
+Воїнка noun:f:v_naz
+  Воїнки noun:f:v_rod
+Войнашівка noun:f:v_naz
+  Войнашівки noun:f:v_rod
+Войнин noun:m:v_naz
+  Войнина noun:m:v_rod
+Войниха noun:f:v_naz
+  Войнихи noun:f:v_rod
+Войничеве noun:n:v_naz
+  Войничевого noun:n:v_rod
+Войнівка noun:f:v_naz
+  Войнівки noun:f:v_rod
+Войславичі noun:p:v_naz:ns
+  Войславичів noun:p:v_rod:ns
+Войтове noun:n:v_naz
+  Войтового noun:n:v_rod
+Волвенкове noun:n:v_naz
+  Волвенкового noun:n:v_rod
+Волевачі noun:p:v_naz:ns
+  Волевачів noun:p:v_rod:ns
+Волинцеве noun:n:v_naz
+  Волинцевого noun:n:v_rod
+Волинцівське noun:n:v_naz
+  Волинцівського noun:n:v_rod
+Волиця noun:f:v_naz
+  Волиці noun:f:v_rod
+Волковка noun:f:v_naz
+  Волковки noun:f:v_rod
+Волна noun:f:v_naz
+  Волни noun:f:v_rod
+Волнухине noun:n:v_naz
+  Волнухиного noun:n:v_rod
+Волобуївка noun:f:v_naz
+  Волобуївки noun:f:v_rod
+Воловиця noun:f:v_naz
+  Воловиці noun:f:v_rod
+Воловодівка noun:f:v_naz
+  Воловодівки noun:f:v_rod
+Володарівка noun:f:v_naz
+  Володарівки noun:f:v_rod
+Володимирка noun:f:v_naz
+  Володимирки noun:f:v_rod
+Володимиро-Іллінка noun:f:v_naz
+  Володимиро-Іллінки noun:f:v_rod
+Володимиро-Павлівка noun:f:v_naz
+  Володимиро-Павлівки noun:f:v_rod
+Володимиро-Ульяновка noun:f:v_naz
+  Володимиро-Ульяновки noun:f:v_rod
+Володине noun:n:v_naz
+  Володиного noun:n:v_rod
+Володіївці noun:p:v_naz:ns
+  Володіївців noun:p:v_rod:ns
+Волокитине noun:n:v_naz
+  Волокитиного noun:n:v_rod
+Волосівка noun:f:v_naz
+  Волосівки noun:f:v_rod
+Волосівці noun:p:v_naz:ns
+  Волосівців noun:p:v_rod:ns
+Волосківці noun:p:v_naz:ns
+  Волосківців noun:p:v_rod:ns
+Волостків noun:m:v_naz
+  Волосткова noun:m:v_rod
+Волохівка noun:f:v_naz
+  Волохівки noun:f:v_rod
+Волохівське noun:n:v_naz
+  Волохівського noun:n:v_rod
+Волочаєвка noun:f:v_naz
+  Волочаєвки noun:f:v_rod
+Волочаївка noun:f:v_naz
+  Волочаївки noun:f:v_rod
+Волоша noun:f:v_naz
+  Волоші noun:f:v_rod
+Волошине noun:n:v_naz
+  Волошиного noun:n:v_rod
+Волошинівка noun:f:v_naz
+  Волошинівки noun:f:v_rod
+Волошнівка noun:f:v_naz
+  Волошнівки noun:f:v_rod
+Волоща noun:f:v_naz
+  Волощі noun:f:v_rod
+Волощина noun:f:v_naz
+  Волощини noun:f:v_rod
+Волсвин noun:m:v_naz
+  Волсвина noun:m:v_rod
+Волудринці noun:p:v_naz:ns
+  Волудринців noun:p:v_rod:ns
+Волуйки noun:p:v_naz:ns
+  Волуйків noun:p:v_rod:ns
+Волфине noun:n:v_naz
+  Волфиного noun:n:v_rod
+Волянка noun:f:v_naz
+  Волянки noun:f:v_rod
+Волянщина noun:f:v_naz
+  Волянщини noun:f:v_rod
+Волярка noun:f:v_naz
+  Волярки noun:f:v_rod
+Вонігове noun:n:v_naz
+  Вонігового noun:n:v_rod
+Ворвулинці noun:p:v_naz:ns
+  Ворвулинців noun:p:v_rod:ns
+Ворничани noun:p:v_naz:ns
+  Ворничан noun:p:v_rod:ns
+Воробіївка noun:f:v_naz
+  Воробіївки noun:f:v_rod
+Вороб'ївка noun:f:v_naz
+  Вороб'ївки noun:f:v_rod
+Вороб'ївщина noun:f:v_naz
+  Вороб'ївщини noun:f:v_rod
+Вороб'їв noun:m:v_naz
+  Вороб'єва noun:m:v_rod
+Воробйове noun:n:v_naz
+  Воробйового noun:n:v_rod
+Вороблевичі noun:p:v_naz:ns
+  Вороблевичів noun:p:v_rod:ns
+Вороблячин noun:m:v_naz
+  Вороблячина noun:m:v_rod
+Ворокомле noun:n:v_naz
+  Ворокомля noun:n:v_rod
+Вороневе noun:n:v_naz
+  Вороневого noun:n:v_rod
+Воронине noun:n:v_naz
+  Ворониного noun:n:v_rod
+Воронинці noun:p:v_naz:ns
+  Воронинців noun:p:v_rod:ns
+Ворониця noun:f:v_naz
+  Ворониці noun:f:v_rod
+Воронівка noun:f:v_naz
+  Воронівки noun:f:v_rod
+Воронівці noun:p:v_naz:ns
+  Воронівців noun:p:v_rod:ns
+Воронівщина noun:f:v_naz
+  Воронівщини noun:f:v_rod
+Воронківці noun:p:v_naz:ns
+  Воронківців noun:p:v_rod:ns
+Воронцівка noun:f:v_naz
+  Воронцівки noun:f:v_rod
+Воронцове noun:n:v_naz
+  Воронцового noun:n:v_rod
+Ворончин noun:m:v_naz
+  Ворончина noun:m:v_rod
+Вороньківка noun:f:v_naz
+  Вороньківки noun:f:v_rod
+Вороняки noun:p:v_naz:ns
+  Вороняків noun:p:v_rod:ns
+Воронянщина noun:f:v_naz
+  Воронянщини noun:f:v_rod
+Воропаїв noun:m:v_naz
+  Воропаєва noun:m:v_rod
+Воропаївка noun:f:v_naz
+  Воропаївки noun:f:v_rod
+Воротнів noun:m:v_naz
+  Воротнова noun:m:v_rod
+Ворохівка noun:f:v_naz
+  Ворохівки noun:f:v_rod
+Вороців noun:m:v_naz
+  Вороцева noun:m:v_rod
+Ворошилівка noun:f:v_naz
+  Ворошилівки noun:f:v_rod
+Ворсівка noun:f:v_naz
+  Ворсівки noun:f:v_rod
+Ворчин noun:m:v_naz
+  Ворчина noun:m:v_rod
+Воскодави noun:p:v_naz:ns
+  Воскодавів noun:p:v_rod:ns
+Воскодавинці noun:p:v_naz:ns
+  Воскодавинців noun:p:v_rod:ns
+Воскресенівка noun:f:v_naz
+  Воскресенівки noun:f:v_rod
+Воскресенка noun:f:v_naz
+  Воскресенки noun:f:v_rod
+Воскресинці noun:p:v_naz:ns
+  Воскресинців noun:p:v_rod:ns
+Восточне noun:n:v_naz
+  Восточного noun:n:v_rod
+Вотилівка noun:f:v_naz
+  Вотилівки noun:f:v_rod
+Вочківці noun:p:v_naz:ns
+  Вочківців noun:p:v_rod:ns
+Вощатин noun:m:v_naz
+  Вощатина noun:m:v_rod
+Вощилиха noun:f:v_naz
+  Вощилихи noun:f:v_rod
+Вощинине noun:n:v_naz
+  Вощининого noun:n:v_rod
+Воютин noun:m:v_naz
+  Воютина noun:m:v_rod
+Воютицька noun:f:v_naz
+  Воютицьки noun:f:v_rod
+Воютичі noun:p:v_naz:ns
+  Воютичів noun:p:v_rod:ns
+Времівка noun:f:v_naz
+  Времівки noun:f:v_rod
+Врублівка noun:f:v_naz
+  Врублівки noun:f:v_rod
+Врублівці noun:p:v_naz:ns
+  Врублівців noun:p:v_rod:ns
+Всадки noun:p:v_naz:ns
+  Всадків noun:p:v_rod:ns
+Всеволодівка noun:f:v_naz
+  Всеволодівки noun:f:v_rod
+Всесвятське noun:n:v_naz
+  Всесвятського noun:n:v_rod
+Вугледар noun:m:v_naz
+  Вугледара noun:m:v_rod
+Вужиськ noun:m:v_naz
+  Вужиська noun:m:v_rod
+Вуйковичі noun:p:v_naz:ns
+  Вуйковичів noun:p:v_rod:ns
+Вукитичеве noun:n:v_naz
+  Вукитичевого noun:n:v_rod
+Вулига noun:f:v_naz
+  Вулиги noun:f:v_rod
+Вулканівка noun:f:v_naz
+  Вулканівки noun:f:v_rod
+Вучкове noun:n:v_naz
+  Вучкового noun:n:v_rod
+Вчорайше noun:n:v_naz
+  Вчорайша noun:n:v_rod
+В'юнище noun:n:v_naz
+  В'юнища noun:n:v_rod
+В'юнівщина noun:f:v_naz
+  В'юнівщини noun:f:v_rod
+В'юнне noun:n:v_naz
+  В'юнного noun:n:v_rod
+В'язенка noun:f:v_naz
+  В'язенки noun:f:v_rod
+В'язівка noun:f:v_naz
+  В'язівки noun:f:v_rod
+В'язівне noun:n:v_naz
+  В'язівного noun:n:v_rod
+В'язівок noun:m:v_naz
+  В'язівка noun:m:v_rod
+В'язникове noun:n:v_naz
+  В'язникового noun:n:v_rod
+В'язовець noun:m:v_naz
+  В'язовця noun:m:v_rod
+В'язовиця noun:f:v_naz
+  В'язовиці noun:f:v_rod
+Вячеславка noun:f:v_naz
+  Вячеславки noun:f:v_rod
+Габун noun:m:v_naz
+  Габуна noun:m:v_rod
+Гавареччина noun:f:v_naz
+  Гавареччини noun:f:v_rod
+Гавиноси noun:p:v_naz:ns
+  Гавиносів noun:p:v_rod:ns
+Гаврилівка noun:f:v_naz
+  Гаврилівки noun:f:v_rod
+Гаврилівці noun:p:v_naz:ns
+  Гаврилівців noun:p:v_rod:ns
+Гаврилки noun:p:v_naz:ns
+  Гаврилків noun:p:v_rod:ns
+Гавришівка noun:f:v_naz
+  Гавришівки noun:f:v_rod
+Гавронці noun:p:v_naz:ns
+  Гавронців noun:p:v_rod:ns
+Гавронщина noun:f:v_naz
+  Гавронщини noun:f:v_rod
+Гадзинка noun:f:v_naz
+  Гадзинки noun:f:v_rod
+Гадинківці noun:p:v_naz:ns
+  Гадинківців noun:p:v_rod:ns
+Гадомці noun:p:v_naz:ns
+  Гадомців noun:p:v_rod:ns
+Гаєвичі noun:p:v_naz:ns
+  Гаєвичів noun:p:v_rod:ns
+Гаївське noun:n:v_naz
+  Гаївського noun:n:v_rod
+Гаївщина noun:f:v_naz
+  Гаївщини noun:f:v_rod
+Гайворонка noun:f:v_naz
+  Гайворонки noun:f:v_rod
+Гайдайки noun:p:v_naz:ns
+  Гайдайків noun:p:v_rod:ns
+Гайдари noun:p:v_naz:ns
+  Гайдарів noun:p:v_rod:ns
+Гайдучина noun:f:v_naz
+  Гайдучини noun:f:v_rod
+Гаймарівка noun:f:v_naz
+  Гаймарівки noun:f:v_rod
+Гай-Мошенка noun:f:v_naz
+  Гай-Мошенки noun:f:v_rod
+Гайшин noun:m:v_naz
+  Гайшина noun:m:v_rod
+Галаганівка noun:f:v_naz
+  Галаганівки noun:f:v_rod
+Галагурівка noun:f:v_naz
+  Галагурівки noun:f:v_rod
+Галаєвець noun:m:v_naz
+  Галаєвця noun:m:v_rod
+Галайбине noun:n:v_naz
+  Галайбиного noun:n:v_rod
+Галайки noun:p:v_naz:ns
+  Галайків noun:p:v_rod:ns
+Галайківці noun:p:v_naz:ns
+  Галайківців noun:p:v_rod:ns
+Галенкове noun:n:v_naz
+  Галенкового noun:n:v_rod
+Галинівка noun:f:v_naz
+  Галинівки noun:f:v_rod
+Галинка noun:f:v_naz
+  Галинки noun:f:v_rod
+Галицинівка noun:f:v_naz
+  Галицинівки noun:f:v_rod
+Галицинове noun:n:v_naz
+  Галицинового noun:n:v_rod
+Галицівка noun:f:v_naz
+  Галицівки noun:f:v_rod
+Галиця noun:f:v_naz
+  Галиці noun:f:v_rod
+Галичівка noun:f:v_naz
+  Галичівки noun:f:v_rod
+Галівка noun:f:v_naz
+  Галівки noun:f:v_rod
+Галіївка noun:f:v_naz
+  Галіївки noun:f:v_rod
+Галійка noun:f:v_naz
+  Галійки noun:f:v_rod
+Галків noun:m:v_naz
+  Галкова noun:m:v_rod
+Галоч noun:m:v_naz
+  Галоча noun:m:v_rod
+Галочі noun:p:v_naz:ns
+  Галочів noun:p:v_rod:ns
+Галузинці noun:p:v_naz:ns
+  Галузинців noun:p:v_rod:ns
+Галупове noun:n:v_naz
+  Галупового noun:n:v_rod
+Галущина noun:f:v_naz
+  Галущини noun:f:v_rod
+Галущинці noun:p:v_naz:ns
+  Галущинців noun:p:v_rod:ns
+Гальжбіївка noun:f:v_naz
+  Гальжбіївки noun:f:v_rod
+Гальчин noun:m:v_naz
+  Гальчина noun:m:v_rod
+Гальчинці noun:p:v_naz:ns
+  Гальчинців noun:p:v_rod:ns
+Галяве noun:n:v_naz
+  Галявого noun:n:v_rod
+Гамаліївка noun:f:v_naz
+  Гамаліївки noun:f:v_rod
+Гамівка noun:f:v_naz
+  Гамівки noun:f:v_rod
+Гамове noun:n:v_naz
+  Гамового noun:n:v_rod
+Гамулівка noun:f:v_naz
+  Гамулівки noun:f:v_rod
+Ганачівка noun:f:v_naz
+  Ганачівки noun:f:v_rod
+Гандеровиця noun:f:v_naz
+  Гандеровиці noun:f:v_rod
+Гандрабури noun:p:v_naz:ns
+  Гандрабурів noun:p:v_rod:ns
+Ганжалівка noun:f:v_naz
+  Ганжалівки noun:f:v_rod
+Ганжівка noun:f:v_naz
+  Ганжівки noun:f:v_rod
+Ганівка noun:f:v_naz
+  Ганівки noun:f:v_rod
+Ганнинське noun:n:v_naz
+  Ганнинського noun:n:v_rod
+Ганнів noun:m:v_naz
+  Ганнова noun:m:v_rod
+Ганнівське noun:n:v_naz
+  Ганнівського noun:n:v_rod
+Ганновка noun:f:v_naz
+  Ганновки noun:f:v_rod
+Ганно-Леонтовичеве noun:n:v_naz
+  Ганно-Леонтовичевого noun:n:v_rod
+Ганно-Миколаївка noun:f:v_naz
+  Ганно-Миколаївки noun:f:v_rod
+Ганно-Опанлинка noun:f:v_naz
+  Ганно-Опанлинки noun:f:v_rod
+Ганнопілля noun:n:v_naz
+  Ганнопілля noun:n:v_rod
+Ганнопіль noun:m:v_naz
+  Ганнополя noun:m:v_rod
+Ганно-Покровка noun:f:v_naz
+  Ганно-Покровки noun:f:v_rod
+Ганно-Рудаєве noun:n:v_naz
+  Ганно-Рудаєвого noun:n:v_rod
+Ганно-Требинівка noun:f:v_naz
+  Ганно-Требинівки noun:f:v_rod
+Ганнусине noun:n:v_naz
+  Ганнусиного noun:n:v_rod
+Ганнусівка noun:f:v_naz
+  Ганнусівки noun:f:v_rod
+Ганьківці noun:p:v_naz:ns
+  Ганьківців noun:p:v_rod:ns
+Ганьковиця noun:f:v_naz
+  Ганьковиці noun:f:v_rod
+Ганьковичі noun:p:v_naz:ns
+  Ганьковичів noun:p:v_rod:ns
+Гапішківка noun:f:v_naz
+  Гапішківки noun:f:v_rod
+Гапонівка noun:f:v_naz
+  Гапонівки noun:f:v_rod
+Гапоно-Мечетне noun:n:v_naz
+  Гапоно-Мечетного noun:n:v_rod
+Гарапівка noun:f:v_naz
+  Гарапівки noun:f:v_rod
+Гарасимівка noun:f:v_naz
+  Гарасимівки noun:f:v_rod
+Гарасівка noun:f:v_naz
+  Гарасівки noun:f:v_rod
+Гарашківка noun:f:v_naz
+  Гарашківки noun:f:v_rod
+Гарбузин noun:m:v_naz
+  Гарбузина noun:m:v_rod
+Гарбузівка noun:f:v_naz
+  Гарбузівки noun:f:v_rod
+Гардишівка noun:f:v_naz
+  Гардишівки noun:f:v_rod
+Гаркавець noun:m:v_naz
+  Гаркавця noun:m:v_rod
+Гаркушине noun:n:v_naz
+  Гаркушиного noun:n:v_rod
+Гаркушинці noun:p:v_naz:ns
+  Гаркушинців noun:p:v_rod:ns
+Гармаки noun:p:v_naz:ns
+  Гармаків noun:p:v_rod:ns
+Гарманівка noun:f:v_naz
+  Гарманівки noun:f:v_rod
+Гармашівка noun:f:v_naz
+  Гармашівки noun:f:v_rod
+Гармащина noun:f:v_naz
+  Гармащини noun:f:v_rod
+Гарнишівка noun:f:v_naz
+  Гарнишівки noun:f:v_rod
+Гаруша noun:f:v_naz
+  Гаруші noun:f:v_rod
+Гаршине noun:n:v_naz
+  Гаршиного noun:n:v_rod
+Гарячківка noun:f:v_naz
+  Гарячківки noun:f:v_rod
+Гасанівка noun:f:v_naz
+  Гасанівки noun:f:v_rod
+Гасенки noun:p:v_naz:ns
+  Гасенків noun:p:v_rod:ns
+Гасичівка noun:f:v_naz
+  Гасичівки noun:f:v_rod
+Гатище noun:n:v_naz
+  Гатища noun:n:v_rod
+Гатківка noun:f:v_naz
+  Гатківки noun:f:v_rod
+Гатна noun:f:v_naz
+  Гатни noun:f:v_rod
+Гатне noun:n:v_naz
+  Гатного noun:n:v_rod
+Гацьківка noun:f:v_naz
+  Гацьківки noun:f:v_rod
+Гвізд noun:m:v_naz
+  Гвізда noun:m:v_rod
+Гвіздів noun:m:v_naz
+  Гвіздова noun:m:v_rod
+Гвіздівці noun:p:v_naz:ns
+  Гвіздівців noun:p:v_rod:ns
+Гвіздярня noun:f:v_naz
+  Гвіздярні noun:f:v_rod
+Гвоздава noun:f:v_naz
+  Гвоздави noun:f:v_rod
+Гвоздавка noun:f:v_naz
+  Гвоздавки noun:f:v_rod
+Гвоздець noun:m:v_naz
+  Гвоздця noun:m:v_rod
+Гвоздиківка noun:f:v_naz
+  Гвоздиківки noun:f:v_rod
+Гвоздів noun:m:v_naz
+  Гвоздова noun:m:v_rod
+Гвоздьове noun:n:v_naz
+  Гвоздьового noun:n:v_rod
+Гевин noun:m:v_naz
+  Гевина noun:m:v_rod
+Гедеримове noun:n:v_naz
+  Гедеримового noun:n:v_rod
+Гезівка noun:f:v_naz
+  Гезівки noun:f:v_rod
+Геївка noun:f:v_naz
+  Геївки noun:f:v_rod
+Геївці noun:p:v_naz:ns
+  Геївців noun:p:v_rod:ns
+Гейківка noun:f:v_naz
+  Гейківки noun:f:v_rod
+Гейсиха noun:f:v_naz
+  Гейсихи noun:f:v_rod
+Геленки noun:p:v_naz:ns
+  Геленків noun:p:v_rod:ns
+Гелетина noun:f:v_naz
+  Гелетини noun:f:v_rod
+Гелетинці noun:p:v_naz:ns
+  Гелетинців noun:p:v_rod:ns
+Гельмязів noun:m:v_naz
+  Гельмязова noun:m:v_rod
+Гельм'язів noun:m:v_naz
+  Гельм'язова noun:m:v_rod
+Гензерівка noun:f:v_naz
+  Гензерівки noun:f:v_rod
+Генівка noun:f:v_naz
+  Генівки noun:f:v_rod
+Геніївка noun:f:v_naz
+  Геніївки noun:f:v_rod
+Георгієвка noun:f:v_naz
+  Георгієвки noun:f:v_rod
+Герасимівка noun:f:v_naz
+  Герасимівки noun:f:v_rod
+Гераськівка noun:f:v_naz
+  Гераськівки noun:f:v_rod
+Гербине noun:n:v_naz
+  Гербиного noun:n:v_rod
+Гереженівка noun:f:v_naz
+  Гереженівки noun:f:v_rod
+Гериня noun:f:v_naz
+  Герині noun:f:v_rod
+Гермаківка noun:f:v_naz
+  Гермаківки noun:f:v_rod
+Германівка noun:f:v_naz
+  Германівки noun:f:v_rod
+Геронимівка noun:f:v_naz
+  Геронимівки noun:f:v_rod
+Герсеванівка noun:f:v_naz
+  Герсеванівки noun:f:v_rod
+Гертопи noun:p:v_naz:ns
+  Гертопів noun:p:v_rod:ns
+Герусівка noun:f:v_naz
+  Герусівки noun:f:v_rod
+Герцівці noun:p:v_naz:ns
+  Герцівців noun:p:v_rod:ns
+Гетиня noun:f:v_naz
+  Гетині noun:f:v_rod
+Гетьманівка noun:f:v_naz
+  Гетьманівки noun:f:v_rod
+Гетьманка noun:f:v_naz
+  Гетьманки noun:f:v_rod
+Геча noun:f:v_naz
+  Гечі noun:f:v_rod
+Гибалівка noun:f:v_naz
+  Гибалівки noun:f:v_rod
+Гидерим noun:m:v_naz
+  Гидерима noun:m:v_rod
+Гиновичі noun:p:v_naz:ns
+  Гиновичів noun:p:v_rod:ns
+Гиньківці noun:p:v_naz:ns
+  Гиньківців noun:p:v_rod:ns
+Гирине noun:n:v_naz
+  Гириного noun:n:v_rod
+Гиріне noun:n:v_naz
+  Гиріного noun:n:v_rod
+Гізівщина noun:f:v_naz
+  Гізівщини noun:f:v_rod
+Гійче noun:n:v_naz
+  Гійча noun:n:v_rod
+Гільча noun:f:v_naz
+  Гільчі noun:f:v_rod
+Гіржове noun:n:v_naz
+  Гіржового noun:n:v_rod
+Гіркани noun:p:v_naz:ns
+  Гірканів noun:p:v_rod:ns
+Гірківка noun:f:v_naz
+  Гірківки noun:f:v_rod
+Гірманка noun:f:v_naz
+  Гірманки noun:f:v_rod
+Гірсівка noun:f:v_naz
+  Гірсівки noun:f:v_rod
+Гірськ noun:m:v_naz
+  Гірська noun:m:v_rod
+Гірчаківка noun:f:v_naz
+  Гірчаківки noun:f:v_rod
+Гішин noun:m:v_naz
+  Гішина noun:m:v_rod
+Главані noun:p:v_naz:ns
+  Главанів noun:p:v_rod:ns
+Гладківка noun:f:v_naz
+  Гладківки noun:f:v_rod
+Гладківщина noun:f:v_naz
+  Гладківщини noun:f:v_rod
+Гладкове noun:n:v_naz
+  Гладкового noun:n:v_rod
+Гладковичі noun:p:v_naz:ns
+  Гладковичів noun:p:v_rod:ns
+Гладосове noun:n:v_naz
+  Гладосового noun:n:v_rod
+Глажева noun:f:v_naz
+  Глажеви noun:f:v_rod
+Глазівка noun:f:v_naz
+  Глазівки noun:f:v_rod
+Глазове noun:n:v_naz
+  Глазового noun:n:v_rod
+Глазунівка noun:f:v_naz
+  Глазунівки noun:f:v_rod
+Гланишів noun:m:v_naz
+  Гланишева noun:m:v_rod
+Глафірівка noun:f:v_naz
+  Глафірівки noun:f:v_rod
+Глезне noun:n:v_naz
+  Глезного noun:n:v_rod
+Глещава noun:f:v_naz
+  Глещави noun:f:v_rod
+Глеюватка noun:f:v_naz
+  Глеюватки noun:f:v_rod
+Глибівка noun:f:v_naz
+  Глибівки noun:f:v_rod
+Глибне noun:n:v_naz
+  Глибного noun:n:v_rod
+Глибоч noun:f:v_naz
+  Глибочі noun:f:v_rod
+Глибочиця noun:f:v_naz
+  Глибочиці noun:f:v_rod
+Глибочка noun:f:v_naz
+  Глибочки noun:f:v_rod
+Глибочок noun:m:v_naz
+  Глибочка noun:m:v_rod
+Глинець noun:m:v_naz
+  Глинця noun:m:v_rod
+Глиниці noun:p:v_naz:ns
+  Глиниць noun:p:v_rod:ns
+Глиниця noun:f:v_naz
+  Глиниці noun:f:v_rod
+Глинівці noun:p:v_naz:ns
+  Глинівців noun:p:v_rod:ns
+Глинна noun:f:v_naz
+  Глинної noun:f:v_rod
+Глинне noun:n:v_naz
+  Глинного noun:n:v_rod
+Глинники noun:p:v_naz:ns
+  Глинників noun:p:v_rod:ns
+Глинокар'єр noun:m:v_naz
+  Глинокар'єра noun:m:v_rod
+Глинча noun:f:v_naz
+  Глинчі noun:f:v_rod
+Глинчуки noun:p:v_naz:ns
+  Глинчуків noun:p:v_rod:ns
+Глинщина noun:f:v_naz
+  Глинщини noun:f:v_rod
+Глинянець noun:m:v_naz
+  Глинянця noun:m:v_rod
+Глібівка noun:f:v_naz
+  Глібівки noun:f:v_rod
+Глібки noun:p:v_naz:ns
+  Глібків noun:p:v_rod:ns
+Глобівка noun:f:v_naz
+  Глобівки noun:f:v_rod
+Глоди noun:p:v_naz:ns
+  Глодів noun:p:v_rod:ns
+Глодоси noun:p:v_naz:ns
+  Глодосів noun:p:v_rod:ns
+Глотівка noun:f:v_naz
+  Глотівки noun:f:v_rod
+Глузди noun:p:v_naz:ns
+  Глуздів noun:p:v_rod:ns
+Глумча noun:f:v_naz
+  Глумчі noun:f:v_rod
+Глухи noun:p:v_naz:ns
+  Глухів noun:p:v_rod:ns
+Глухівець noun:m:v_naz
+  Глухівця noun:m:v_rod
+Глухове noun:n:v_naz
+  Глухового noun:n:v_rod
+Глуховичі noun:p:v_naz:ns
+  Глуховичів noun:p:v_rod:ns
+Глуша noun:f:v_naz
+  Глуші noun:f:v_rod
+Глушиця noun:f:v_naz
+  Глушиці noun:f:v_rod
+Глушківка noun:f:v_naz
+  Глушківки noun:f:v_rod
+Глушківці noun:p:v_naz:ns
+  Глушківців noun:p:v_rod:ns
+Глушкове noun:n:v_naz
+  Глушкового noun:n:v_rod
+Глущенкове noun:n:v_naz
+  Глущенкового noun:n:v_rod
+Глюгове noun:n:v_naz
+  Глюгового noun:n:v_rod
+Глядин noun:m:v_naz
+  Глядина noun:m:v_rod
+Глядки noun:p:v_naz:ns
+  Глядків noun:p:v_rod:ns
+Гмирянка noun:f:v_naz
+  Гмирянки noun:f:v_rod
+Гнаровське noun:n:v_naz
+  Гнаровського noun:n:v_rod
+Гнатенки noun:p:v_naz:ns
+  Гнатенків noun:p:v_rod:ns
+Гнатівка noun:f:v_naz
+  Гнатівки noun:f:v_rod
+Гнатівці noun:p:v_naz:ns
+  Гнатівців noun:p:v_rod:ns
+Гнатки noun:p:v_naz:ns
+  Гнатків noun:p:v_rod:ns
+Гнатків noun:m:v_naz
+  Гнаткова noun:m:v_rod
+Гненне noun:n:v_naz
+  Гненного noun:n:v_rod
+Гнидава noun:f:v_naz
+  Гнидави noun:f:v_rod
+Гнильче noun:n:v_naz
+  Гнильчого noun:n:v_rod:np
+Гнідин noun:m:v_naz
+  Гнідина noun:m:v_rod
+Гнідинці noun:p:v_naz:ns
+  Гнідинців noun:p:v_rod:ns
+Гніздичне noun:n:v_naz
+  Гніздичного noun:n:v_rod
+Гнутове noun:n:v_naz
+  Гнутового noun:n:v_rod
+Говилів noun:m:v_naz
+  Говилова noun:m:v_rod
+Говорунове noun:n:v_naz
+  Говорунового noun:n:v_rod
+Говтва noun:f:v_naz
+  Говтви noun:f:v_rod
+Говтвянчик noun:m:v_naz
+  Говтвянчика noun:m:v_rod
+Гогине noun:n:v_naz
+  Гогиного noun:n:v_rod
+Гоголівка noun:f:v_naz
+  Гоголівки noun:f:v_rod
+Годвишня noun:f:v_naz
+  Годвишні noun:f:v_rod
+Годилів noun:m:v_naz
+  Годилова noun:m:v_rod
+Годинівка noun:f:v_naz
+  Годинівки noun:f:v_rod
+Годинь noun:f:v_naz
+  Годині noun:f:v_rod
+Годиха noun:f:v_naz
+  Годихи noun:f:v_rod
+Годів noun:m:v_naz
+  Годова noun:m:v_rod
+Годовиця noun:f:v_naz
+  Годовиці noun:f:v_rod
+Годовичі noun:p:v_naz:ns
+  Годовичів noun:p:v_rod:ns
+Годомичі noun:p:v_naz:ns
+  Годомичів noun:p:v_rod:ns
+Годунівка noun:f:v_naz
+  Годунівки noun:f:v_rod
+Гожули noun:p:v_naz:ns
+  Гожулів noun:p:v_rod:ns
+Голгоча noun:f:v_naz
+  Голгочі noun:f:v_rod
+Голдашівка noun:f:v_naz
+  Голдашівки noun:f:v_rod
+Голдовичі noun:p:v_naz:ns
+  Голдовичів noun:p:v_rod:ns
+Голендра noun:f:v_naz
+  Голендри noun:f:v_rod
+Голендри noun:p:v_naz:ns
+  Голендрів noun:p:v_rod:ns
+Голенищеве noun:n:v_naz
+  Голенищевого noun:n:v_rod
+Голешів noun:m:v_naz
+  Голешева noun:m:v_rod
+Голики noun:p:v_naz:ns
+  Голиків noun:p:v_rod:ns
+Голикове noun:n:v_naz
+  Голикового noun:n:v_rod
+Голинчинці noun:p:v_naz:ns
+  Голинчинців noun:p:v_rod:ns
+Голинь noun:f:v_naz
+  Голині noun:f:v_rod
+Голиця noun:f:v_naz
+  Голиці noun:f:v_rod
+Голичівка noun:f:v_naz
+  Голичівки noun:f:v_rod
+Голігради noun:p:v_naz:ns
+  Голіградів noun:p:v_rod:ns
+Голобутів noun:m:v_naz
+  Голобутова noun:m:v_rod
+Голованівка noun:f:v_naz
+  Голованівки noun:f:v_rod
+Головатівка noun:f:v_naz
+  Головатівки noun:f:v_rod
+Головашівка noun:f:v_naz
+  Головашівки noun:f:v_rod
+Головеньки noun:p:v_naz:ns
+  Головеньків noun:p:v_rod:ns
+Головківка noun:f:v_naz
+  Головківки noun:f:v_rod
+Головлі noun:p:v_naz:ns
+  Головлів noun:p:v_rod:ns
+Головниця noun:f:v_naz
+  Головниці noun:f:v_rod
+Головнівка noun:f:v_naz
+  Головнівки noun:f:v_rod
+Головське noun:n:v_naz
+  Головського noun:n:v_rod
+Головурів noun:m:v_naz
+  Головурова noun:m:v_rod
+Головчинці noun:p:v_naz:ns
+  Головчинців noun:p:v_rod:ns
+Головчиці noun:p:v_naz:ns
+  Головчиців noun:p:v_rod:ns
+Голов'ятине noun:n:v_naz
+  Голов'ятиного noun:n:v_rod
+Гологори noun:p:v_naz:ns
+  Гологор noun:p:v_rod:ns
+Голодьки noun:p:v_naz:ns
+  Голодьків noun:p:v_rod:ns
+Голозубинці noun:p:v_naz:ns
+  Голозубинців noun:p:v_rod:ns
+Голокам'янка noun:f:v_naz
+  Голокам'янки noun:f:v_rod
+Голоскове noun:n:v_naz
+  Голоскового noun:n:v_rod
+Голосковичі noun:p:v_naz:ns
+  Голосковичів noun:p:v_rod:ns
+Голотівщина noun:f:v_naz
+  Голотівщини noun:f:v_rod
+Голотки noun:p:v_naz:ns
+  Голотків noun:p:v_rod:ns
+Голохвасти noun:p:v_naz:ns
+  Голохвастів noun:p:v_rod:ns
+Голошина noun:f:v_naz
+  Голошини noun:f:v_rod
+Голошинці noun:p:v_naz:ns
+  Голошинців noun:p:v_rod:ns
+Голубече noun:n:v_naz
+  Голубечого noun:n:v_rod:np
+Голубин noun:m:v_naz
+  Голубина noun:m:v_rod
+Голубинівка noun:f:v_naz
+  Голубинівки noun:f:v_rod
+Голубинка noun:f:v_naz
+  Голубинки noun:f:v_rod
+Голубиця noun:f:v_naz
+  Голубиці noun:f:v_rod
+Голубичі noun:p:v_naz:ns
+  Голубичів noun:p:v_rod:ns
+Голубівка noun:f:v_naz
+  Голубівки noun:f:v_rod
+Голубівщина noun:f:v_naz
+  Голубівщини noun:f:v_rod
+Голубієвичі noun:p:v_naz:ns
+  Голубієвичів noun:p:v_rod:ns
+Голубкове noun:n:v_naz
+  Голубкового noun:n:v_rod
+Голубне noun:n:v_naz
+  Голубного noun:n:v_rod
+Голубча noun:f:v_naz
+  Голубчі noun:f:v_rod
+Голуб'ятин noun:m:v_naz
+  Голуб'ятина noun:m:v_rod
+Гольма noun:f:v_naz
+  Гольми noun:f:v_rod
+Гольманівка noun:f:v_naz
+  Гольманівки noun:f:v_rod
+Голядин noun:m:v_naz
+  Голядина noun:m:v_rod
+Голятин noun:m:v_naz
+  Голятина noun:m:v_rod
+Гомільша noun:f:v_naz
+  Гомільші noun:f:v_rod
+Гоноратівка noun:f:v_naz
+  Гоноратівки noun:f:v_rod
+Гоноратка noun:f:v_naz
+  Гоноратки noun:f:v_rod
+Гонорівка noun:f:v_naz
+  Гонорівки noun:f:v_rod
+Гонтарівка noun:f:v_naz
+  Гонтарівки noun:f:v_rod
+Гонтів noun:m:v_naz
+  Гонтова noun:m:v_rod
+Гонтівка noun:f:v_naz
+  Гонтівки noun:f:v_rod
+Гонцош noun:m:v_naz
+  Гонцоша noun:m:v_rod
+Гончари noun:p:v_naz:ns
+  Гончарів noun:p:v_rod:ns
+Гончарівка noun:f:v_naz
+  Гончарівки noun:f:v_rod
+Гончарка noun:f:v_naz
+  Гончарки noun:f:v_rod
+Гончарки noun:p:v_naz:ns
+  Гончарок noun:p:v_rod:ns
+Гонятичі noun:p:v_naz:ns
+  Гонятичів noun:p:v_rod:ns
+Гоптівка noun:f:v_naz
+  Гоптівки noun:f:v_rod
+Гопчиця noun:f:v_naz
+  Гопчиці noun:f:v_rod
+Гораєць noun:m:v_naz
+  Горайця noun:m:v_rod
+Гораївка noun:f:v_naz
+  Гораївки noun:f:v_rod
+Гораймівка noun:f:v_naz
+  Гораймівки noun:f:v_rod
+Горбаків noun:m:v_naz
+  Горбакова noun:m:v_rod
+Горбанівка noun:f:v_naz
+  Горбанівки noun:f:v_rod
+Горбасів noun:m:v_naz
+  Горбасова noun:m:v_rod
+Горбатівка noun:f:v_naz
+  Горбатівки noun:f:v_rod
+Горбачівка noun:f:v_naz
+  Горбачівки noun:f:v_rod
+Горбаша noun:f:v_naz
+  Горбаші noun:f:v_rod
+Горбівці noun:p:v_naz:ns
+  Горбівців noun:p:v_rod:ns
+Горбовичі noun:p:v_naz:ns
+  Горбовичів noun:p:v_rod:ns
+Горбулів noun:m:v_naz
+  Горбулова noun:m:v_rod
+Гордашівка noun:f:v_naz
+  Гордашівки noun:f:v_rod
+Гординівка noun:f:v_naz
+  Гординівки noun:f:v_rod
+Гордівці noun:p:v_naz:ns
+  Гордівців noun:p:v_rod:ns
+Гордіївка noun:f:v_naz
+  Гордіївки noun:f:v_rod
+Гореничі noun:p:v_naz:ns
+  Гореничів noun:p:v_rod:ns
+Горзвин noun:m:v_naz
+  Горзвина noun:m:v_rod
+Горигляди noun:p:v_naz:ns
+  Гориглядів noun:p:v_rod:ns
+Гориничі noun:p:v_naz:ns
+  Гориничів noun:p:v_rod:ns
+Горинка noun:f:v_naz
+  Горинки noun:f:v_rod
+Гориньград noun:m:v_naz
+  Гориньграда noun:m:v_rod
+Гориславичі noun:p:v_naz:ns
+  Гориславичів noun:p:v_rod:ns
+Гориславці noun:p:v_naz:ns
+  Гориславців noun:p:v_rod:ns
+Гориця noun:f:v_naz
+  Гориці noun:f:v_rod
+Горичів noun:m:v_naz
+  Горичова noun:m:v_rod
+Горишківка noun:f:v_naz
+  Горишківки noun:f:v_rod
+Гор'ївка noun:f:v_naz
+  Гор'ївки noun:f:v_rod
+Горлинка noun:f:v_naz
+  Горлинки noun:f:v_rod
+Горлицьке noun:n:v_naz
+  Горлицького noun:n:v_rod
+Горностайпіль noun:m:v_naz
+  Горностайполя noun:m:v_rod
+Горобівка noun:f:v_naz
+  Горобівки noun:f:v_rod
+Горобії noun:p:v_naz:ns
+  Горобіїв noun:p:v_rod:ns
+Горобіївка noun:f:v_naz
+  Горобіївки noun:f:v_rod
+Гороб'ївка noun:f:v_naz
+  Гороб'ївки noun:f:v_rod
+Городещина noun:f:v_naz
+  Городещини noun:f:v_rod
+Городжів noun:m:v_naz
+  Городжева noun:m:v_rod
+Городилець noun:m:v_naz
+  Городильця noun:m:v_rod
+Городилів noun:m:v_naz
+  Городилова noun:m:v_rod
+Городиславичі noun:p:v_naz:ns
+  Городиславичів noun:p:v_rod:ns
+Городисько noun:n:v_naz
+  Городиська noun:n:v_rod
+Городківка noun:f:v_naz
+  Городківки noun:f:v_rod
+Городнявка noun:f:v_naz
+  Городнявки noun:f:v_rod
+Городовичі noun:p:v_naz:ns
+  Городовичів noun:p:v_rod:ns
+Городуватка noun:f:v_naz
+  Городуватки noun:f:v_rod
+Городчан noun:m:v_naz
+  Городчана noun:m:v_rod
+Городчин noun:m:v_naz
+  Городчина noun:m:v_rod
+Горожана noun:f:v_naz
+  Горожани noun:f:v_rod
+Горожанівка noun:f:v_naz
+  Горожанівки noun:f:v_rod
+Горожанка noun:f:v_naz
+  Горожанки noun:f:v_rod
+Горожанна noun:f:v_naz
+  Горожанни noun:f:v_rod
+Горожене noun:n:v_naz
+  Гороженого noun:n:v_rod
+Горонглаб noun:m:v_naz
+  Горонглаба noun:m:v_rod
+Горонда noun:f:v_naz
+  Горонди noun:f:v_rod
+Горопаї noun:p:v_naz:ns
+  Горопаїв noun:p:v_rod:ns
+Горохівка noun:f:v_naz
+  Горохівки noun:f:v_rod
+Гороховатка noun:f:v_naz
+  Гороховатки noun:f:v_rod
+Горохолин noun:m:v_naz
+  Горохолина noun:m:v_rod
+Горохолина noun:f:v_naz
+  Горохолини noun:f:v_rod
+Горохуватка noun:f:v_naz
+  Горохуватки noun:f:v_rod
+Горошине noun:n:v_naz
+  Горошиного noun:n:v_rod
+Горошівці noun:p:v_naz:ns
+  Горошівців noun:p:v_rod:ns
+Горошківка noun:f:v_naz
+  Горошківки noun:f:v_rod
+Горошова noun:f:v_naz
+  Горошової noun:f:v_rod
+Горпин noun:m:v_naz
+  Горпина noun:m:v_rod
+Горькове noun:n:v_naz
+  Горькового noun:n:v_rod
+Горяйстівка noun:f:v_naz
+  Горяйстівки noun:f:v_rod
+Горянівка noun:f:v_naz
+  Горянівки noun:f:v_rod
+Горянщина noun:f:v_naz
+  Горянщини noun:f:v_rod
+Горячівка noun:f:v_naz
+  Горячівки noun:f:v_rod
+Гостинцеве noun:n:v_naz
+  Гостинцевого noun:n:v_rod
+Гостів noun:m:v_naz
+  Гостова noun:m:v_rod
+Гостробури noun:p:v_naz:ns
+  Гостробурів noun:p:v_rod:ns
+Гостролуччя noun:n:v_naz
+  Гостролуччя noun:n:v_rod
+Гошів noun:m:v_naz
+  Гошева noun:m:v_rod
+Грабарівка noun:f:v_naz
+  Грабарівки noun:f:v_rod
+Грабине noun:n:v_naz
+  Грабиного noun:n:v_rod
+Грабинівка noun:f:v_naz
+  Грабинівки noun:f:v_rod
+Грабич noun:m:v_naz
+  Грабича noun:m:v_rod
+Грабичанка noun:f:v_naz
+  Грабичанки noun:f:v_rod
+Грабівка noun:f:v_naz
+  Грабівки noun:f:v_rod
+Грабівниця noun:f:v_naz
+  Грабівниці noun:f:v_rod
+Грабівці noun:p:v_naz:ns
+  Грабівців noun:p:v_rod:ns
+Грабівщина noun:f:v_naz
+  Грабівщини noun:f:v_rod
+Грабківці noun:p:v_naz:ns
+  Грабківців noun:p:v_rod:ns
+Грабник noun:m:v_naz
+  Грабника noun:m:v_rod
+Грабняк noun:m:v_naz
+  Грабняка noun:m:v_rod
+Грабське noun:n:v_naz
+  Грабського noun:n:v_rod
+Грабунь noun:m:v_naz
+  Грабуня noun:m:v_rod
+Грабщина noun:f:v_naz
+  Грабщини noun:f:v_rod
+Града noun:f:v_naz
+  Гради noun:f:v_rod
+Граддя noun:n:v_naz
+  Граддя noun:n:v_rod
+Градениці noun:p:v_naz:ns
+  Градениць noun:p:v_rod:ns
+Градиськ noun:m:v_naz
+  Градиська noun:m:v_rod
+Градівка noun:f:v_naz
+  Градівки noun:f:v_rod
+Градське noun:n:v_naz
+  Градського noun:n:v_rod
+Гражданівка noun:f:v_naz
+  Гражданівки noun:f:v_rod
+Гражданка noun:f:v_naz
+  Гражданки noun:f:v_rod
+Гракове noun:n:v_naz
+  Гракового noun:n:v_rod
+Грамине noun:n:v_naz
+  Граминого noun:n:v_rod
+Грамівка noun:f:v_naz
+  Грамівки noun:f:v_rod
+Гранівка noun:f:v_naz
+  Гранівки noun:f:v_rod
+Гранове noun:n:v_naz
+  Гранового noun:n:v_rod
+Грачівка noun:f:v_naz
+  Грачівки noun:f:v_rod
+Гребеники noun:p:v_naz:ns
+  Гребеників noun:p:v_rod:ns
+Гребениківка noun:f:v_naz
+  Гребениківки noun:f:v_rod
+Гребенюки noun:p:v_naz:ns
+  Гребенюків noun:p:v_rod:ns
+Гребеняки noun:p:v_naz:ns
+  Гребеняків noun:p:v_rod:ns
+Гредьки noun:p:v_naz:ns
+  Гредьків noun:p:v_rod:ns
+Грезля noun:f:v_naz
+  Грезлі noun:f:v_rod
+Грейгове noun:n:v_naz
+  Грейгового noun:n:v_rod
+Грекове noun:n:v_naz
+  Грекового noun:n:v_rod
+Греково-Зайцеве noun:n:v_naz
+  Греково-Зайцевого noun:n:v_rod
+Греково-Олександрівка noun:f:v_naz
+  Греково-Олександрівки noun:f:v_rod
+Грекопавлівка noun:f:v_naz
+  Грекопавлівки noun:f:v_rod
+Грелівка noun:f:v_naz
+  Грелівки noun:f:v_rod
+Грем'яча noun:f:v_naz
+  Грем'ячі noun:f:v_rod
+Грем'яче noun:n:v_naz
+  Грем'ячого noun:n:v_rod:np
+Грем'ячка noun:f:v_naz
+  Грем'ячки noun:f:v_rod
+Грем'яч noun:m:v_naz
+  Грем'яча noun:m:v_rod
+Гречаники noun:p:v_naz:ns
+  Гречаників noun:p:v_rod:ns
+Гречанівка noun:f:v_naz
+  Гречанівки noun:f:v_rod
+Гречинці noun:p:v_naz:ns
+  Гречинців noun:p:v_rod:ns
+Гречишкине noun:n:v_naz
+  Гречишкиного noun:n:v_rod
+Гречкине noun:n:v_naz
+  Гречкиного noun:n:v_rod
+Грибаньове noun:n:v_naz
+  Грибаньового noun:n:v_rod
+Грибенинка noun:f:v_naz
+  Грибенинки noun:f:v_rod
+Грибівка noun:f:v_naz
+  Грибівки noun:f:v_rod
+Грибівці noun:p:v_naz:ns
+  Грибівців noun:p:v_rod:ns
+Грибовиця noun:f:v_naz
+  Грибовиці noun:f:v_rod
+Грибоносове noun:n:v_naz
+  Грибоносового noun:n:v_rod
+Грибуваха noun:f:v_naz
+  Грибувахи noun:f:v_rod
+Грив'ятки noun:p:v_naz:ns
+  Грив'яток noun:p:v_rod:ns
+Григорівка noun:f:v_naz
+  Григорівки noun:f:v_rod
+Григорівщина noun:f:v_naz
+  Григорівщини noun:f:v_rod
+Григоро-Бригадирівка noun:f:v_naz
+  Григоро-Бригадирівки noun:f:v_rod
+Григоро-Іванівка noun:f:v_naz
+  Григоро-Іванівки noun:f:v_rod
+Григоросове noun:n:v_naz
+  Григоросового noun:n:v_rod
+Грижинці noun:p:v_naz:ns
+  Грижинців noun:p:v_rod:ns
+Грималівка noun:f:v_naz
+  Грималівки noun:f:v_rod
+Грим'ячка noun:f:v_naz
+  Грим'ячки noun:f:v_rod
+Гриненки noun:p:v_naz:ns
+  Гриненків noun:p:v_rod:ns
+Гринівка noun:f:v_naz
+  Гринівки noun:f:v_rod
+Гринівці noun:p:v_naz:ns
+  Гринівців noun:p:v_rod:ns
+Гринцеве noun:n:v_naz
+  Гринцевого noun:n:v_rod
+Гринців noun:m:v_naz
+  Гринцева noun:m:v_rod
+Гринчуки noun:p:v_naz:ns
+  Гринчуків noun:p:v_rod:ns
+Гриньки noun:p:v_naz:ns
+  Гриньків noun:p:v_rod:ns
+Гриньківці noun:p:v_naz:ns
+  Гриньківців noun:p:v_rod:ns
+Гринява noun:f:v_naz
+  Гриняви noun:f:v_rod
+Гринячка noun:f:v_naz
+  Гринячки noun:f:v_rod
+Грипаки noun:p:v_naz:ns
+  Грипаків noun:p:v_rod:ns
+Грицаєвка noun:f:v_naz
+  Грицаєвки noun:f:v_rod
+Грицаїв noun:m:v_naz
+  Грицаєва noun:m:v_rod
+Грицаївка noun:f:v_naz
+  Грицаївки noun:f:v_rod
+Грицеволя noun:f:v_naz
+  Грицеволі noun:f:v_rod
+Гриценкове noun:n:v_naz
+  Гриценкового noun:n:v_rod
+Грицини noun:p:v_naz:ns
+  Грицинів noun:p:v_rod:ns
+Грицівка noun:f:v_naz
+  Грицівки noun:f:v_rod
+Грицівці noun:p:v_naz:ns
+  Грицівців noun:p:v_rod:ns
+Гриціївка noun:f:v_naz
+  Гриціївки noun:f:v_rod
+Грицьки noun:p:v_naz:ns
+  Грицьків noun:p:v_rod:ns
+Грицьків noun:m:v_naz
+  Грицькова noun:m:v_rod
+Гришаї noun:p:v_naz:ns
+  Гришаїв noun:p:v_rod:ns
+Гришине noun:n:v_naz
+  Гришиного noun:n:v_rod
+Гришівка noun:f:v_naz
+  Гришівки noun:f:v_rod
+Гришівці noun:p:v_naz:ns
+  Гришівців noun:p:v_rod:ns
+Гришки noun:p:v_naz:ns
+  Гришків noun:p:v_rod:ns
+Гришківка noun:f:v_naz
+  Гришківки noun:f:v_rod
+Гришкове noun:n:v_naz
+  Гришкового noun:n:v_rod
+Грищинці noun:p:v_naz:ns
+  Грищинців noun:p:v_rod:ns
+Грімне noun:n:v_naz
+  Грімного noun:n:v_rod
+Грінченкове noun:n:v_naz
+  Грінченкового noun:n:v_rod
+Гробище noun:n:v_naz
+  Гробища noun:n:v_rod
+Гродзеве noun:n:v_naz
+  Гродзевого noun:n:v_rod
+Грозине noun:n:v_naz
+  Грозиного noun:n:v_rod
+Грозинці noun:p:v_naz:ns
+  Грозинців noun:p:v_rod:ns
+Грозів noun:m:v_naz
+  Грозова noun:m:v_rod
+Грозне noun:n:v_naz
+  Грозного noun:n:v_rod
+Громівка noun:f:v_naz
+  Громівки noun:f:v_rod
+Громовка noun:f:v_naz
+  Громовки noun:f:v_rod
+Громуха noun:f:v_naz
+  Громухи noun:f:v_rod
+Грузевиця noun:n:v_naz
+Грузинівка noun:f:v_naz
+  Грузинівки noun:f:v_rod
+Грузливець noun:m:v_naz
+  Грузливця noun:m:v_rod
+Грузянка noun:f:v_naz
+  Грузянки noun:f:v_rod
+Грузятин noun:m:v_naz
+  Грузятина noun:m:v_rod
+Груники noun:p:v_naz:ns
+  Груників noun:p:v_rod:ns
+Грунівка noun:f:v_naz
+  Грунівки noun:f:v_rod
+Грунь noun:f:v_naz
+  Груні noun:f:v_rod
+Грунька noun:f:v_naz
+  Груньки noun:f:v_rod
+Грусятичі noun:p:v_naz:ns
+  Грусятичів noun:p:v_rod:ns
+Грушатичі noun:p:v_naz:ns
+  Грушатичів noun:p:v_rod:ns
+Грушвиця noun:f:v_naz
+  Грушвиці noun:f:v_rod
+Грушине noun:n:v_naz
+  Грушиного noun:n:v_rod
+Грушів noun:m:v_naz
+  Грушева noun:m:v_rod
+Грушківка noun:f:v_naz
+  Грушківки noun:f:v_rod
+Грушківці noun:p:v_naz:ns
+  Грушківців noun:p:v_rod:ns
+Грушуватка noun:f:v_naz
+  Грушуватки noun:f:v_rod
+Грушувато-Криничне noun:n:v_naz
+  Грушувато-Криничного noun:n:v_rod
+Грушуваха noun:f:v_naz
+  Грушувахи noun:f:v_rod
+Грязеве noun:n:v_naz
+  Грязевого noun:n:v_rod
+Грякове noun:n:v_naz
+  Грякового noun:n:v_rod
+Грякувате noun:n:v_naz
+  Грякуватого noun:n:v_rod
+Гряниківка noun:f:v_naz
+  Гряниківки noun:f:v_rod
+Грянчиха noun:f:v_naz
+  Грянчихи noun:f:v_rod
+Губарів noun:m:v_naz
+  Губарева noun:m:v_rod
+Губарівка noun:f:v_naz
+  Губарівки noun:f:v_rod
+Губарівщина noun:f:v_naz
+  Губарівщини noun:f:v_rod
+Губачівка noun:f:v_naz
+  Губачівки noun:f:v_rod
+Губельці noun:p:v_naz:ns
+  Губельців noun:p:v_rod:ns
+Губенкове noun:n:v_naz
+  Губенкового noun:n:v_rod
+Губин noun:m:v_naz
+  Губина noun:m:v_rod
+Губичі noun:p:v_naz:ns
+  Губичів noun:p:v_rod:ns
+Губівка noun:f:v_naz
+  Губівки noun:f:v_rod
+Губків noun:m:v_naz
+  Губкова noun:m:v_rod
+Губник noun:m:v_naz
+  Губника noun:m:v_rod
+Губча noun:f:v_naz
+  Губчі noun:f:v_rod
+Губщина noun:f:v_naz
+  Губщини noun:f:v_rod
+Гудевичеве noun:n:v_naz
+  Гудевичевого noun:n:v_rod
+Гудзівка noun:f:v_naz
+  Гудзівки noun:f:v_rod
+Гудимівка noun:f:v_naz
+  Гудимівки noun:f:v_rod
+Гудівщина noun:f:v_naz
+  Гудівщини noun:f:v_rod
+Гудове noun:n:v_naz
+  Гудового noun:n:v_rod
+Гудя noun:n:v_naz
+  Гудя noun:n:v_rod
+Гужівка noun:f:v_naz
+  Гужівки noun:f:v_rod
+Гузіїв noun:m:v_naz
+  Гузієва noun:m:v_rod
+Гукалівці noun:p:v_naz:ns
+  Гукалівців noun:p:v_rod:ns
+Гуків noun:m:v_naz
+  Гукова noun:m:v_rod
+Гуківка noun:f:v_naz
+  Гуківки noun:f:v_rod
+Гукливий noun:m:v_naz
+  Гукливого noun:m:v_rod
+Гукове noun:n:v_naz
+  Гукового noun:n:v_rod
+Гулаківка noun:f:v_naz
+  Гулаківки noun:f:v_rod
+Гуліве noun:n:v_naz
+  Гулівого noun:n:v_rod
+Гулівка noun:f:v_naz
+  Гулівки noun:f:v_rod
+Гулівці noun:p:v_naz:ns
+  Гулівців noun:p:v_rod:ns
+Гульськ noun:m:v_naz
+  Гульська noun:m:v_rod
+Гуляївка noun:f:v_naz
+  Гуляївки noun:f:v_rod
+Гуляйгородок noun:m:v_naz
+  Гуляйгородка noun:m:v_rod
+Гуляйка noun:f:v_naz
+  Гуляйки noun:f:v_rod
+Гуманець noun:m:v_naz
+  Гуманця noun:m:v_rod
+Гуменець noun:m:v_naz
+  Гуменця noun:m:v_rod
+Гуменці noun:p:v_naz:ns
+  Гуменців noun:p:v_rod:ns
+Гумнище noun:n:v_naz
+  Гумнища noun:n:v_rod
+Гуничі noun:p:v_naz:ns
+  Гуничів noun:p:v_rod:ns
+Гунча noun:f:v_naz
+  Гунчі noun:f:v_rod
+Гуньківка noun:f:v_naz
+  Гуньківки noun:f:v_rod
+Гупалівка noun:f:v_naz
+  Гупалівки noun:f:v_rod
+Гурбинці noun:p:v_naz:ns
+  Гурбинців noun:p:v_rod:ns
+Гурине noun:n:v_naz
+  Гуриного noun:n:v_rod
+Гуринівка noun:f:v_naz
+  Гуринівки noun:f:v_rod
+Гурівка noun:f:v_naz
+  Гурівки noun:f:v_rod
+Гурівці noun:p:v_naz:ns
+  Гурівців noun:p:v_rod:ns
+Гурівщина noun:f:v_naz
+  Гурівщини noun:f:v_rod
+Гур'ївка noun:f:v_naz
+  Гур'ївки noun:f:v_rod
+Гур'їв noun:m:v_naz
+  Гур'єва noun:m:v_rod
+Гуртовівка noun:f:v_naz
+  Гуртовівки noun:f:v_rod
+Гурщина noun:f:v_naz
+  Гурщини noun:f:v_rod
+Гусавка noun:f:v_naz
+  Гусавки noun:f:v_rod
+Гусарівка noun:f:v_naz
+  Гусарівки noun:f:v_rod
+Гусарщина noun:f:v_naz
+  Гусарщини noun:f:v_rod
+Гусачівка noun:f:v_naz
+  Гусачівки noun:f:v_rod
+Гусельщикове noun:n:v_naz
+  Гусельщикового noun:n:v_rod
+Гусинка noun:f:v_naz
+  Гусинки noun:f:v_rod
+Гусівка noun:f:v_naz
+  Гусівки noun:f:v_rod
+Гуслівка noun:f:v_naz
+  Гуслівки noun:f:v_rod
+Гусний noun:m:v_naz
+  Гусного noun:m:v_rod
+Густиня noun:f:v_naz
+  Густині noun:f:v_rod
+Гута-Бушинська noun:f:v_naz
+  Гута-Бушинської noun:f:v_rod
+Гута-Добринь noun:f:v_naz
+  Гута-Добрині noun:f:v_rod
+Гута-Забілоцька noun:f:v_naz
+  Гута-Забілоцької noun:f:v_rod
+Гута-Зеленицька noun:f:v_naz
+  Гута-Зеленицької noun:f:v_rod
+Гута-Лісівська noun:f:v_naz
+  Гута-Лісівської noun:f:v_rod
+Гута-Логанівська noun:f:v_naz
+  Гута-Логанівської noun:f:v_rod
+Гута-Мовчанська noun:f:v_naz
+  Гута-Мовчанської noun:f:v_rod
+Гута-Морозівська noun:f:v_naz
+  Гута-Морозівської noun:f:v_rod
+Гута-Потіївка noun:f:v_naz
+  Гута-Потіївки noun:f:v_rod
+Гута-Селицька noun:f:v_naz
+  Гута-Селицької noun:f:v_rod
+Гута-Стеблівська noun:f:v_naz
+  Гута-Стеблівської noun:f:v_rod
+Гута-Студенецька noun:f:v_naz
+  Гута-Студенецької noun:f:v_rod
+Гута-Чугорська noun:f:v_naz
+  Гута-Чугорської noun:f:v_rod
+Гута-Шершнівська noun:f:v_naz
+  Гута-Шершнівської noun:f:v_rod
+Гута-Юстинівка noun:f:v_naz
+  Гута-Юстинівки noun:f:v_rod
+Гута-Яцьковецька noun:f:v_naz
+  Гута-Яцьковецької noun:f:v_rod
+Гутирівка noun:f:v_naz
+  Гутирівки noun:f:v_rod
+Гутисько-Тур'янське noun:n:v_naz
+  Гутисько-Тур'янського noun:n:v_rod
+Гутище noun:n:v_naz
+  Гутища noun:n:v_rod
+Гутка noun:f:v_naz
+  Гутки noun:f:v_rod
+Гутко-Ожинка noun:f:v_naz
+  Гутко-Ожинки noun:f:v_rod
+Гуто-Мар'ятин noun:m:v_naz
+  Гуто-Мар'ятина noun:m:v_rod
+Гуцулівка noun:f:v_naz
+  Гуцулівки noun:f:v_rod
+Гучин noun:m:v_naz
+  Гучина noun:m:v_rod
+Гуштин noun:m:v_naz
+  Гуштина noun:m:v_rod
+Гуштинка noun:f:v_naz
+  Гуштинки noun:f:v_rod
+Гущанки noun:p:v_naz:ns
+  Гущанок noun:p:v_rod:ns
+Гущинці noun:p:v_naz:ns
+  Гущинців noun:p:v_rod:ns
+Гюнівка noun:f:v_naz
+  Гюнівки noun:f:v_rod
+Дабинівка noun:f:v_naz
+  Дабинівки noun:f:v_rod
+Давиденки noun:p:v_naz:ns
+  Давиденків noun:p:v_rod:ns
+Давидівка noun:f:v_naz
+  Давидівки noun:f:v_rod
+Давидівці noun:p:v_naz:ns
+  Давидівців noun:p:v_rod:ns
+Давидки noun:p:v_naz:ns
+  Давидків noun:p:v_rod:ns
+Давидківці noun:p:v_naz:ns
+  Давидківців noun:p:v_rod:ns
+Давидо-Микільське noun:n:v_naz
+  Давидо-Микільського noun:n:v_rod
+Дадакалівка noun:f:v_naz
+  Дадакалівки noun:f:v_rod
+Дакалівка noun:f:v_naz
+  Дакалівки noun:f:v_rod
+Далешове noun:n:v_naz
+  Далешового noun:n:v_rod
+Дальне noun:n:v_naz
+  Дального noun:n:v_rod
+Дальник noun:m:v_naz
+  Дальника noun:m:v_rod
+Дальнич noun:m:v_naz
+  Дальнича noun:m:v_rod
+Дальнічень noun:f:v_naz
+  Дальнічені noun:f:v_rod
+Далява noun:f:v_naz
+  Даляви noun:f:v_rod
+Данилки noun:p:v_naz:ns
+  Данилків noun:p:v_rod:ns
+Данильче noun:n:v_naz
+  Данильчого noun:n:v_rod:np
+Данильчин noun:m:v_naz
+  Данильчина noun:m:v_rod
+Данине noun:n:v_naz
+  Даниного noun:n:v_rod
+Даничі noun:p:v_naz:ns
+  Даничів noun:p:v_rod:ns
+Даничів noun:m:v_naz
+  Даничева noun:m:v_rod
+Данівка noun:f:v_naz
+  Данівки noun:f:v_rod
+Данківці noun:p:v_naz:ns
+  Данківців noun:p:v_rod:ns
+Данчиміст noun:m:v_naz
+  Данчиміста noun:m:v_rod
+Даньківка noun:f:v_naz
+  Даньківки noun:f:v_rod
+Даньківці noun:p:v_naz:ns
+  Даньківців noun:p:v_rod:ns
+Данюки noun:p:v_naz:ns
+  Данюків noun:p:v_rod:ns
+Дараганове noun:n:v_naz
+  Дараганового noun:n:v_rod
+Дарахів noun:m:v_naz
+  Дарахова noun:m:v_rod
+Дарівка noun:f:v_naz
+  Дарівки noun:f:v_rod
+Дар'ївка noun:f:v_naz
+  Дар'ївки noun:f:v_rod
+Дар'їно-Єрмаківка noun:f:v_naz
+  Дар'їно-Єрмаківки noun:f:v_rod
+Датинь noun:f:v_naz
+  Датині noun:f:v_rod
+Дахнівка noun:f:v_naz
+  Дахнівки noun:f:v_rod
+Дахталія noun:f:v_naz
+  Дахталії noun:f:v_rod
+Даценківка noun:f:v_naz
+  Даценківки noun:f:v_rod
+Дації noun:p:v_naz:ns
+  Даціїв noun:p:v_rod:ns
+Дацьки noun:p:v_naz:ns
+  Дацьків noun:p:v_rod:ns
+Дашинка noun:f:v_naz
+  Дашинки noun:f:v_rod
+Дашківка noun:f:v_naz
+  Дашківки noun:f:v_rod
+Дашківці noun:p:v_naz:ns
+  Дашківців noun:p:v_rod:ns
+Дашуківка noun:f:v_naz
+  Дашуківки noun:f:v_rod
+Дащенки noun:p:v_naz:ns
+  Дащенків noun:p:v_rod:ns
+Двірець noun:m:v_naz
+  Двірця noun:m:v_rod
+Двірківщина noun:f:v_naz
+  Двірківщини noun:f:v_rod
+Двірці noun:p:v_naz:ns
+  Двірців noun:p:v_rod:ns
+Дворовичі noun:p:v_naz:ns
+  Дворовичів noun:p:v_rod:ns
+Дебеславці noun:p:v_naz:ns
+  Дебеславців noun:p:v_rod:ns
+Дебреве noun:n:v_naz
+  Дебревого noun:n:v_rod
+Дебрі noun:p:v_naz:ns
+  Дебрів noun:p:v_rod:ns
+Девладове noun:n:v_naz
+  Девладового noun:n:v_rod
+Дев'ятибратове noun:n:v_naz
+  Дев'ятибратового noun:n:v_rod
+Дев'ятир noun:m:v_naz
+  Дев'ятира noun:m:v_rod
+Дев'ятники noun:p:v_naz:ns
+  Дев'ятників noun:p:v_rod:ns
+Дегова noun:f:v_naz
+  Дегової noun:f:v_rod
+Дегтярка noun:f:v_naz
+  Дегтярки noun:f:v_rod
+Дегтярне noun:n:v_naz
+  Дегтярного noun:n:v_rod
+Дедеркали noun:p:v_naz:ns
+  Дедеркалів noun:p:v_rod:ns
+Дейкалівка noun:f:v_naz
+  Дейкалівки noun:f:v_rod
+Дейманівка noun:f:v_naz
+  Дейманівки noun:f:v_rod
+Дейнеківка noun:f:v_naz
+  Дейнеківки noun:f:v_rod
+Деконка noun:f:v_naz
+  Деконки noun:f:v_rod
+Делева noun:f:v_naz
+  Делеви noun:f:v_rod
+Делень noun:f:v_naz
+  Делені noun:f:v_rod
+Делета noun:f:v_naz
+  Делети noun:f:v_rod
+Делієве noun:n:v_naz
+  Делієвого noun:n:v_rod
+Деменки noun:p:v_naz:ns
+  Деменків noun:p:v_rod:ns
+Деменкове noun:n:v_naz
+  Деменкового noun:n:v_rod
+Дементівка noun:f:v_naz
+  Дементівки noun:f:v_rod
+Дементіївка noun:f:v_naz
+  Дементіївки noun:f:v_rod
+Деменці noun:p:v_naz:ns
+  Деменців noun:p:v_rod:ns
+Демечі noun:p:v_naz:ns
+  Демечів noun:p:v_rod:ns
+Демешківці noun:p:v_naz:ns
+  Демешківців noun:p:v_rod:ns
+Демешкове noun:n:v_naz
+  Демешкового noun:n:v_rod
+Демина noun:f:v_naz
+  Демини noun:f:v_rod
+Деминівка noun:f:v_naz
+  Деминівки noun:f:v_rod
+Демино-Олександрівка noun:f:v_naz
+  Демино-Олександрівки noun:f:v_rod
+Демівка noun:f:v_naz
+  Демівки noun:f:v_rod
+Демівщина noun:f:v_naz
+  Демівщини noun:f:v_rod
+Демки noun:p:v_naz:ns
+  Демків noun:p:v_rod:ns
+Демківка noun:f:v_naz
+  Демківки noun:f:v_rod
+Демківці noun:p:v_naz:ns
+  Демківців noun:p:v_rod:ns
+Демкове noun:n:v_naz
+  Демкового noun:n:v_rod
+Демня noun:f:v_naz
+  Демні noun:f:v_rod
+Демурине-Варварівка noun:f:v_naz
+  Демурине-Варварівки noun:f:v_rod
+Демченки noun:p:v_naz:ns
+  Демченків noun:p:v_rod:ns
+Демченкове noun:n:v_naz
+  Демченкового noun:n:v_rod
+Демчин noun:m:v_naz
+  Демчина noun:m:v_rod
+Демшин noun:m:v_naz
+  Демшина noun:m:v_rod
+Дем'янівка noun:f:v_naz
+  Дем'янівки noun:f:v_rod
+Дем'янки noun:p:v_naz:ns
+  Дем'янків noun:p:v_rod:ns
+Дем'янківці noun:p:v_naz:ns
+  Дем'янківців noun:p:v_rod:ns
+Дем'янці noun:p:v_naz:ns
+  Дем'янців noun:p:v_rod:ns
+Денежникове noun:n:v_naz
+  Денежникового noun:n:v_rod
+Дениси noun:p:v_naz:ns
+  Денисів noun:p:v_rod:ns
+Денисівка noun:f:v_naz
+  Денисівки noun:f:v_rod
+Денихівка noun:f:v_naz
+  Денихівки noun:f:v_rod
+Дениші noun:p:v_naz:ns
+  Денишів noun:p:v_rod:ns
+Депрерадівка noun:f:v_naz
+  Депрерадівки noun:f:v_rod
+Дептівка noun:f:v_naz
+  Дептівки noun:f:v_rod
+Деражне noun:n:v_naz
+  Деражного noun:n:v_rod
+Дерганівка noun:f:v_naz
+  Дерганівки noun:f:v_rod
+Деребчин noun:m:v_naz
+  Деребчина noun:m:v_rod
+Деребчинка noun:f:v_naz
+  Деребчинки noun:f:v_rod
+Деревач noun:m:v_naz
+  Деревача noun:m:v_rod
+Деревичі noun:p:v_naz:ns
+  Деревичів noun:p:v_rod:ns
+Деревичка noun:f:v_naz
+  Деревички noun:f:v_rod
+Деревищина noun:f:v_naz
+  Деревищини noun:f:v_rod
+Деревки noun:p:v_naz:ns
+  Деревків noun:p:v_rod:ns
+Деревня noun:f:v_naz
+  Деревні noun:f:v_rod
+Деревок noun:m:v_naz
+  Деревка noun:m:v_rod
+Дерев'янче noun:n:v_naz
+  Дерев'янча noun:n:v_rod
+Дерегівка noun:f:v_naz
+  Дерегівки noun:f:v_rod
+Дережичі noun:p:v_naz:ns
+  Дережичів noun:p:v_rod:ns
+Дерезівка noun:f:v_naz
+  Дерезівки noun:f:v_rod
+Дерезувате noun:n:v_naz
+  Дерезуватого noun:n:v_rod
+Дереківщина noun:f:v_naz
+  Дереківщини noun:f:v_rod
+Деремезна noun:f:v_naz
+  Деремезної noun:f:v_rod
+Деренковець noun:m:v_naz
+  Деренковця noun:m:v_rod
+Дерепівка noun:f:v_naz
+  Дерепівки noun:f:v_rod
+Дерешова noun:f:v_naz
+  Дерешової noun:f:v_rod
+Держанівка noun:f:v_naz
+  Держанівки noun:f:v_rod
+Держанка noun:f:v_naz
+  Держанки noun:f:v_rod
+Держів noun:m:v_naz
+  Держева noun:m:v_rod
+Дерилове noun:n:v_naz
+  Дерилового noun:n:v_rod
+Дерієвка noun:f:v_naz
+  Дерієвки noun:f:v_rod
+Деріївка noun:f:v_naz
+  Деріївки noun:f:v_rod
+Деркачівка noun:f:v_naz
+  Деркачівки noun:f:v_rod
+Деркул noun:m:v_naz
+  Деркула noun:m:v_rod
+Дерманка noun:f:v_naz
+  Дерманки noun:f:v_rod
+Дермань noun:f:v_naz
+  Дермані noun:f:v_rod
+Дернаки noun:p:v_naz:ns
+  Дернаків noun:p:v_rod:ns
+Дернівка noun:f:v_naz
+  Дернівки noun:f:v_rod
+Дерсове noun:n:v_naz
+  Дерсового noun:n:v_rod
+Дертка noun:f:v_naz
+  Дертки noun:f:v_rod
+Дерцен noun:m:v_naz
+  Дерцена noun:m:v_rod
+Деряги noun:p:v_naz:ns
+  Деряг noun:p:v_rod:ns
+Деснянка noun:f:v_naz
+  Деснянки noun:f:v_rod
+Дехтярка noun:f:v_naz
+  Дехтярки noun:f:v_rod
+Дешичі noun:p:v_naz:ns
+  Дешичів noun:p:v_rod:ns
+Дешки noun:p:v_naz:ns
+  Дешків noun:p:v_rod:ns
+Дешковиця noun:f:v_naz
+  Дешковиці noun:f:v_rod
+Джгун noun:m:v_naz
+  Джгуна noun:m:v_rod
+Джемільне noun:n:v_naz
+  Джемільного noun:n:v_rod
+Джугастра noun:f:v_naz
+  Джугастри noun:f:v_rod
+Джугастрове noun:n:v_naz
+  Джугастрового noun:n:v_rod
+Джулинка noun:f:v_naz
+  Джулинки noun:f:v_rod
+Джуржівка noun:f:v_naz
+  Джуржівки noun:f:v_rod
+Джурин noun:m:v_naz
+  Джурина noun:m:v_rod
+Джуринці noun:p:v_naz:ns
+  Джуринців noun:p:v_rod:ns
+Джурів noun:m:v_naz
+  Джурова noun:m:v_rod
+Джурків noun:m:v_naz
+  Джуркова noun:m:v_rod
+Дзвенигород noun:m:v_naz
+  Дзвенигорода noun:m:v_rod
+Дзвиняч noun:m:v_naz
+  Дзвиняча noun:m:v_rod
+Дзвинячка noun:f:v_naz
+  Дзвинячки noun:f:v_rod
+Дзвониха noun:f:v_naz
+  Дзвонихи noun:f:v_rod
+Дзеленці noun:p:v_naz:ns
+  Дзеленців noun:p:v_rod:ns
+Дземброня noun:f:v_naz
+  Дземброні noun:f:v_rod
+Дзензелівка noun:f:v_naz
+  Дзензелівки noun:f:v_rod
+Дзержинівка noun:f:v_naz
+  Дзержинівки noun:f:v_rod
+Дзеркалька noun:f:v_naz
+  Дзеркальки noun:f:v_rod
+Дзигівка noun:f:v_naz
+  Дзигівки noun:f:v_rod
+Дзинілор noun:m:v_naz
+  Дзинілора noun:m:v_rod
+Дзюбанівка noun:f:v_naz
+  Дзюбанівки noun:f:v_rod
+Дзюбівка noun:f:v_naz
+  Дзюбівки noun:f:v_rod
+Дзюбівщина noun:f:v_naz
+  Дзюбівщини noun:f:v_rod
+Дзюброве noun:n:v_naz
+  Дзюбрового noun:n:v_rod
+Дзюньків noun:m:v_naz
+  Дзюнькова noun:m:v_rod
+Дибинці noun:p:v_naz:ns
+  Дибинців noun:p:v_rod:ns
+Дибще noun:n:v_naz
+  Дибща noun:n:v_rod
+Диб'янки noun:p:v_naz:ns
+  Диб'янків noun:p:v_rod:ns
+Дивень noun:f:v_naz
+  Дивені noun:f:v_rod
+Дивлин noun:m:v_naz
+  Дивлина noun:m:v_rod
+Дидятичі noun:p:v_naz:ns
+  Дидятичів noun:p:v_rod:ns
+Дийда noun:f:v_naz
+  Дийди noun:f:v_rod
+Диків noun:m:v_naz
+  Дикова noun:m:v_rod
+Диківка noun:f:v_naz
+  Диківки noun:f:v_rod
+Дикове noun:n:v_naz
+  Дикового noun:n:v_rod
+Диковичеве noun:n:v_naz
+  Диковичевого noun:n:v_rod
+Диліївка noun:f:v_naz
+  Диліївки noun:f:v_rod
+Димарка noun:f:v_naz
+  Димарки noun:f:v_rod
+Димине noun:n:v_naz
+  Диминого noun:n:v_rod
+Димка noun:f:v_naz
+  Димки noun:f:v_rod
+Динівці noun:p:v_naz:ns
+  Динівців noun:p:v_rod:ns
+Дирдин noun:m:v_naz
+  Дирдина noun:m:v_rod
+Дирчин noun:m:v_naz
+  Дирчина noun:m:v_rod
+Дитиничі noun:p:v_naz:ns
+  Дитиничів noun:p:v_rod:ns
+Дитятин noun:m:v_naz
+  Дитятина noun:m:v_rod
+Дитятки noun:p:v_naz:ns
+  Дитятків noun:p:v_rod:ns
+Диханівка noun:f:v_naz
+  Диханівки noun:f:v_rod
+Дихтинець noun:m:v_naz
+  Дихтинця noun:m:v_rod
+Дическулове noun:n:v_naz
+  Дическулового noun:n:v_rod
+Дичків noun:m:v_naz
+  Дичкова noun:m:v_rod
+Дібрівка noun:f:v_naz
+  Дібрівки noun:f:v_rod
+Дібрівки noun:p:v_naz:ns
+  Дібрівків noun:p:v_rod:ns
+Дібрівне noun:n:v_naz
+  Дібрівного noun:n:v_rod
+Дібрівськ noun:m:v_naz
+  Дібрівська noun:m:v_rod
+Дібровинці noun:p:v_naz:ns
+  Дібровинців noun:p:v_rod:ns
+Діброво-Ленінське noun:n:v_naz
+  Діброво-Ленінського noun:n:v_rod
+Дівички noun:p:v_naz:ns
+  Дівичків noun:p:v_rod:ns
+Дівочина noun:f:v_naz
+  Дівочини noun:f:v_rod
+Дівошин noun:m:v_naz
+  Дівошина noun:m:v_rod
+Дігори noun:p:v_naz:ns
+  Дігорів noun:p:v_rod:ns
+Дігтів noun:m:v_naz
+  Дігтева noun:m:v_rod
+Дігтярівка noun:f:v_naz
+  Дігтярівки noun:f:v_rod
+Дігтярка noun:f:v_naz
+  Дігтярки noun:f:v_rod
+Діденкове noun:n:v_naz
+  Діденкового noun:n:v_rod
+Дідилів noun:m:v_naz
+  Дідилова noun:m:v_rod
+Дідівка noun:f:v_naz
+  Дідівки noun:f:v_rod
+Дідівці noun:p:v_naz:ns
+  Дідівців noun:p:v_rod:ns
+Дідківці noun:p:v_naz:ns
+  Дідківців noun:p:v_rod:ns
+Дідковичі noun:p:v_naz:ns
+  Дідковичів noun:p:v_rod:ns
+Дідушичі noun:p:v_naz:ns
+  Дідушичів noun:p:v_rod:ns
+Дітинець noun:m:v_naz
+  Дітинця noun:m:v_rod
+Дітківці noun:p:v_naz:ns
+  Дітківців noun:p:v_rod:ns
+Дмитрашківка noun:f:v_naz
+  Дмитрашківки noun:f:v_rod
+Дмитренки noun:p:v_naz:ns
+  Дмитренків noun:p:v_rod:ns
+Дмитро-Білівка noun:f:v_naz
+  Дмитро-Білівки noun:f:v_rod
+Дмитро-Дар'ївка noun:f:v_naz
+  Дмитро-Дар'ївки noun:f:v_rod
+Дмитроколине noun:n:v_naz
+  Дмитроколиного noun:n:v_rod
+Дмитрушки noun:p:v_naz:ns
+  Дмитрушків noun:p:v_rod:ns
+Дмухайлівка noun:f:v_naz
+  Дмухайлівки noun:f:v_rod
+Дмухівці noun:p:v_naz:ns
+  Дмухівців noun:p:v_rod:ns
+Дніпрельстан noun:m:v_naz
+  Дніпрельстана noun:m:v_rod
+Дніпровка noun:f:v_naz
+  Дніпровки noun:f:v_rod
+Дніпровокам'янка noun:f:v_naz
+  Дніпровокам'янки noun:f:v_rod
+Дніпроенергія noun:f:v_naz
+  Дніпроенергії noun:f:v_rod
+Дністрик noun:m:v_naz
+  Дністрика noun:m:v_rod
+Дністрівка noun:f:v_naz
+  Дністрівки noun:f:v_rod
+Дністровець noun:m:v_naz
+  Дністровця noun:m:v_rod
+Добощівка noun:f:v_naz
+  Добощівки noun:f:v_rod
+Добраничівка noun:f:v_naz
+  Добраничівки noun:f:v_rod
+Добривода noun:f:v_naz
+  Добриводи noun:f:v_rod
+Добриднівка noun:f:v_naz
+  Добриднівки noun:f:v_rod
+Добрин noun:m:v_naz
+  Добрина noun:m:v_rod
+Добринів noun:m:v_naz
+  Добринова noun:m:v_rod
+Добринівці noun:p:v_naz:ns
+  Добринівців noun:p:v_rod:ns
+Добринь noun:f:v_naz
+  Добрині noun:f:v_rod
+Добринька noun:f:v_naz
+  Добриньки noun:f:v_rod
+Добрівка noun:f:v_naz
+  Добрівки noun:f:v_rod
+Добрівляни noun:p:v_naz:ns
+  Добрівлян noun:p:v_rod:ns
+Добрік noun:m:v_naz
+  Добріка noun:m:v_rod
+Добровілля noun:n:v_naz
+  Добровілля noun:n:v_rod
+Добровляни noun:p:v_naz:ns
+  Добровлян noun:p:v_rod:ns
+Доброводи noun:p:v_naz:ns
+  Доброводів noun:p:v_rod:ns
+Добровольчеське noun:n:v_naz
+  Добровольчеського noun:n:v_rod
+Доброгірське noun:n:v_naz
+  Доброгірського noun:n:v_rod
+Доброгорща noun:f:v_naz
+  Доброгорщі noun:f:v_rod
+Доброгостів noun:m:v_naz
+  Доброгостова noun:m:v_rod
+Доброжанівка noun:f:v_naz
+  Доброжанівки noun:f:v_rod
+Доброжанове noun:n:v_naz
+  Доброжанового noun:n:v_rod
+Доброкам'янка noun:f:v_naz
+  Доброкам'янки noun:f:v_rod
+Добролюбівка noun:f:v_naz
+  Добролюбівки noun:f:v_rod
+Добролюбовка noun:f:v_naz
+  Добролюбовки noun:f:v_rod
+Добромірка noun:f:v_naz
+  Добромірки noun:f:v_rod
+Добронадіївка noun:f:v_naz
+  Добронадіївки noun:f:v_rod
+Добронь noun:f:v_naz
+  Доброні noun:f:v_rod
+Доброолександрівка noun:f:v_naz
+  Доброолександрівки noun:f:v_rod
+Доброполе noun:n:v_naz
+  Доброполя noun:n:v_rod
+Добросин noun:m:v_naz
+  Добросина noun:m:v_rod
+Добросілля noun:n:v_naz
+  Добросілля noun:n:v_rod
+Доброславівка noun:f:v_naz
+  Доброславівки noun:f:v_rod
+Добростани noun:p:v_naz:ns
+  Добростанів noun:p:v_rod:ns
+Добротимофіївка noun:f:v_naz
+  Добротимофіївки noun:f:v_rod
+Добротів noun:m:v_naz
+  Добротова noun:m:v_rod
+Добротове noun:n:v_naz
+  Добротового noun:n:v_rod
+Добрушине noun:n:v_naz
+  Добрушиного noun:n:v_rod
+Добряни noun:p:v_naz:ns
+  Добрянів noun:p:v_rod:ns
+Добряничі noun:p:v_naz:ns
+  Добряничів noun:p:v_rod:ns
+Добрятин noun:m:v_naz
+  Добрятина noun:m:v_rod
+Добрячин noun:m:v_naz
+  Добрячина noun:m:v_rod
+Довбине noun:n:v_naz
+  Довбиного noun:n:v_rod
+Довбнівка noun:f:v_naz
+  Довбнівки noun:f:v_rod
+Довгалеве noun:n:v_naz
+  Довгалевого noun:n:v_rod
+Довгалівка noun:f:v_naz
+  Довгалівки noun:f:v_rod
+Довгиничі noun:p:v_naz:ns
+  Довгиничів noun:p:v_rod:ns
+Довгів noun:m:v_naz
+  Довгова noun:m:v_rod
+Довгівка noun:f:v_naz
+  Довгівки noun:f:v_rod
+Довгове noun:n:v_naz
+  Довгового noun:n:v_rod
+Довговоля noun:f:v_naz
+  Довговолі noun:f:v_rod
+Довголука noun:f:v_naz
+  Довголуки noun:f:v_rod
+Довгопілля noun:n:v_naz
+  Довгопілля noun:n:v_rod
+Довгополівка noun:f:v_naz
+  Довгополівки noun:f:v_rod
+Довгуни noun:p:v_naz:ns
+  Довгунів noun:p:v_rod:ns
+Довжанка noun:f:v_naz
+  Довжанки noun:f:v_rod
+Довженки noun:p:v_naz:ns
+  Довженків noun:p:v_rod:ns
+Довжиця noun:f:v_naz
+  Довжиці noun:f:v_rod
+Довжка noun:f:v_naz
+  Довжки noun:f:v_rod
+Довжки noun:p:v_naz:ns
+  Довжків noun:p:v_rod:ns
+Довжок noun:m:v_naz
+  Довжка noun:m:v_rod
+Довпотів noun:m:v_naz
+  Довпотова noun:m:v_rod
+Догмарівка noun:f:v_naz
+  Догмарівки noun:f:v_rod
+Дожва noun:f:v_naz
+  Дожви noun:f:v_rod
+Докучаєве noun:n:v_naz
+  Докучаєвого noun:n:v_rod
+Долинівка noun:f:v_naz
+  Долинівки noun:f:v_rod
+Долинівці noun:p:v_naz:ns
+  Долинівців noun:p:v_rod:ns
+Долино-Кам'янка noun:f:v_naz
+  Долино-Кам'янки noun:f:v_rod
+Долиняни noun:p:v_naz:ns
+  Долинян noun:p:v_rod:ns
+Долматівка noun:f:v_naz
+  Долматівки noun:f:v_rod
+Долобів noun:m:v_naz
+  Долобова noun:m:v_rod
+Долоччя noun:n:v_naz
+  Долоччя noun:n:v_rod
+Дольськ noun:m:v_naz
+  Дольська noun:m:v_rod
+Домажир noun:m:v_naz
+  Домажира noun:m:v_rod
+Домаморич noun:m:v_naz
+  Домаморича noun:m:v_rod
+Доманове noun:n:v_naz
+  Доманового noun:n:v_rod
+Домантівка noun:f:v_naz
+  Домантівки noun:f:v_rod
+Домантове noun:n:v_naz
+  Домантового noun:n:v_rod
+Домашин noun:m:v_naz
+  Домашина noun:m:v_rod
+Домашів noun:m:v_naz
+  Домашева noun:m:v_rod
+Домашлин noun:m:v_naz
+  Домашлина noun:m:v_rod
+Домбоки noun:p:v_naz:ns
+  Домбоків noun:p:v_rod:ns
+Домолоч noun:f:v_naz
+  Домолочі noun:f:v_rod
+Домотканів noun:m:v_naz
+  Домотканова noun:m:v_rod
+Домоткань noun:f:v_naz
+  Домоткані noun:f:v_rod
+Дондасівка noun:f:v_naz
+  Дондасівки noun:f:v_rod
+Донцівка noun:f:v_naz
+  Донцівки noun:f:v_rod
+Донцівщина noun:f:v_naz
+  Донцівщини noun:f:v_rod
+Дончине noun:n:v_naz
+  Дончиного noun:n:v_rod
+Доробратове noun:n:v_naz
+  Доробратового noun:n:v_rod
+Дороганівка noun:f:v_naz
+  Дороганівки noun:f:v_rod
+Дорогиничі noun:p:v_naz:ns
+  Дорогиничів noun:p:v_rod:ns
+Дорогинка noun:f:v_naz
+  Дорогинки noun:f:v_rod
+Дорогинь noun:f:v_naz
+  Дорогині noun:f:v_rod
+Дорогичівка noun:f:v_naz
+  Дорогичівки noun:f:v_rod
+Дорогів noun:m:v_naz
+  Дорогова noun:m:v_rod
+Дорогобуж noun:m:v_naz
+  Дорогобужа noun:m:v_rod
+Дорогостаї noun:p:v_naz:ns
+  Дорогостаїв noun:p:v_rod:ns
+Дорогунь noun:f:v_naz
+  Дорогуні noun:f:v_rod
+Дорожинка noun:f:v_naz
+  Дорожинки noun:f:v_rod
+Дорожів noun:m:v_naz
+  Дорожева noun:m:v_rod
+Дорожне noun:n:v_naz
+  Дорожного noun:n:v_rod
+Дорожнянка noun:f:v_naz
+  Дорожнянки noun:f:v_rod
+Доросині noun:p:v_naz:ns
+  Доросинів noun:p:v_rod:ns
+Доротище noun:n:v_naz
+  Доротища noun:n:v_rod
+Дорофіївка noun:f:v_naz
+  Дорофіївки noun:f:v_rod
+Дорошенкове noun:n:v_naz
+  Дорошенкового noun:n:v_rod
+Дорошівка noun:f:v_naz
+  Дорошівки noun:f:v_rod
+Дорошівці noun:p:v_naz:ns
+  Дорошівців noun:p:v_rod:ns
+Досін noun:m:v_naz
+  Досіна noun:m:v_rod
+Дофінівка noun:f:v_naz
+  Дофінівки noun:f:v_rod
+Дохно noun:n:v_naz
+  Дохна noun:n:v_rod
+Доценківка noun:f:v_naz
+  Доценківки noun:f:v_rod
+Дошне noun:n:v_naz
+  Дошного noun:n:v_rod
+Доярня noun:f:v_naz
+  Доярні noun:f:v_rod
+Драбинівка noun:f:v_naz
+  Драбинівки noun:f:v_rod
+Драбівка noun:f:v_naz
+  Драбівки noun:f:v_rod
+Драбівці noun:p:v_naz:ns
+  Драбівців noun:p:v_rod:ns
+Драганівка noun:f:v_naz
+  Драганівки noun:f:v_rod
+Драгасимів noun:m:v_naz
+  Драгасимова noun:m:v_rod
+Драгиня noun:f:v_naz
+  Драгині noun:f:v_rod
+Драгівка noun:f:v_naz
+  Драгівки noun:f:v_rod
+Драгове noun:n:v_naz
+  Драгового noun:n:v_rod
+Драгоманівка noun:f:v_naz
+  Драгоманівки noun:f:v_rod
+Драгоманове noun:n:v_naz
+  Драгоманового noun:n:v_rod
+Драгомирчани noun:p:v_naz:ns
+  Драгомирчан noun:p:v_rod:ns
+Драни noun:p:v_naz:ns
+  Дранів noun:p:v_rod:ns
+Драниця noun:f:v_naz
+  Драниці noun:f:v_rod
+Драчинці noun:p:v_naz:ns
+  Драчинців noun:p:v_rod:ns
+Драчівщина noun:f:v_naz
+  Драчівщини noun:f:v_rod
+Древині noun:p:v_naz:ns
+  Древинів noun:p:v_rod:ns
+Дремове noun:n:v_naz
+  Дремового noun:n:v_rod
+Дреники noun:p:v_naz:ns
+  Дреників noun:p:v_rod:ns
+Дриглів noun:m:v_naz
+  Дриглева noun:m:v_rod
+Дрижина noun:f:v_naz
+  Дрижини noun:f:v_rod
+Дрімайлівка noun:f:v_naz
+  Дрімайлівки noun:f:v_rod
+Дробишів noun:m:v_naz
+  Дробишева noun:m:v_rod
+Дроговиж noun:m:v_naz
+  Дроговижа noun:m:v_rod
+Дрогомишль noun:m:v_naz
+  Дрогомишля noun:m:v_rod
+Дроздинь noun:f:v_naz
+  Дроздині noun:f:v_rod
+Дроздівка noun:f:v_naz
+  Дроздівки noun:f:v_rod
+Дроздні noun:p:v_naz:ns
+  Дрозднів noun:p:v_rod:ns
+Дроздовиця noun:f:v_naz
+  Дроздовиці noun:f:v_rod
+Дронівка noun:f:v_naz
+  Дронівки noun:f:v_rod
+Дрофине noun:n:v_naz
+  Дрофиного noun:n:v_rod
+Дроховичі noun:p:v_naz:ns
+  Дроховичів noun:p:v_rod:ns
+Дружбівка noun:f:v_naz
+  Дружбівки noun:f:v_rod
+Дружелюбівка noun:f:v_naz
+  Дружелюбівки noun:f:v_rod
+Друхів noun:m:v_naz
+  Друхова noun:m:v_rod
+Дрюківщина noun:f:v_naz
+  Дрюківщини noun:f:v_rod
+Дубаневичі noun:p:v_naz:ns
+  Дубаневичів noun:p:v_rod:ns
+Дубечне noun:n:v_naz
+  Дубечного noun:n:v_rod
+Дубечня noun:f:v_naz
+  Дубечні noun:f:v_rod
+Дубинове noun:n:v_naz
+  Дубинового noun:n:v_rod
+Дубичанське noun:n:v_naz
+  Дубичанського noun:n:v_rod
+Дубіївка noun:f:v_naz
+  Дубіївки noun:f:v_rod
+Дубмаслівка noun:f:v_naz
+  Дубмаслівки noun:f:v_rod
+Дубники noun:p:v_naz:ns
+  Дубників noun:p:v_rod:ns
+Дубняки noun:p:v_naz:ns
+  Дубняків noun:p:v_rod:ns
+Дубовець noun:m:v_naz
+  Дубовця noun:m:v_rod
+Дубовики noun:p:v_naz:ns
+  Дубовиків noun:p:v_rod:ns
+Дубовиця noun:f:v_naz
+  Дубовиці noun:f:v_rod
+Дубовичі noun:p:v_naz:ns
+  Дубовичів noun:p:v_rod:ns
+Дубовівка noun:f:v_naz
+  Дубовівки noun:f:v_rod
+Дубово-Василівка noun:f:v_naz
+  Дубово-Василівки noun:f:v_rod
+Дуболугівка noun:f:v_naz
+  Дуболугівки noun:f:v_rod
+Дубо-Осокорівка noun:f:v_naz
+  Дубо-Осокорівки noun:f:v_rod
+Дубравка noun:f:v_naz
+  Дубравки noun:f:v_rod
+Дубриничі noun:p:v_naz:ns
+  Дубриничів noun:p:v_rod:ns
+Дубрівка noun:f:v_naz
+  Дубрівки noun:f:v_rod
+Дубровине noun:n:v_naz
+  Дубровиного noun:n:v_rod
+Дубчиці noun:p:v_naz:ns
+  Дубчиців noun:p:v_rod:ns
+Дубшари noun:p:v_naz:ns
+  Дубшарів noun:p:v_rod:ns
+Дуб'яги noun:p:v_naz:ns
+  Дуб'ягів noun:p:v_rod:ns
+Дуб'янка noun:f:v_naz
+  Дуб'янки noun:f:v_rod
+Дуб'янщина noun:f:v_naz
+  Дуб'янщини noun:f:v_rod
+Дударків noun:m:v_naz
+  Дударкова noun:m:v_rod
+Дудин noun:m:v_naz
+  Дудина noun:m:v_rod
+Дудівка noun:f:v_naz
+  Дудівки noun:f:v_rod
+Дудкин noun:m:v_naz
+  Дудкина noun:m:v_rod
+Дудківка noun:f:v_naz
+  Дудківки noun:f:v_rod
+Дудникове noun:n:v_naz
+  Дудникового noun:n:v_rod
+Дудчани noun:p:v_naz:ns
+  Дудчан noun:p:v_rod:ns
+Дудченки noun:p:v_naz:ns
+  Дудченків noun:p:v_rod:ns
+Дудчине noun:n:v_naz
+  Дудчиного noun:n:v_rod
+Дукля noun:f:v_naz
+  Дуклі noun:f:v_rod
+Дуляби noun:p:v_naz:ns
+  Дулябів noun:p:v_rod:ns
+Думанів noun:m:v_naz
+  Думанова noun:m:v_rod
+Думанці noun:p:v_naz:ns
+  Думанців noun:p:v_rod:ns
+Думени noun:p:v_naz:ns
+  Думенів noun:p:v_rod:ns
+Думенки noun:p:v_naz:ns
+  Думенків noun:p:v_rod:ns
+Думинське noun:n:v_naz
+  Думинського noun:n:v_rod
+Думівка noun:f:v_naz
+  Думівки noun:f:v_rod
+Думниця noun:f:v_naz
+  Думниці noun:f:v_rod
+Дунаєць noun:m:v_naz
+  Дунайця noun:m:v_rod
+Дунаїв noun:m:v_naz
+  Дунаєва noun:m:v_rod
+Дунаївка noun:f:v_naz
+  Дунаївки noun:f:v_rod
+Дунайка noun:f:v_naz
+  Дунайки noun:f:v_rod
+Дунине noun:n:v_naz
+  Дуниного noun:n:v_rod
+Дунів noun:m:v_naz
+  Дунова noun:m:v_rod
+Дунковиця noun:f:v_naz
+  Дунковиці noun:f:v_rod
+Дуплинки noun:p:v_naz:ns
+  Дуплинків noun:p:v_rod:ns
+Дуплиська noun:f:v_naz
+  Дуплиськи noun:f:v_rod
+Дурбайли noun:p:v_naz:ns
+  Дурбайлів noun:p:v_rod:ns
+Дусанів noun:m:v_naz
+  Дусанова noun:m:v_rod
+Духанівка noun:f:v_naz
+  Духанівки noun:f:v_rod
+Духанки noun:p:v_naz:ns
+  Духанків noun:p:v_rod:ns
+Духовниче noun:n:v_naz
+  Духовничого noun:n:v_rod:np
+Духче noun:n:v_naz
+  Духчого noun:n:v_rod:np
+Дучинці noun:p:v_naz:ns
+  Дучинців noun:p:v_rod:ns
+Дюксин noun:m:v_naz
+  Дюксина noun:m:v_rod
+Дягова noun:f:v_naz
+  Дягової noun:f:v_rod
+Дядьковичі noun:p:v_naz:ns
+  Дядьковичів noun:p:v_rod:ns
+Дяківка noun:f:v_naz
+  Дяківки noun:f:v_rod
+Дяківці noun:p:v_naz:ns
+  Дяківців noun:p:v_rod:ns
+Дякове noun:n:v_naz
+  Дякового noun:n:v_rod
+Дятилівка noun:f:v_naz
+  Дятилівки noun:f:v_rod
+Дятлівка noun:f:v_naz
+  Дятлівки noun:f:v_rod
+Дячківка noun:f:v_naz
+  Дячківки noun:f:v_rod
+Євгенівка noun:f:v_naz
+  Євгенівки noun:f:v_rod
+Євдокіївка noun:f:v_naz
+  Євдокіївки noun:f:v_rod
+Євецько-Миколаївка noun:f:v_naz
+  Євецько-Миколаївки noun:f:v_rod
+Євминка noun:f:v_naz
+  Євминки noun:f:v_rod
+Євсуг noun:m:v_naz
+  Євсуга noun:m:v_rod
+Єгорине noun:n:v_naz
+  Єгориного noun:n:v_rod
+Єгорівка noun:f:v_naz
+  Єгорівки noun:f:v_rod
+Єлизаветівка noun:f:v_naz
+  Єлизаветівки noun:f:v_rod
+Єлизаветка noun:f:v_naz
+  Єлизаветки noun:f:v_rod
+Єлизаветове noun:n:v_naz
+  Єлизаветового noun:n:v_rod
+Єлизаветпілля noun:n:v_naz
+  Єлизаветпілля noun:n:v_rod
+Єлизаветпіль noun:m:v_naz
+  Єлизаветполя noun:m:v_rod
+Єлисеєнкове noun:n:v_naz
+  Єлисеєнкового noun:n:v_rod
+Єлисеївка noun:f:v_naz
+  Єлисеївки noun:f:v_rod
+Єлиховичі noun:p:v_naz:ns
+  Єлиховичів noun:p:v_rod:ns
+Єлівка noun:f:v_naz
+  Єлівки noun:f:v_rod
+Єлізарове noun:n:v_naz
+  Єлізарового noun:n:v_rod
+Єліне noun:n:v_naz
+  Єліного noun:n:v_rod
+Єльне noun:n:v_naz
+  Єльного noun:n:v_rod
+Ємадикине noun:n:v_naz
+  Ємадикиного noun:n:v_rod
+Ємелівка noun:f:v_naz
+  Ємелівки noun:f:v_rod
+Ємилівка noun:f:v_naz
+  Ємилівки noun:f:v_rod
+Ємцеве noun:n:v_naz
+  Ємцевого noun:n:v_rod
+Ємчиха noun:f:v_naz
+  Ємчихи noun:f:v_rod
+Єнківці noun:p:v_naz:ns
+  Єнківців noun:p:v_rod:ns
+Єньки noun:p:v_naz:ns
+  Єньків noun:p:v_rod:ns
+Єньків noun:m:v_naz
+  Єнькова noun:m:v_rod
+Єпіфанівка noun:f:v_naz
+  Єпіфанівки noun:f:v_rod
+Єреміївка noun:f:v_naz
+  Єреміївки noun:f:v_rod
+Єристівка noun:f:v_naz
+  Єристівки noun:f:v_rod
+Єрківці noun:p:v_naz:ns
+  Єрківців noun:p:v_rod:ns
+Єрмакове noun:n:v_naz
+  Єрмакового noun:n:v_rod
+Єрмолаївка noun:f:v_naz
+  Єрмолаївки noun:f:v_rod
+Єрмолівка noun:f:v_naz
+  Єрмолівки noun:f:v_rod
+Єрофєєве noun:n:v_naz
+  Єрофєєвого noun:n:v_rod
+Єрчики noun:p:v_naz:ns
+  Єрчиків noun:p:v_rod:ns
+Єрчиха noun:f:v_naz
+  Єрчихи noun:f:v_rod
+Єфремівка noun:f:v_naz
+  Єфремівки noun:f:v_rod
+Єфросинівка noun:f:v_naz
+  Єфросинівки noun:f:v_rod
