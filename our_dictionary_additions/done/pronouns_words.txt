@@ -1347,6 +1347,32 @@ cими cей adj:pron:dem:p:v_oru:rare
 одним один adj:pron:ind:p:v_dav
 одними один adj:pron:ind:p:v_oru
 
+один один adj:pron:def:s:m:v_naz/v_zna/v_kly:bad
+одного один adj:pron:def:s:m:v_rod/v_zna:bad
+одному один adj:pron:def:s:m:v_dav/v_mis:bad
+одним один adj:pron:def:s:m:v_oru:bad
+однім один adj:pron:def:s:m:v_mis:bad
+
+одна один adj:pron:def:s:f:v_naz/v_kly:bad
+одної один adj:pron:def:s:f:v_rod:bad
+однієї один adj:pron:def:s:f:v_rod:bad
+одній один adj:pron:def:s:f:v_dav/v_mis:bad
+одну один adj:pron:def:s:f:v_zna:bad
+одною один adj:pron:def:s:f:v_oru:bad
+однією один adj:pron:def:s:f:v_oru:bad
+
+одне один adj:pron:def:s:n:v_naz/v_zna/v_kly:bad
+одно один adj:pron:def:s:n:v_naz/v_zna/v_kly:bad
+одного один adj:pron:def:s:n:v_rod/v_zna:bad
+одному один adj:pron:def:s:n:v_dav/v_mis:bad
+одним один adj:pron:def:s:n:v_oru:bad
+однім один adj:pron:def:s:n:v_mis:bad
+
+одні один adj:pron:def:p:v_naz/v_zna/v_kly:bad
+одних один adj:pron:def:p:v_rod/v_zna/v_mis:bad
+одним один adj:pron:def:p:v_dav:bad
+одними один adj:pron:def:p:v_oru:bad
+
 #NOUN:PRON
 я я noun:pron:pers:1:np:v_naz/v_kly:rare
 мене я noun:pron:pers:1:np:v_rod/v_zna
