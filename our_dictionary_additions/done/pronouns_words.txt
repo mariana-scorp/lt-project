@@ -296,11 +296,11 @@
 //їхній/V - r2u маркує adj: додати теґ займенникового слова,  кличний відмінок
 їхній/V adj:pron:pos:s:m:v_naz/v_zna/v_kly:rare
 
-його його adj:pron:poss:s:m/n:v_naz/v_rod/v_dav/v_zna/v_oru/v_mis/v_kly:rare
+його його adj:pron:pos:s:m/n:v_naz/v_rod/v_dav/v_zna/v_oru/v_mis/v_kly:rare
 
-її її adj:pron:poss:s:f:v_naz/v_rod/v_dav/v_zna/v_oru/v_mis/v_kly:rare
+її її adj:pron:pos:s:f:v_naz/v_rod/v_dav/v_zna/v_oru/v_mis/v_kly:rare
 
-їх їх adj:pron:poss:p:v_naz:bad/v_rod:bad/v_dav:bad/v_zna:bad/v_oru:bad/v_mis:bad/v_kly:rare:bad
+їх їх adj:pron:pos:p:v_naz:bad/v_rod:bad/v_dav:bad/v_zna:bad/v_oru:bad/v_mis:bad/v_kly:rare:bad
 
 //казна-чий/V - r2u маркує adj і правильно генерує m:v_naz і m:v_zna: додати решта форм  і теґ займенникового слова,  кличний відмінок
 
@@ -332,56 +332,56 @@
 
 //кождий/V - r2u маркує adj: додати теґ займенникового слова,  кличний відмінок
 
-кождий кождий adj:pron:def:s:m:v_naz:rare/v_zna:rare/v_kly:rare
-кождого кождий adj:pron:def:s:m:v_rod:rare/v_zna:rare
-кождому кождий adj:pron:def:s:m:v_dav:rare/v_mis:rare
-кождим кождий adj:pron:def:s:m:v_oru:rare
-кождім кождий adj:pron:def:s:m:v_mis:rare
+кождий кождий adj:pron:gen:s:m:v_naz:rare/v_zna:rare/v_kly:rare
+кождого кождий adj:pron:gen:s:m:v_rod:rare/v_zna:rare
+кождому кождий adj:pron:gen:s:m:v_dav:rare/v_mis:rare
+кождим кождий adj:pron:gen:s:m:v_oru:rare
+кождім кождий adj:pron:gen:s:m:v_mis:rare
 
-кожда кождий adj:pron:def:s:f:v_naz:rare/v_kly:rare
-кождої кождий adj:pron:def:s:f:v_rod:rare
-кождій кождий adj:pron:def:s:f:v_dav:rare/v_mis:rare
-кожду кождий adj:pron:def:s:f:v_zna:rare
-кожною кождий adj:pron:def:s:f:v_oru:rare
+кожда кождий adj:pron:gen:s:f:v_naz:rare/v_kly:rare
+кождої кождий adj:pron:gen:s:f:v_rod:rare
+кождій кождий adj:pron:gen:s:f:v_dav:rare/v_mis:rare
+кожду кождий adj:pron:gen:s:f:v_zna:rare
+кожною кождий adj:pron:gen:s:f:v_oru:rare
 
-кожде кождий adj:pron:def:s:n:v_naz:rare/v_zna:rare/v_kly:rare
-кождого кождий adj:pron:def:s:n:v_rod:rare
-кождому кождий adj:pron:def:s:n:v_dav:rare/v_mis:rare
-кождим кождий adj:pron:def:s:n:v_oru:rare
-кождім кождий adj:pron:def:s:n:v_mis:rare
+кожде кождий adj:pron:gen:s:n:v_naz:rare/v_zna:rare/v_kly:rare
+кождого кождий adj:pron:gen:s:n:v_rod:rare
+кождому кождий adj:pron:gen:s:n:v_dav:rare/v_mis:rare
+кождим кождий adj:pron:gen:s:n:v_oru:rare
+кождім кождий adj:pron:gen:s:n:v_mis:rare
 
-кожді кождий adj:pron:def:p:v_naz:rare/v_zna:rare/v_kly:rare
-кождих кождий adj:pron:def:p:v_rod:rare/v_zna:rare/v_mis:rare
-кождим кождий adj:pron:def:p:v_dav:rare
-кождими кождий adj:pron:def:p:v_oru:rare
+кожді кождий adj:pron:gen:p:v_naz:rare/v_zna:rare/v_kly:rare
+кождих кождий adj:pron:gen:p:v_rod:rare/v_zna:rare/v_mis:rare
+кождим кождий adj:pron:gen:p:v_dav:rare
+кождими кождий adj:pron:gen:p:v_oru:rare
 
 //кожен/V - r2u маркує adj і генерує m:v_naz і m:v_zna: додати теґ займенникового слова,  кличний відмінок
 
-кожен кожний adj:pron:def:s:m:v_naz/v_zna/v_kly:rare
-кожного кожний adj:pron:def:s:m:v_rod/v_zna
-кожному кожний adj:pron:def:s:m:v_dav/v_mis
-кожним кожний adj:pron:def:s:m:v_oru
-кожнім кожний adj:pron:def:s:m:v_mis
+кожен кожний adj:pron:gen:s:m:v_naz/v_zna/v_kly:rare
+кожного кожний adj:pron:gen:s:m:v_rod/v_zna
+кожному кожний adj:pron:gen:s:m:v_dav/v_mis
+кожним кожний adj:pron:gen:s:m:v_oru
+кожнім кожний adj:pron:gen:s:m:v_mis
 
-кожна кожний adj:pron:def:s:f:v_naz/v_kly:rare
-кожної кожний adj:pron:def:s:f:v_rod
-кожній кожний adj:pron:def:s:f:v_dav/v_mis
-кожну кожний adj:pron:def:s:f:v_zna
-кожною кожний adj:pron:def:s:f:v_oru
+кожна кожний adj:pron:gen:s:f:v_naz/v_kly:rare
+кожної кожний adj:pron:gen:s:f:v_rod
+кожній кожний adj:pron:gen:s:f:v_dav/v_mis
+кожну кожний adj:pron:gen:s:f:v_zna
+кожною кожний adj:pron:gen:s:f:v_oru
 
-кожне кожний adj:pron:def:s:n:v_naz/v_zna/v_kly:rare
-кожного кожний adj:pron:def:s:n:v_rod
-кожному кожний adj:pron:def:s:n:v_dav/v_mis
-кожним кожний adj:pron:def:s:n:v_oru
-кожнім кожний adj:pron:def:s:n:v_mis
+кожне кожний adj:pron:gen:s:n:v_naz/v_zna/v_kly:rare
+кожного кожний adj:pron:gen:s:n:v_rod
+кожному кожний adj:pron:gen:s:n:v_dav/v_mis
+кожним кожний adj:pron:gen:s:n:v_oru
+кожнім кожний adj:pron:gen:s:n:v_mis
 
-кожні кожний adj:pron:def:p:v_naz/v_zna/v_kly:rare
-кожних кожний adj:pron:def:p:v_rod/v_zna/v_mis
-кожним кожний adj:pron:def:p:v_dav
-кожними кожний adj:pron:def:p:v_oru
+кожні кожний adj:pron:gen:p:v_naz/v_zna/v_kly:rare
+кожних кожний adj:pron:gen:p:v_rod/v_zna/v_mis
+кожним кожний adj:pron:gen:p:v_dav
+кожними кожний adj:pron:gen:p:v_oru
 
 //кожний/V - r2u маркує adj: додати теґ займенникового слова,  кличний відмінок
-кожний/V adj:pron:def:s:m:v_naz/v_zna/v_kly:rare
+кожний/V adj:pron:gen:s:m:v_naz/v_zna/v_kly:rare
 
 //котрий/V - r2u маркує adj: додати теґ займенникового слова,  кличний відмінок
 котрий/V adj:pron:int/rel/def:s:m:v_naz/v_zna/v_kly:rare
@@ -855,28 +855,28 @@ cими cей adj:pron:dem:p:v_oru:rare
 
 //такий-то/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ pron, кличний відмінок
 
-такий-то такий-то adj:pron:def:s:m:v_naz/v_zna/v_kly:rare
-такого-то такий-то adj:pron:def:s:m:v_rod/v_zna
-такому-то такий-то adj:pron:def:s:m:v_dav/v_mis
-таким-то такий-то adj:pron:def:s:m:v_oru
-такім-то такий-то adj:pron:def:s:m:v_mis
+такий-то такий-то adj:pron:dem:s:m:v_naz/v_zna/v_kly:rare
+такого-то такий-то adj:pron:dem:s:m:v_rod/v_zna
+такому-то такий-то adj:pron:dem:s:m:v_dav/v_mis
+таким-то такий-то adj:pron:dem:s:m:v_oru
+такім-то такий-то adj:pron:dem:s:m:v_mis
 
-така-то такий-то adj:pron:def:s:f:v_naz/v_kly:rare
-такої-то такий-то adj:pron:def:s:f:v_rod
-такій-то такий-то adj:pron:def:s:f:v_dav/v_mis
-таку-то такий-то adj:pron:def:s:f:v_zna
-такою-то такий-то adj:pron:def:s:f:v_oru
+така-то такий-то adj:pron:dem:s:f:v_naz/v_kly:rare
+такої-то такий-то adj:pron:dem:s:f:v_rod
+такій-то такий-то adj:pron:dem:s:f:v_dav/v_mis
+таку-то такий-то adj:pron:dem:s:f:v_zna
+такою-то такий-то adj:pron:dem:s:f:v_oru
 
-таке-то такий-то adj:pron:def:s:n:v_naz/v_zna/v_kly:rare
-такого-то такий-то adj:pron:def:s:n:v_rod
-такому-то такий-то adj:pron:def:s:n:v_dav/v_mis
-таким-то такий-то adj:pron:def:s:n:v_oru
-такім-то такий-то adj:pron:def:s:n:v_mis
+таке-то такий-то adj:pron:dem:s:n:v_naz/v_zna/v_kly:rare
+такого-то такий-то adj:pron:dem:s:n:v_rod
+такому-то такий-то adj:pron:dem:s:n:v_dav/v_mis
+таким-то такий-то adj:pron:dem:s:n:v_oru
+такім-то такий-то adj:pron:dem:s:n:v_mis
 
-такі-то такий-то adj:pron:def:p:v_naz/v_zna/v_kly:rare
-таких-то такий-то adj:pron:def:p:v_rod/v_zna/v_mis
-таким-то такий-то adj:pron:def:p:v_dav
-такими-то такий-то adj:pron:def:p:v_oru
+такі-то такий-то adj:pron:dem:p:v_naz/v_zna/v_kly:rare
+таких-то такий-то adj:pron:dem:p:v_rod/v_zna/v_mis
+таким-то такий-то adj:pron:dem:p:v_dav
+такими-то такий-то adj:pron:dem:p:v_oru
 
 //тамтой/V - r2u маркує adj і генерує тільки m:v_naz і m:v_zna: додати решта форм і теґ займенникового слова, кличний відмінок
 
@@ -919,7 +919,7 @@ cими cей adj:pron:dem:p:v_oru:rare
 твоє твій adj:pron:pos:s:n:v_naz/v_zna/v_kly
 твого твій adj:pron:pos:s:n:v_rod
 твоєму твій adj:pron:pos:s:n:v_dav/v_mis
-твоїм твій adj:pron:pos:n:s:v_oru/v_mis
+твоїм твій adj:pron:pos:s:n:v_oru/v_mis
 
 твої твій adj:pron:pos:p:v_naz/v_zna/v_kly
 твоїх твій adj:pron:pos:p:v_rod/v_zna/v_mis
