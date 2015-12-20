@@ -8,7 +8,7 @@
 <publ_place>Харків</publ_place>
 <publisher>Клуб Сімейного Дозвілля</publisher>
 <year>2013</year>
-<pages>78-81</pages>
+<pages>79-80</pages>
 <length>411</length>
 <alt_orth>0</alt_orth>
 <errors></errors>
