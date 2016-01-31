@@ -1,4 +1,4 @@
-﻿<id>C</id>
+﻿<id>G</id>
 <author_surname>Шимко</author_surname>
 <author_name>С.</author_name>
 <title>“Друге життя” моторних олив</title>
