@@ -1,17 +1,17 @@
 <id>A</id>
 <author_surname>Долженкова</author_surname>
 <author_name>Інна</author_name>
-<title>Новий_символ_Різдва_Дитяча_історія_з_Тіною_Кароль</title>
-<publ_in>MediaSapiens</publ_in>
+<title>Новий символ Різдва. Дитяча історія з Тіною Кароль</title>
+<publ_in></publ_in>
 <url>http://osvita.mediasapiens.ua/trends/mediacriticism/noviy_simvol_rizdva_dityacha_istoriya_z_tinoyu_karol/</url> 
 <publ_part></publ_part>
-<publ_place>Київ</publ_place>
+<publ_place></publ_place>
 <publisher></publisher>
 <year>2016</year> 
 <pages></pages> 
 <length>488</length>
 <alt_orth>0</alt_orth>
-<errors></errors>
+<errors>організованої співачкою - що її зорганізувала співачка; Вигадані і втілені українськими дизайнерами. - Їх вигадали й втілили українські дизайнери.</errors>
 <comments></comments>
 <body>
 <emphasis>«Різдвяна історія з Тіною Кароль» (виробництво «1+1 Продакшн»), без перебільшення, приголомшила.</emphasis>
