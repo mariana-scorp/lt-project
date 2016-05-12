@@ -1,4 +1,3 @@
-<<<<<<< HEAD:corpus/I_Denysenko_Kaleidoskop_chasu_2013.txt
 <id>I</id>
 <author_surname>Денисенко</author_surname>
 <author_name>Лариса</author_name>
